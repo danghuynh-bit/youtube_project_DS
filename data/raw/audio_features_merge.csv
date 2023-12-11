@@ -126,8 +126,6 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.449,0.585,5,-6.761,1,0.0268,0.0509,8.75e-05,0.0833,0.212,139.631,audio_features,6nek1Nin9q48AVZcWs9e9D,278719,4,Paradise,Coldplay,86
 0.671,0.954,9,-1.87,1,0.13,0.0244,0.0,0.111,0.556,104.114,audio_features,23WI5V2eD4EyGKxSl7Pyeq,247493,4,Andas En Mi Cabeza,Chino & Nacho,75
 0.671,0.954,9,-1.87,1,0.13,0.0244,0.0,0.111,0.556,104.114,audio_features,23WI5V2eD4EyGKxSl7Pyeq,247493,4,Andas En Mi Cabeza,Chino & Nacho,75
-0.449,0.585,5,-6.761,1,0.0268,0.0509,8.75e-05,0.0833,0.212,139.631,audio_features,6nek1Nin9q48AVZcWs9e9D,278719,4,Paradise,Coldplay,86
-0.449,0.585,5,-6.761,1,0.0268,0.0509,8.75e-05,0.0833,0.212,139.631,audio_features,6nek1Nin9q48AVZcWs9e9D,278719,4,Paradise,Coldplay,86
 0.604,0.787,0,-3.674,0,0.103,0.0679,0.15,0.127,0.301,126.062,audio_features,0TDLuuLlV54CkRRUOahJb4,245040,4,Titanium (feat. Sia),David Guetta,83
 0.908,0.669,7,-2.827,1,0.0738,0.00286,0.0,0.237,0.662,112.238,audio_features,7lQ8MOhq6IN2w8EYcFNSUk,290320,4,Without Me,Eminem,91
 0.931,0.485,9,-8.926,1,0.0973,0.607,0.0284,0.141,0.419,131.975,audio_features,6IHR2yfODpHj38M6IbUWAx,155454,4,Bum Bum Tam Tam,MC Fioti,52
@@ -138,14 +136,10 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.696,0.921,0,-3.755,1,0.0363,0.00314,5.24e-05,0.0842,0.714,119.001,audio_features,0SiywuOBRcynK0uKGWdCnn,294573,4,Bad Romance,Lady Gaga,84
 0.761,0.838,4,-3.073,0,0.0502,0.4,0.0,0.176,0.71,93.974,audio_features,3AEZUABDXNtecAOSC1qTfo,222560,4,Reggaetón Lento (Bailemos),CNCO,74
 0.696,0.817,1,-3.862,1,0.109,0.075,0.0,0.187,0.782,98.064,audio_features,6kex4EBAj0WHXDKZMEJaaF,216409,4,Swalla (feat. Nicki Minaj & Ty Dolla $ign),Jason Derulo,76
-0.696,0.921,0,-3.755,1,0.0363,0.00314,5.24e-05,0.0842,0.714,119.001,audio_features,0SiywuOBRcynK0uKGWdCnn,294573,4,Bad Romance,Lady Gaga,84
-0.696,0.921,0,-3.755,1,0.0363,0.00314,5.24e-05,0.0842,0.714,119.001,audio_features,0SiywuOBRcynK0uKGWdCnn,294573,4,Bad Romance,Lady Gaga,84
 0.815,0.834,4,-2.828,0,0.0475,0.0327,0.000268,0.27,0.692,129.989,audio_features,4uOBL4DDWWVx4RhYKlPbPC,161240,4,Queencard,(G)I-DLE,83
 0.815,0.834,4,-2.828,0,0.0475,0.0327,0.000268,0.27,0.692,129.989,audio_features,4uOBL4DDWWVx4RhYKlPbPC,161240,4,Queencard,(G)I-DLE,83
 0.739,0.821,1,-4.233,1,0.0852,0.222,9.6e-06,0.311,0.693,171.077,audio_features,1m69ELEgE6k5ZWsap40ozt,188080,4,Se Preparó,Ozuna,80
 0.645,0.862,11,-4.761,0,0.0845,0.0933,0.0,0.193,0.803,119.947,audio_features,4a9tbd947vo9K8Vti9JwcI,229773,4,Boy With Luv (feat. Halsey),BTS,78
-0.815,0.834,4,-2.828,0,0.0475,0.0327,0.000268,0.27,0.692,129.989,audio_features,4uOBL4DDWWVx4RhYKlPbPC,161240,4,Queencard,(G)I-DLE,83
-0.815,0.834,4,-2.828,0,0.0475,0.0327,0.000268,0.27,0.692,129.989,audio_features,4uOBL4DDWWVx4RhYKlPbPC,161240,4,Queencard,(G)I-DLE,83
 0.609,0.378,4,-9.828,1,0.438,0.835,0.0,0.28,0.515,100.418,audio_features,50kpGaPAhYJ3sGmk6vplg0,233720,4,Love Yourself,Justin Bieber,86
 0.899,0.626,6,-4.228,0,0.292,0.076,0.0,0.0631,0.873,88.007,audio_features,7gcMKL3lnDxsp4bIXyv6Zk,234320,4,Shaky Shaky,Daddy Yankee,65
 0.675,0.868,1,-6.36,1,0.0392,0.00107,0.715,0.374,0.0376,128.007,audio_features,0A9mHc7oYUoCECqByV8cQR,304229,4,Animals,Martin Garrix,70
@@ -192,9 +186,6 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.599,0.775,1,-3.997,0,0.0542,0.022,0.0,0.0669,0.703,129.817,audio_features,2ngmiq1KoYn3x25VOmvd8F,223123,4,DNA,BTS,66
 0.616,0.989,9,-1.698,0,0.0483,0.166,0.0,0.172,0.902,95.036,audio_features,0OMRAvrtLWE2TvcXorRiB9,203160,4,La Gozadera (feat. Marc Anthony),Gente De Zona,75
 0.616,0.989,9,-1.698,0,0.0483,0.166,0.0,0.172,0.902,95.036,audio_features,0OMRAvrtLWE2TvcXorRiB9,203160,4,La Gozadera (feat. Marc Anthony),Gente De Zona,75
-0.813,0.787,11,-4.254,1,0.0777,0.0452,0.000107,0.0506,0.326,130.018,audio_features,6bvZRLLkBKkmgpBJTTj3QK,180956,4,How You Like That,BLACKPINK,82
-0.813,0.787,11,-4.254,1,0.0777,0.0452,0.000107,0.0506,0.326,130.018,audio_features,6bvZRLLkBKkmgpBJTTj3QK,180956,4,How You Like That,BLACKPINK,82
-0.813,0.787,11,-4.254,1,0.0777,0.0452,0.000107,0.0506,0.326,130.018,audio_features,6bvZRLLkBKkmgpBJTTj3QK,180956,4,How You Like That,BLACKPINK,82
 0.523,0.674,8,-4.832,0,0.0328,0.771,0.0,0.139,0.239,114.058,audio_features,0JChw6k59cZxegh0SGceE1,342024,4,Zaroori Tha,Rahat Fateh Ali Khan,68
 0.55,0.581,2,-5.94,1,0.0342,0.645,0.0,0.756,0.257,133.924,audio_features,3xrpI0GqWNMjMDOdXUOnK3,197800,4,Lo Aprendí de Ti - HA-ASH Primera Fila - Hecho Realidad [En Vivo],Ha*Ash,75
 0.687,0.745,6,-4.432,1,0.0379,0.178,1.59e-05,0.111,0.435,129.966,audio_features,1GEBsLDvJGw7kviySRI6GX,232120,4,You Belong With Me,Taylor Swift,76
@@ -265,9 +256,6 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.417,0.934,7,-3.908,0,0.119,0.000278,0.0015,0.132,0.287,127.066,audio_features,2DlHlPMa4M17kufBvI2lEN,210240,4,Chop Suey!,System Of A Down,86
 0.417,0.934,7,-3.908,0,0.119,0.000278,0.0015,0.132,0.287,127.066,audio_features,2DlHlPMa4M17kufBvI2lEN,210240,4,Chop Suey!,System Of A Down,86
 0.417,0.934,7,-3.908,0,0.119,0.000278,0.0015,0.132,0.287,127.066,audio_features,2DlHlPMa4M17kufBvI2lEN,210240,4,Chop Suey!,System Of A Down,86
-0.628,0.69,8,-5.83,1,0.0511,0.443,0.0,0.113,0.66,179.908,audio_features,7qCAVkHWZkF44OzOUKf8Cr,205907,4,El Perdón (with Enrique Iglesias),Nicky Jam,76
-0.628,0.69,8,-5.83,1,0.0511,0.443,0.0,0.113,0.66,179.908,audio_features,7qCAVkHWZkF44OzOUKf8Cr,205907,4,El Perdón (with Enrique Iglesias),Nicky Jam,76
-0.628,0.69,8,-5.83,1,0.0511,0.443,0.0,0.113,0.66,179.908,audio_features,7qCAVkHWZkF44OzOUKf8Cr,205907,4,El Perdón (with Enrique Iglesias),Nicky Jam,76
 0.553,0.362,4,-11.218,0,0.0263,0.0458,6.01e-06,0.075,0.158,142.352,audio_features,0nLiqZ6A27jJri2VCalIUs,388267,3,Nothing Else Matters,Metallica,82
 0.841,0.522,10,-5.963,0,0.049,0.0168,1.37e-06,0.188,0.616,99.059,audio_features,5BrTUo0xP1wKXLJWUaGFtk,264947,4,Loyal (feat. Lil Wayne & Tyga),Chris Brown,77
 0.8,0.795,6,-5.835,1,0.0626,0.131,9.02e-05,0.221,0.528,106.031,audio_features,4rHmKlFRiFzabiVO6e9w2e,227813,4,Bon Appétit,Katy Perry,67
@@ -295,18 +283,9 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.863,0.666,1,-4.158,0,0.152,0.212,0.000493,0.103,0.838,163.908,audio_features,7vrJn5hDSXRmdXoR30KgF1,178947,4,BICHOTA,KAROL G,74
 0.432,0.781,4,-4.038,0,0.0567,0.041,4.21e-06,0.0789,0.197,139.432,audio_features,66hayvUbTotekKU3H4ta1f,250286,4,Where Are Ü Now (with Justin Bieber),Jack Ü,76
 0.767,0.709,1,-4.47,1,0.336,0.323,0.0,0.0676,0.72,171.993,audio_features,6FyRXC8tJUh863JCkyWqtk,258639,4,Adan y Eva,Paulo Londra,69
-0.928,0.892,9,-7.782,0,0.0388,0.0527,1.47e-05,0.0911,0.989,128.075,audio_features,6nFYXpBgrNcZjbtNEuc6yR,192227,4,I Am Your Gummy Bear (The Gummy Bear Song),Gummibär,63
-0.928,0.892,9,-7.782,0,0.0388,0.0527,1.47e-05,0.0911,0.989,128.075,audio_features,6nFYXpBgrNcZjbtNEuc6yR,192227,4,I Am Your Gummy Bear (The Gummy Bear Song),Gummibär,63
-0.928,0.892,9,-7.782,0,0.0388,0.0527,1.47e-05,0.0911,0.989,128.075,audio_features,6nFYXpBgrNcZjbtNEuc6yR,192227,4,I Am Your Gummy Bear (The Gummy Bear Song),Gummibär,63
-0.928,0.892,9,-7.782,0,0.0388,0.0527,1.47e-05,0.0911,0.989,128.075,audio_features,6nFYXpBgrNcZjbtNEuc6yR,192227,4,I Am Your Gummy Bear (The Gummy Bear Song),Gummibär,63
-0.813,0.787,11,-4.254,1,0.0777,0.0452,0.000107,0.0506,0.326,130.018,audio_features,6bvZRLLkBKkmgpBJTTj3QK,180956,4,How You Like That,BLACKPINK,82
-0.813,0.787,11,-4.254,1,0.0777,0.0452,0.000107,0.0506,0.326,130.018,audio_features,6bvZRLLkBKkmgpBJTTj3QK,180956,4,How You Like That,BLACKPINK,82
-0.813,0.787,11,-4.254,1,0.0777,0.0452,0.000107,0.0506,0.326,130.018,audio_features,6bvZRLLkBKkmgpBJTTj3QK,180956,4,How You Like That,BLACKPINK,82
 0.557,0.719,2,-4.515,0,0.0371,0.00267,0.0,0.306,0.345,77.502,audio_features,6m1TWFMeon7ai9XLOzdbiR,242334,4,FAKE LOVE,BTS,77
 0.926,0.666,11,-5.314,1,0.244,0.0611,0.0,0.123,0.168,127.079,audio_features,0M9ydKzuF3oZTfYYPfaGX1,343150,4,Bad and Boujee (feat. Lil Uzi Vert),Migos,76
 0.851,0.806,4,-4.62,1,0.0787,0.118,1.64e-06,0.121,0.787,118.999,audio_features,1QV6tiMFM6fSOKOGLMHYYg,237200,4,Poker Face,Lady Gaga,83
-0.772,0.65,6,-5.202,0,0.0306,0.107,1.13e-06,0.0905,0.262,125.083,audio_features,3wPPWcVuinAU7dXcJXtCID,222200,4,La La La,Naughty Boy,77
-0.772,0.65,6,-5.202,0,0.0306,0.107,1.13e-06,0.0905,0.262,125.083,audio_features,3wPPWcVuinAU7dXcJXtCID,222200,4,La La La,Naughty Boy,77
 0.772,0.65,6,-5.202,0,0.0306,0.107,1.13e-06,0.0905,0.262,125.083,audio_features,3wPPWcVuinAU7dXcJXtCID,222200,4,La La La,Naughty Boy,77
 0.772,0.65,6,-5.202,0,0.0306,0.107,1.13e-06,0.0905,0.262,125.083,audio_features,3wPPWcVuinAU7dXcJXtCID,222200,4,La La La,Naughty Boy,77
 0.316,0.659,0,-6.785,1,0.0666,0.434,0.0,0.109,0.265,140.594,audio_features,689P4hWre0OnX7ZtgjKk6w,500407,3,Simba Ramwari,Zimpraise,20
@@ -358,8 +337,6 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.626,0.88,9,-2.384,0,0.0504,0.205,0.0,0.128,0.534,95.079,audio_features,08bNPGLD8AhKpnnERrAc6G,202621,4,FRIENDS,Marshmello,80
 0.626,0.88,9,-2.384,0,0.0504,0.205,0.0,0.128,0.534,95.079,audio_features,08bNPGLD8AhKpnnERrAc6G,202621,4,FRIENDS,Marshmello,80
 0.694,0.77,6,-5.335,1,0.149,0.176,1.1e-05,0.118,0.163,125.905,audio_features,0E9ZjEAyAwOXZ7wJC0PD33,184560,4,In My Mind,Dynoro,81
-0.662,0.757,5,-6.818,0,0.144,0.291,0.0,0.0885,0.962,159.945,audio_features,1X9NVfPMpopapXyLoZrSCD,233293,4,"Happy - From ""Despicable Me 2""",Pharrell Williams,13
-0.662,0.757,5,-6.818,0,0.144,0.291,0.0,0.0885,0.962,159.945,audio_features,1X9NVfPMpopapXyLoZrSCD,233293,4,"Happy - From ""Despicable Me 2""",Pharrell Williams,13
 0.579,0.736,6,-3.863,0,0.0527,0.31,0.0,0.198,0.613,127.999,audio_features,2P4OICZRVAQcYAV2JReRfj,230613,4,Waiting For Love,Avicii,83
 0.689,0.675,0,-4.281,1,0.32,0.531,3.17e-06,0.115,0.604,180.065,audio_features,456xBIOmLRoLzCvCzZrWge,205600,4,Safari,J Balvin,72
 0.585,0.52,5,-6.136,0,0.0712,0.124,7.01e-05,0.131,0.129,159.801,audio_features,0e7ipj03S05BNilyu5bRzt,218147,4,rockstar (feat. 21 Savage),Post Malone,85
@@ -372,8 +349,6 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.671,0.672,0,-3.094,0,0.0688,0.0329,0.0,0.118,0.632,97.979,audio_features,1OAh8uOEOvTDqkKFsKksCi,204173,4,Wild Thoughts (feat. Rihanna & Bryson Tiller),DJ Khaled,78
 0.532,0.887,0,-3.757,1,0.0335,0.0778,0.000214,0.294,0.795,122.511,audio_features,37ZJ0p5Jm13JPevGcx4SkF,249293,4,Livin' On A Prayer,Bon Jovi,87
 0.787,0.791,1,-5.607,1,0.0599,0.146,0.0,0.106,0.887,93.995,audio_features,2t7LjWmKWJV1X59zYaCsvy,195370,4,Travesuras,Nicky Jam,68
-0.649,0.716,8,-5.371,1,0.0349,0.0863,2.63e-05,0.135,0.163,99.988,audio_features,0lYBSQXN6rCTvUZvg9S0lU,205947,4,Let Me Love You,DJ Snake,86
-0.649,0.716,8,-5.371,1,0.0349,0.0863,2.63e-05,0.135,0.163,99.988,audio_features,0lYBSQXN6rCTvUZvg9S0lU,205947,4,Let Me Love You,DJ Snake,86
 0.592,0.767,9,-2.788,0,0.027,0.0021,0.00165,0.127,0.328,96.483,audio_features,48UPSzbZjgc449aqz8bxox,329733,4,Californication,Red Hot Chili Peppers,86
 0.646,0.258,9,-11.087,0,0.0323,0.89,0.0,0.114,0.132,111.738,audio_features,6EgyhIl0800Q6rC2SR3sma,239078,4,Stay (Made Popular By Rihanna ft. Mikky Ekko) [Vocal Version],Party Tyme Karaoke,8
 0.926,0.703,11,-6.337,0,0.103,0.0659,0.0,0.231,0.485,125.022,audio_features,6KBYefIoo7KydImq1uUQlL,223713,4,Bodak Yellow,Cardi B,74
@@ -393,16 +368,12 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.734,0.836,10,-4.803,0,0.0735,0.017,1.64e-05,0.179,0.623,80.002,audio_features,3jbT1Y5MoPwEIpZndDDwVq,270741,4,Adicto (with Anuel AA & Ozuna),Tainy,77
 0.827,0.78,9,-7.441,1,0.208,0.565,0.0,0.433,0.811,121.974,audio_features,2KophQ9JDxME5EjPfalmdW,187466,4,El Baile del Gorila,CantaJuego,37
 0.671,0.939,8,-3.206,1,0.161,0.191,0.0,0.298,0.53,129.024,audio_features,4QNpBfC0zvjKqPJcyqBy9W,252307,4,"Give Me Everything (feat. Ne-Yo, Afrojack & Nayer)",Pitbull,85
-0.765,0.523,2,-4.333,1,0.03,0.184,3.56e-05,0.132,0.394,104.988,audio_features,1rfofaqEpACxVEHIZBJe6W,217307,4,Havana (feat. Young Thug),Camila Cabello,81
-0.765,0.523,2,-4.333,1,0.03,0.184,3.56e-05,0.132,0.394,104.988,audio_features,1rfofaqEpACxVEHIZBJe6W,217307,4,Havana (feat. Young Thug),Camila Cabello,81
 0.736,0.677,4,-7.036,0,0.0352,0.00114,0.844,0.0949,0.0747,121.01,audio_features,5JCi3pyggvk4B0yd0BK3ow,258387,4,Stay High - Habits Remix,Tove Lo,68
 0.602,0.843,0,-4.831,1,0.0593,0.000688,5.27e-05,0.0682,0.526,128.003,audio_features,190jyVPHYjAqEaOGmMzdyk,227987,4,Beauty And A Beat,Justin Bieber,81
 0.614,0.972,5,-3.927,0,0.088,0.00125,0.0186,0.328,0.411,127.966,audio_features,6PtXobrqImYfnpIxNsJApa,170625,4,Bad (feat. Vassy) - Radio Edit,David Guetta,66
 0.754,0.805,6,-4.249,1,0.0752,0.315,0.0,0.203,0.555,93.982,audio_features,48zFZh27QU5qsrBjn4C2FA,176133,4,Vaina Loca,Ozuna,78
 0.754,0.805,6,-4.249,1,0.0752,0.315,0.0,0.203,0.555,93.982,audio_features,48zFZh27QU5qsrBjn4C2FA,176133,4,Vaina Loca,Ozuna,78
 0.654,0.628,6,-5.701,1,0.114,0.0869,4.32e-06,0.133,0.649,137.975,audio_features,1wLhfXinZFqIEiyqd0JVAk,173165,4,Dernière Danse (TikTok Sped Up) - Remix,Music Factory,59
-0.754,0.805,6,-4.249,1,0.0752,0.315,0.0,0.203,0.555,93.982,audio_features,48zFZh27QU5qsrBjn4C2FA,176133,4,Vaina Loca,Ozuna,78
-0.754,0.805,6,-4.249,1,0.0752,0.315,0.0,0.203,0.555,93.982,audio_features,48zFZh27QU5qsrBjn4C2FA,176133,4,Vaina Loca,Ozuna,78
 0.452,0.524,0,-10.108,1,0.0351,0.315,0.0,0.103,0.246,151.505,audio_features,3ovjw5HZZv43SxTwApooCM,312360,4,Wind Of Change,Scorpions,81
 0.721,0.716,10,-7.037,0,0.0657,0.0334,0.00084,0.237,0.667,104.994,audio_features,6cy3ki60hLwimwIje7tALf,221714,4,RITMO (Bad Boys For Life),Black Eyed Peas,73
 0.777,0.782,0,-4.435,0,0.0907,0.0505,0.0,0.64,0.773,94.023,audio_features,4ggiDYAkJ7Yk8d5xOr7Xjo,221653,4,Me Niego (feat. Ozuna & Wisin),Reik,74
@@ -422,11 +393,6 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.608,0.798,6,-5.092,0,0.0432,0.0736,0.0,0.156,0.501,92.943,audio_features,5x9uAWpQ0qj8V61xckw6TV,185352,4,Cold Water (feat. Justin Bieber & MØ),Major Lazer,61
 0.608,0.798,6,-5.092,0,0.0432,0.0736,0.0,0.156,0.501,92.943,audio_features,5x9uAWpQ0qj8V61xckw6TV,185352,4,Cold Water (feat. Justin Bieber & MØ),Major Lazer,61
 0.73,0.703,0,-5.672,0,0.0369,0.109,0.0,0.0657,0.595,138.113,audio_features,2K87XMYnUMqLcX3zvtAF4G,192120,4,Drag Me Down,One Direction,81
-0.645,0.821,11,-3.679,1,0.213,0.0492,0.0,0.193,0.844,179.968,audio_features,2DAULesb1U4Qz4FSTZpEUJ,250837,4,Por Fin Te Encontré,Cali Y El Dandee,73
-0.645,0.821,11,-3.679,1,0.213,0.0492,0.0,0.193,0.844,179.968,audio_features,2DAULesb1U4Qz4FSTZpEUJ,250837,4,Por Fin Te Encontré,Cali Y El Dandee,73
-0.608,0.798,6,-5.092,0,0.0432,0.0736,0.0,0.156,0.501,92.943,audio_features,5x9uAWpQ0qj8V61xckw6TV,185352,4,Cold Water (feat. Justin Bieber & MØ),Major Lazer,61
-0.608,0.798,6,-5.092,0,0.0432,0.0736,0.0,0.156,0.501,92.943,audio_features,5x9uAWpQ0qj8V61xckw6TV,185352,4,Cold Water (feat. Justin Bieber & MØ),Major Lazer,61
-0.608,0.798,6,-5.092,0,0.0432,0.0736,0.0,0.156,0.501,92.943,audio_features,5x9uAWpQ0qj8V61xckw6TV,185352,4,Cold Water (feat. Justin Bieber & MØ),Major Lazer,61
 0.766,0.788,6,-3.128,0,0.312,0.105,5.81e-06,0.142,0.609,179.984,audio_features,0GzuHFG4Ql6DoyxFRnIk3F,200482,4,Hawái - Remix,Maluma,69
 0.726,0.698,5,-4.165,1,0.0431,0.049,0.0,0.309,0.867,143.994,audio_features,3w3y8KPTfNeOKPiqUTakBh,233478,4,Locked out of Heaven,Bruno Mars,91
 0.472,0.671,4,-4.649,1,0.029,0.0129,0.0,0.159,0.0681,82.952,audio_features,77loZpT5Y5PRP1S451P9Yz,232800,4,The Reason,Hoobastank,83
@@ -440,8 +406,6 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.431,0.723,8,-5.887,1,0.0568,0.145,0.0,0.374,0.19,130.141,audio_features,7wuJGgpTNzbUyn26IOY6rj,267360,4,Total Eclipse of the Heart,Bonnie Tyler,82
 0.634,0.526,5,-7.881,0,0.0333,0.339,0.0,0.257,0.623,90.087,audio_features,4v7DCN09hgXkKazefkznDQ,235800,4,Lonely,Akon,81
 0.623,0.734,9,-5.95,1,0.107,0.0162,1.9e-06,0.145,0.372,107.853,audio_features,76FZM38RC8XaAjJ77CVTNe,244453,4,Into You,Ariana Grande,81
-0.626,0.88,9,-2.384,0,0.0504,0.205,0.0,0.128,0.534,95.079,audio_features,08bNPGLD8AhKpnnERrAc6G,202621,4,FRIENDS,Marshmello,80
-0.626,0.88,9,-2.384,0,0.0504,0.205,0.0,0.128,0.534,95.079,audio_features,08bNPGLD8AhKpnnERrAc6G,202621,4,FRIENDS,Marshmello,80
 0.417,0.715,3,-5.448,1,0.0504,0.424,0.0,0.952,0.188,137.704,audio_features,15Hx1oi6C3AxYhhvolqrJG,226987,4,"Perdón, Perdón - HA-ASH Primera Fila - Hecho Realidad [En Vivo]",Ha*Ash,73
 0.646,0.865,6,-4.215,1,0.0983,0.269,4.16e-06,0.11,0.762,191.954,audio_features,4l3xGFwoTinvYxsePytOOf,217093,4,Báilame - Remix,Nacho,71
 0.646,0.865,6,-4.215,1,0.0983,0.269,4.16e-06,0.11,0.762,191.954,audio_features,4l3xGFwoTinvYxsePytOOf,217093,4,Báilame - Remix,Nacho,71
@@ -495,8 +459,6 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.534,0.481,0,-9.016,0,0.0412,0.697,0.0,0.142,0.293,124.914,audio_features,5O932cZmzOZGOGZz9RHx20,280282,4,Khairiyat,Pritam,76
 0.791,0.761,1,-4.414,1,0.06,0.558,0.0,0.107,0.449,100.031,audio_features,68iBMrMRc1rg4eAxJbvxch,205975,4,Leja Re,Tanishk Bagchi,65
 0.678,0.918,5,-4.63,1,0.0355,0.000417,0.0,0.0744,0.769,130.028,audio_features,1nZzRJbFvCEct3uzu04ZoL,216160,4,Part Of Me,Katy Perry,77
-0.592,0.8,6,-4.931,0,0.215,0.0561,2.01e-06,0.0775,0.728,89.972,audio_features,378iszndTZAR4dH8kwsLC6,224813,4,Cheap Thrills (feat. Sean Paul),Sia,75
-0.592,0.8,6,-4.931,0,0.215,0.0561,2.01e-06,0.0775,0.728,89.972,audio_features,378iszndTZAR4dH8kwsLC6,224813,4,Cheap Thrills (feat. Sean Paul),Sia,75
 0.759,0.921,8,-3.415,1,0.265,0.276,2.83e-06,0.363,0.785,72.507,audio_features,27Qf4eifmRvzAJpwQAvcRQ,184032,4,Hello Koun,Ritesh Pandey,44
 0.442,0.585,0,-10.332,0,0.0964,0.0984,0.391,0.14,0.116,97.565,audio_features,4T3fNx3CgwDRRYgmFCbD4J,229413,4,Better,Khalid,69
 0.609,0.935,0,-7.839,1,0.0609,0.403,9.17e-05,0.311,0.917,81.03,audio_features,5thheALMKZqEl479BxqAnL,271000,4,Dil Laga Liya Maine,Alka Yagnik,61
@@ -507,14 +469,10 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.652,0.698,10,-4.667,0,0.042,0.00112,0.000115,0.0886,0.47,96.021,audio_features,3E7dfMvvCLUddWissuqMwr,202067,4,Party In The U.S.A.,Miley Cyrus,84
 0.584,0.885,0,-3.571,0,0.104,0.0244,0.0,0.357,0.605,92.9,audio_features,2u54HNQamwFuOMLSuhSRom,217052,4,Blood Sweat & Tears,BTS,74
 0.794,0.632,0,-6.163,1,0.0649,0.142,0.0,0.128,0.355,145.926,audio_features,6fujklziTHa8uoM5OQSfIo,291893,4,Black Beatles,Rae Sremmurd,77
-0.367,0.34,9,-7.877,1,0.0306,0.755,1.56e-05,0.0868,0.0704,149.788,audio_features,3PYdxIDuBIuJSDGwfptFx4,273360,4,My Immortal - Band Version,Evanescence,62
-0.367,0.34,9,-7.877,1,0.0306,0.755,1.56e-05,0.0868,0.0704,149.788,audio_features,3PYdxIDuBIuJSDGwfptFx4,273360,4,My Immortal - Band Version,Evanescence,62
 0.322,0.28,6,-9.367,0,0.0281,0.468,1.1e-06,0.102,0.175,85.794,audio_features,1Cj2vqUwlJVG27gJrun92y,248467,4,The Sound of Silence,Disturbed,73
 0.322,0.28,6,-9.367,0,0.0281,0.468,1.1e-06,0.102,0.175,85.794,audio_features,1Cj2vqUwlJVG27gJrun92y,248467,4,The Sound of Silence,Disturbed,73
 0.872,0.872,1,-6.328,1,0.139,0.0476,0.00112,0.0543,0.809,116.948,audio_features,2aI21FnmY7TJVKeMaoQZ0t,223080,4,Say It Right,Nelly Furtado,83
 0.76,0.658,7,-5.275,1,0.275,0.162,0.0,0.195,0.565,100.202,audio_features,6yrGrG2VyvnERbBB8vxwrF,157944,4,"Agua - Music From ""Sponge On The Run"" Movie",Tainy,1
-0.322,0.28,6,-9.367,0,0.0281,0.468,1.1e-06,0.102,0.175,85.794,audio_features,1Cj2vqUwlJVG27gJrun92y,248467,4,The Sound of Silence,Disturbed,73
-0.322,0.28,6,-9.367,0,0.0281,0.468,1.1e-06,0.102,0.175,85.794,audio_features,1Cj2vqUwlJVG27gJrun92y,248467,4,The Sound of Silence,Disturbed,73
 0.817,0.599,0,-9.249,0,0.0328,0.132,0.000311,0.0873,0.548,108.873,audio_features,2KH16WveTQWT6KOG9Rg6e2,245640,4,Eye of the Tiger,Survivor,78
 0.773,0.859,11,-4.913,1,0.0747,0.0855,0.000187,0.914,0.813,118.459,audio_features,3S2R0EVwBSAVMd5UMgKTL0,357267,4,Thriller,Michael Jackson,76
 0.574,0.992,11,-4.163,1,0.0555,0.244,0.326,0.131,0.687,128.004,audio_features,7LNIyMwN7qROEgzJY00FkN,379514,4,Don't You Worry Child - Tom Staar & Kryder Remix,Swedish House Mafia,27
@@ -533,20 +491,14 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.826,0.553,1,-10.121,0,0.234,0.163,4.12e-05,0.135,0.4,140.037,audio_features,45OX2jjEw1l7lOFJfDP9fv,168228,4,MONEY,LISA,85
 0.47,0.904,0,-4.024,0,0.177,0.0436,0.0,0.0491,0.557,155.788,audio_features,1Bx0zEdVjkFlV27iKaePug,267000,4,Man Down,Rihanna,72
 0.515,0.43,7,-9.935,1,0.0372,0.0097,0.000133,0.129,0.104,91.844,audio_features,70LcF31zb1H0PyJoS1Sx1r,238640,4,Creep,Radiohead,89
-0.851,0.541,0,-6.825,1,0.0505,0.568,0.0,0.13,0.448,124.959,audio_features,7fa9MBXhVfQ8P8Df9OEbD8,235545,4,Girls Like You (feat. Cardi B) - Cardi B Version,Maroon 5,75
-0.851,0.541,0,-6.825,1,0.0505,0.568,0.0,0.13,0.448,124.959,audio_features,7fa9MBXhVfQ8P8Df9OEbD8,235545,4,Girls Like You (feat. Cardi B) - Cardi B Version,Maroon 5,75
 0.716,0.972,7,-2.302,1,0.196,0.0145,3.22e-05,0.317,0.576,110.026,audio_features,6VRhkROS2SZHGlp0pxndbJ,215253,4,Bangarang (feat. Sirah),Skrillex,72
 0.592,0.935,6,-4.317,0,0.0581,0.00879,0.0154,0.132,0.567,125.013,audio_features,1PCvKFPWnTXAe2oaReVUcr,222520,4,We Are One (Ole Ola) [The Official 2014 FIFA World Cup Song] (feat. Jennifer Lopez & Claudia Leitte),Pitbull,73
 0.789,0.716,11,-4.241,0,0.0432,0.129,1.07e-05,0.069,0.611,125.906,audio_features,0AH6WMe3OlAlUb5miXt2FQ,235493,4,Only Girl (In The World),Rihanna,74
-0.825,0.652,1,-3.183,0,0.0802,0.581,0.0,0.0931,0.931,95.977,audio_features,7qiZfU4dY1lWllzX7mPBI3,233713,4,Shape of You,Ed Sheeran,88
-0.825,0.652,1,-3.183,0,0.0802,0.581,0.0,0.0931,0.931,95.977,audio_features,7qiZfU4dY1lWllzX7mPBI3,233713,4,Shape of You,Ed Sheeran,88
 0.653,0.942,2,-4.622,1,0.0475,0.181,0.0,0.0781,0.964,175.053,audio_features,7paWew9ZSUYCJWRcSroX0n,167592,4,Trem da Alegria,Yasmin Verissimo,31
 0.706,0.908,5,-5.848,1,0.135,0.127,0.0,0.105,0.571,124.966,audio_features,2BpKEiK4WSZ6pIV5IAp9Yp,232411,4,"Adrenalina (In The Style Of Wisin, Jennifer Lopez & Ricky Martin) - Tribute Version",Brava HitMakers,3
 0.461,0.593,1,-4.954,1,0.0356,0.17,0.0,0.307,0.175,134.17,audio_features,09mEdoA6zrmBPgTEN5qXmN,228373,3,Call Out My Name,The Weeknd,88
 0.527,0.835,6,-5.298,1,0.0433,0.0166,0.0,0.249,0.654,125.983,audio_features,0ct6r3EGTcMLPtrXHDvVjc,176658,4,The Nights,Avicii,87
 0.698,0.838,8,-3.553,1,0.0529,0.00188,0.0,0.113,0.87,110.034,audio_features,3IA9LkBEVhJDOxOnh1nf8a,161894,4,Butter (Holiday Remix),BTS,59
-0.758,0.871,2,-6.408,1,0.147,0.0062,0.0,0.0663,0.753,126.994,audio_features,6bNB5gxFX6Q87DbQWb8OWZ,202627,4,Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground),Shakira,69
-0.758,0.871,2,-6.408,1,0.147,0.0062,0.0,0.0663,0.753,126.994,audio_features,6bNB5gxFX6Q87DbQWb8OWZ,202627,4,Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground),Shakira,69
 0.637,0.678,0,-3.798,1,0.266,0.209,0.0,0.156,0.254,84.039,audio_features,561jH07mF1jHuk7KlaeF0s,250760,4,Mockingbird,Eminem,90
 0.884,0.581,11,-8.813,1,0.0378,0.427,0.000206,0.0759,0.728,114.016,audio_features,34xGLuxM0rkxhCVyMSqwJO,313684,4,Stolen Dance,Milky Chance,82
 0.739,0.701,10,-5.542,0,0.0516,0.592,0.0,0.116,0.633,128.022,audio_features,4EbAftNM732UGLF8gmIIsX,231227,4,Mi Santa (feat. Tomatito),Romeo Santos,73
@@ -576,8 +528,6 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.773,0.757,1,-4.959,1,0.0526,0.0864,3.73e-06,0.0727,0.858,88.006,audio_features,5u5MvmVtitax9R1Mxh3reC,226520,4,Dile Que Tu Me Quieres,Ozuna,77
 0.652,0.862,8,-2.29,0,0.206,0.161,0.0,0.203,0.727,173.859,audio_features,42ETKyApzUl8hTtytFAjen,210000,4,8 Parche,Baani Sandhu,67
 0.854,0.463,5,-6.159,1,0.137,0.117,0.0,0.354,0.549,120.024,audio_features,0b9oOr2ZgvyQu88wzixux9,225773,4,This Is America,Childish Gambino,71
-0.574,0.802,7,-3.976,1,0.0316,0.659,5.07e-06,0.0765,0.739,93.537,audio_features,47TyfLrGhYHHyyQWk64d0M,280453,4,Flor Pálida,Marc Anthony,74
-0.574,0.802,7,-3.976,1,0.0316,0.659,5.07e-06,0.0765,0.739,93.537,audio_features,47TyfLrGhYHHyyQWk64d0M,280453,4,Flor Pálida,Marc Anthony,74
 0.697,0.648,7,-7.123,1,0.128,0.425,0.0,0.191,0.313,186.125,audio_features,6DPp7xKJ4WS71HldGA038M,199813,4,Esperándote,Manuel Turizo,69
 0.949,0.661,5,-4.244,0,0.0572,0.0302,0.0,0.0454,0.76,104.504,audio_features,3yfqSUWxFvZELEM4PmlwIR,284200,4,The Real Slim Shady,Eminem,90
 0.765,0.339,8,-8.965,1,0.0365,0.278,0.0,0.131,0.864,123.95,audio_features,1l77YWrGUp3qX3NS1rz7lq,202560,4,El Color de Tus Ojos,Banda MS de Sergio Lizárraga,78
@@ -595,8 +545,6 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.791,0.733,9,-3.852,1,0.35,0.0305,0.000169,0.0423,0.913,159.974,audio_features,1cdbkpZ3q1KYZDNSrOpdkb,175813,4,Ice Cream (with Selena Gomez),BLACKPINK,69
 0.791,0.733,9,-3.852,1,0.35,0.0305,0.000169,0.0423,0.913,159.974,audio_features,1cdbkpZ3q1KYZDNSrOpdkb,175813,4,Ice Cream (with Selena Gomez),BLACKPINK,69
 0.759,0.952,2,-2.837,1,0.123,0.105,0.0,0.0693,0.812,128.039,audio_features,2xbvLQBFW7E9232BwMBljb,206859,4,Badri Ki Dulhania (Title Track),Dev Negi,63
-0.791,0.733,9,-3.852,1,0.35,0.0305,0.000169,0.0423,0.913,159.974,audio_features,1cdbkpZ3q1KYZDNSrOpdkb,175813,4,Ice Cream (with Selena Gomez),BLACKPINK,69
-0.791,0.733,9,-3.852,1,0.35,0.0305,0.000169,0.0423,0.913,159.974,audio_features,1cdbkpZ3q1KYZDNSrOpdkb,175813,4,Ice Cream (with Selena Gomez),BLACKPINK,69
 0.837,0.791,4,-3.157,0,0.0773,0.252,1.14e-06,0.188,0.618,91.98,audio_features,1LIqNVhaIgxXUt2eVoIQJ3,184436,4,HP,Maluma,73
 0.586,0.51,7,-8.404,0,0.033,0.657,4.61e-05,0.124,0.541,79.997,audio_features,01HRCKkLS0uVXJiAraAJUg,237375,4,Jaa Raha Hoon,Altamash Faridi,12
 0.845,0.677,11,-4.798,0,0.136,0.269,0.000917,0.108,0.68,90.013,audio_features,4HYDUMY0xSpeBr0AMY9cUz,219048,4,La Curiosidad,Jay Wheeler,84
@@ -617,15 +565,11 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.733,0.676,10,-5.655,0,0.0432,0.0697,0.0,0.208,0.701,97.448,audio_features,6p5abLu89ZSSpRQnbK9Wqs,226581,4,Post to Be (feat. Chris Brown & Jhene Aiko),Omarion,55
 0.733,0.676,10,-5.655,0,0.0432,0.0697,0.0,0.208,0.701,97.448,audio_features,6p5abLu89ZSSpRQnbK9Wqs,226581,4,Post to Be (feat. Chris Brown & Jhene Aiko),Omarion,55
 0.692,0.711,0,-7.498,0,0.0317,0.225,0.0,0.12,0.875,125.135,audio_features,1TfqLAPs4K3s2rJMoCokcS,216933,4,Sweet Dreams (Are Made of This) - Remastered,Eurythmics,85
-0.733,0.676,10,-5.655,0,0.0432,0.0697,0.0,0.208,0.701,97.448,audio_features,6p5abLu89ZSSpRQnbK9Wqs,226581,4,Post to Be (feat. Chris Brown & Jhene Aiko),Omarion,55
-0.733,0.676,10,-5.655,0,0.0432,0.0697,0.0,0.208,0.701,97.448,audio_features,6p5abLu89ZSSpRQnbK9Wqs,226581,4,Post to Be (feat. Chris Brown & Jhene Aiko),Omarion,55
 0.818,0.723,11,-4.82,1,0.114,0.00561,0.0,0.0866,0.607,102.945,audio_features,6NEoeBLQbOMw92qMeLfI40,211632,4,WHISTLE,BLACKPINK,76
 0.73,0.809,5,-6.406,0,0.0876,0.208,0.0013,0.0804,0.825,101.965,audio_features,2C2TGgFzrTRIOdQS1vUN5h,171093,4,Ginza,J Balvin,74
 0.73,0.809,5,-6.406,0,0.0876,0.208,0.0013,0.0804,0.825,101.965,audio_features,2C2TGgFzrTRIOdQS1vUN5h,171093,4,Ginza,J Balvin,74
 0.704,0.859,5,-4.877,0,0.0996,0.0185,0.0,0.0215,0.926,105.115,audio_features,3Vo4wInECJQuz9BIBMOu8i,217289,4,Finesse - Remix; feat. Cardi B,Bruno Mars,77
 0.743,0.752,4,-4.813,1,0.0414,0.0188,0.0,0.287,0.545,110.015,audio_features,1XGmzt0PVuFgQYYnV2It7A,231173,4,Payphone,Maroon 5,86
-0.73,0.809,5,-6.406,0,0.0876,0.208,0.0013,0.0804,0.825,101.965,audio_features,2C2TGgFzrTRIOdQS1vUN5h,171093,4,Ginza,J Balvin,74
-0.73,0.809,5,-6.406,0,0.0876,0.208,0.0013,0.0804,0.825,101.965,audio_features,2C2TGgFzrTRIOdQS1vUN5h,171093,4,Ginza,J Balvin,74
 0.445,0.537,4,-8.532,0,0.04,0.695,1.65e-05,0.0944,0.131,122.769,audio_features,3JvKfv6T31zO0ini8iNItO,244360,4,Another Love,Tom Odell,92
 0.666,0.644,11,-8.964,0,0.145,0.753,0.000262,0.124,0.89,115.1,audio_features,0dnDTvdUco2UbaBjUtPxNS,198783,4,Buttabomma - Telugu,Armaan Malik,65
 0.414,0.857,0,-4.078,0,0.0808,0.0287,0.00574,0.343,0.348,128.024,audio_features,07nH4ifBxUB4lZcsf44Brn,212960,4,Blame (feat. John Newman),Calvin Harris,80
@@ -664,10 +608,6 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.63,0.53,0,-7.259,1,0.0434,0.4,0.0,0.177,0.417,108.038,audio_features,2YlZnw2ikdb837oKMKjBkW,225053,3,Like I'm Gonna Lose You (feat. John Legend),Meghan Trainor,80
 0.646,0.568,9,-3.077,0,0.0379,0.369,0.0,0.151,0.653,81.387,audio_features,6mNLjPUswoARSiqMxcaG2Y,156520,4,No Te Contaron Mal,Christian Nodal,36
 0.792,0.895,1,-3.112,0,0.0589,0.165,0.0,0.0501,0.794,94.968,audio_features,4QtiVmuA88tPQiCOHZuQ5b,201526,4,"1, 2, 3 (feat. Jason Derulo & De La Ghetto)",Sofía Reyes,69
-0.849,0.724,5,-4.139,1,0.0665,0.0204,5.98e-06,0.235,0.63,98.005,audio_features,2RVrdr062uLFxXwIxwdXPH,201122,4,Te Amo,Piso 21,76
-0.849,0.724,5,-4.139,1,0.0665,0.0204,5.98e-06,0.235,0.63,98.005,audio_features,2RVrdr062uLFxXwIxwdXPH,201122,4,Te Amo,Piso 21,76
-0.671,0.954,9,-1.87,1,0.13,0.0244,0.0,0.111,0.556,104.114,audio_features,23WI5V2eD4EyGKxSl7Pyeq,247493,4,Andas En Mi Cabeza,Chino & Nacho,75
-0.671,0.954,9,-1.87,1,0.13,0.0244,0.0,0.111,0.556,104.114,audio_features,23WI5V2eD4EyGKxSl7Pyeq,247493,4,Andas En Mi Cabeza,Chino & Nacho,75
 0.695,0.884,6,-2.278,0,0.0753,0.0561,0.0,0.213,0.914,103.014,audio_features,39LLxExYz6ewLAcYrzQQyP,203808,4,Levitating,Dua Lipa,81
 0.911,0.712,1,-5.105,0,0.0817,0.0901,2.68e-05,0.0933,0.425,92.005,audio_features,6Sq7ltF9Qa7SNFBsV5Cogx,178567,4,Me Porto Bonito,Bad Bunny,89
 0.694,0.712,7,-3.923,0,0.046,0.132,0.0,0.211,0.799,98.023,audio_features,1rIKgCH4H52lrvDcz50hS8,201122,4,Lush Life,Zara Larsson,81
@@ -789,8 +729,6 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.673,0.758,7,-3.632,1,0.158,0.039,0.0,0.341,0.542,135.956,audio_features,0Hf4aIJpsN4Os2f0y0VqWl,229507,4,Feel This Moment (feat. Christina Aguilera),Pitbull,80
 0.673,0.758,7,-3.632,1,0.158,0.039,0.0,0.341,0.542,135.956,audio_features,0Hf4aIJpsN4Os2f0y0VqWl,229507,4,Feel This Moment (feat. Christina Aguilera),Pitbull,80
 0.934,0.694,11,-5.849,0,0.101,0.0971,1.2e-06,0.477,0.833,123.831,audio_features,3KwwE4sgCzMaKWq6QBebmX,181240,4,Me Too,Meghan Trainor,74
-0.673,0.758,7,-3.632,1,0.158,0.039,0.0,0.341,0.542,135.956,audio_features,0Hf4aIJpsN4Os2f0y0VqWl,229507,4,Feel This Moment (feat. Christina Aguilera),Pitbull,80
-0.673,0.758,7,-3.632,1,0.158,0.039,0.0,0.341,0.542,135.956,audio_features,0Hf4aIJpsN4Os2f0y0VqWl,229507,4,Feel This Moment (feat. Christina Aguilera),Pitbull,80
 0.315,0.467,9,-7.817,1,0.035,0.369,0.0,0.079,0.0836,99.971,audio_features,2jp9d2rVViwwpfHDhWps2v,336667,4,Pompeii MMXXIII,Bastille,65
 0.702,0.773,10,-9.256,0,0.0343,0.0288,0.00871,0.147,0.953,103.564,audio_features,5ubvP9oKmxLUVq506fgLhk,285373,4,Stayin Alive,Bee Gees,75
 0.702,0.773,10,-9.256,0,0.0343,0.0288,0.00871,0.147,0.953,103.564,audio_features,5ubvP9oKmxLUVq506fgLhk,285373,4,Stayin Alive,Bee Gees,75
@@ -834,8 +772,6 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.658,0.732,6,-4.762,1,0.0654,0.00513,0.0,0.13,0.409,127.995,audio_features,1GMufNnkKAnPLnqKJ5HHxW,192765,4,Lovesick Girls,BLACKPINK,74
 0.908,0.813,5,-2.749,0,0.0777,0.305,0.0,0.278,0.924,97.018,audio_features,4DHDIdeayp8xvlyg22wREO,200785,4,Ram Pam Pam,NATTI NATASHA,64
 0.908,0.813,5,-2.749,0,0.0777,0.305,0.0,0.278,0.924,97.018,audio_features,4DHDIdeayp8xvlyg22wREO,200785,4,Ram Pam Pam,NATTI NATASHA,64
-0.572,0.385,7,-6.362,1,0.0308,0.371,0.0,0.231,0.323,95.799,audio_features,2VxeLyX666F8uXCJ0dZF8B,215733,4,Shallow,Lady Gaga,86
-0.572,0.385,7,-6.362,1,0.0308,0.371,0.0,0.231,0.323,95.799,audio_features,2VxeLyX666F8uXCJ0dZF8B,215733,4,Shallow,Lady Gaga,86
 0.583,0.621,5,-6.902,0,0.0479,0.00972,0.00106,0.181,0.399,140.036,audio_features,6jG2YzhxptolDzLHTGLt7S,323480,4,Drunk in Love (feat. Jay-Z),Beyoncé,75
 0.647,0.567,10,-5.777,0,0.0374,0.133,9.36e-06,0.0638,0.659,131.933,audio_features,2qyhy9ndo8tTGMzXeHTisR,201573,4,So High,Doja Cat,77
 0.661,0.552,10,-12.385,1,0.0337,0.214,0.0,0.206,0.928,92.056,audio_features,3XDeeP9wBZzGhIPZmLfEEx,252760,4,Karma Chameleon,Culture Club,62
@@ -855,8 +791,6 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.589,0.731,2,-6.343,1,0.0868,0.0534,0.0,0.308,0.191,87.908,audio_features,5k38wzpLb15YgncyWdTZE4,268867,4,Him & I (with Halsey),G-Eazy,81
 0.839,0.667,11,-3.961,0,0.031,0.322,0.0,0.244,0.878,124.889,audio_features,4jcxBTrNvyqMJdMDyyjdYV,171360,4,Dime Cómo Quieres,Christian Nodal,73
 0.617,0.741,2,-3.97,1,0.0311,0.131,0.0,0.0772,0.306,118.984,audio_features,1D4PL9B8gOg78jiHg3FvBb,236267,4,Love Story,Taylor Swift,80
-0.849,0.781,0,-4.635,0,0.159,0.406,0.0,0.0801,0.893,84.041,audio_features,4SJHHpKhcuXwDsCsPqshXj,217143,4,El Efecto,Rauw Alejandro,79
-0.849,0.781,0,-4.635,0,0.159,0.406,0.0,0.0801,0.893,84.041,audio_features,4SJHHpKhcuXwDsCsPqshXj,217143,4,El Efecto,Rauw Alejandro,79
 0.783,0.685,9,-5.008,1,0.0271,0.627,3.49e-06,0.108,0.54,107.01,audio_features,4waqcUQWdj0yH26STWl2Rq,236333,4,Rosas,La Oreja de Van Gogh,81
 0.534,0.863,7,-5.359,1,0.0331,0.00541,0.0465,0.275,0.5,127.979,audio_features,1XduhVDrsLuMWk0fT0kbOx,312893,4,I Gotta Feeling (Made Famous by Black Eyed Peas),The Rock Heroes,2
 0.678,0.457,0,-6.854,1,0.177,0.741,0.0,0.113,0.563,72.156,audio_features,55mzJ0LftLnef8sxAjrMkU,238420,4,Debo Entender,Santa Fe Klan,76
@@ -872,9 +806,6 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.754,0.646,7,-5.795,1,0.317,0.152,1.85e-05,0.108,0.429,176.089,audio_features,0fea68AdmYNygeTGI4RC18,242573,4,LA CANCIÓN,J Balvin,86
 0.754,0.646,7,-5.795,1,0.317,0.152,1.85e-05,0.108,0.429,176.089,audio_features,0fea68AdmYNygeTGI4RC18,242573,4,LA CANCIÓN,J Balvin,86
 0.715,0.872,6,-3.501,1,0.0547,0.154,0.000146,0.11,0.682,96.939,audio_features,1mT47pKLXUwPYGwB91GcNz,212493,4,Créeme,KAROL G,73
-0.754,0.646,7,-5.795,1,0.317,0.152,1.85e-05,0.108,0.429,176.089,audio_features,0fea68AdmYNygeTGI4RC18,242573,4,LA CANCIÓN,J Balvin,86
-0.754,0.646,7,-5.795,1,0.317,0.152,1.85e-05,0.108,0.429,176.089,audio_features,0fea68AdmYNygeTGI4RC18,242573,4,LA CANCIÓN,J Balvin,86
-0.754,0.646,7,-5.795,1,0.317,0.152,1.85e-05,0.108,0.429,176.089,audio_features,0fea68AdmYNygeTGI4RC18,242573,4,LA CANCIÓN,J Balvin,86
 0.809,0.899,9,-1.098,0,0.103,0.0431,0.0,0.171,0.733,95.016,audio_features,6ipp8Dhs33KinlF4BStgca,209227,4,Justicia,Silvestre Dangond,61
 0.688,0.62,11,-8.029,0,0.22,0.753,5.32e-06,0.157,0.727,170.011,audio_features,2sJygjN3dXJztCeI5hS7VR,360960,4,Pa Mí - Remix,Dalex,24
 0.688,0.62,11,-8.029,0,0.22,0.753,5.32e-06,0.157,0.727,170.011,audio_features,2sJygjN3dXJztCeI5hS7VR,360960,4,Pa Mí - Remix,Dalex,24
@@ -894,8 +825,6 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.799,0.597,5,-5.131,0,0.0611,0.0788,5.66e-06,0.1,0.419,110.001,audio_features,0GxQ1A5L9xnMOytbP6eKBG,199849,4,What Lovers Do (feat. SZA),Maroon 5,75
 0.913,0.533,4,-7.028,1,0.0425,0.0686,2.77e-05,0.0947,0.59,102.024,audio_features,2t65pJQA9BpPXehQLkOydo,229436,4,Lagi Syantik,Siti Badriah,53
 0.727,0.714,2,-4.494,1,0.0872,0.0209,0.0,0.153,0.618,164.003,audio_features,0l1i3nJ4aDMk0inxnvzYTz,232907,4,Amplifier,Imran Khan,72
-0.878,0.619,6,-5.56,1,0.102,0.0533,0.0,0.113,0.639,136.041,audio_features,2YpeDb67231RjR0MgVLzsG,157067,4,Old Town Road - Remix,Lil Nas X,78
-0.878,0.619,6,-5.56,1,0.102,0.0533,0.0,0.113,0.639,136.041,audio_features,2YpeDb67231RjR0MgVLzsG,157067,4,Old Town Road - Remix,Lil Nas X,78
 0.787,0.678,1,-4.503,1,0.0321,0.00952,0.446,0.318,0.211,120.018,audio_features,4uWkPwumtRvims6GK3gjHr,267427,4,Bad Romance,The Chipmunks & The Chipettes,47
 0.803,0.731,1,-4.16,1,0.0626,0.149,0.0,0.0826,0.852,135.938,audio_features,1fniGoMPeva9A6A2xOSydX,127417,4,Labirinto,Yasmin Verissimo,36
 0.803,0.731,1,-4.16,1,0.0626,0.149,0.0,0.0826,0.852,135.938,audio_features,1fniGoMPeva9A6A2xOSydX,127417,4,Labirinto,Yasmin Verissimo,36
@@ -1009,10 +938,6 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.515,0.691,5,-4.028,0,0.0344,0.624,0.0,0.121,0.484,169.521,audio_features,5QVHNa0ppJUOoqSd36ovQS,226789,3,"Pachtaoge (From ""Jaani Ve"")",Arijit Singh,68
 0.695,0.762,0,-3.497,1,0.0395,0.192,0.00244,0.0863,0.553,120.042,audio_features,21jGcNKet2qwijlDFuPiPb,215280,4,Circles,Post Malone,88
 0.835,0.679,7,-5.329,0,0.0364,0.583,1.98e-06,0.218,0.85,124.98,audio_features,5ww2BF9slyYgNOk37BlC4u,162638,4,La Bachata,Manuel Turizo,85
-0.762,0.766,7,-3.955,1,0.0343,0.00776,6.98e-05,0.128,0.442,130.001,audio_features,5fwSHlTEWpluwOM0Sxnh5k,287120,4,Pepas,Farruko,82
-0.762,0.766,7,-3.955,1,0.0343,0.00776,6.98e-05,0.128,0.442,130.001,audio_features,5fwSHlTEWpluwOM0Sxnh5k,287120,4,Pepas,Farruko,82
-0.762,0.766,7,-3.955,1,0.0343,0.00776,6.98e-05,0.128,0.442,130.001,audio_features,5fwSHlTEWpluwOM0Sxnh5k,287120,4,Pepas,Farruko,82
-0.762,0.766,7,-3.955,1,0.0343,0.00776,6.98e-05,0.128,0.442,130.001,audio_features,5fwSHlTEWpluwOM0Sxnh5k,287120,4,Pepas,Farruko,82
 0.677,0.698,3,-5.793,0,0.352,0.0935,0.0,0.0511,0.83,78.443,audio_features,0fLILzjVXRCLC0lsNKcQ8I,288573,4,P.I.M.P. - Snoop Dogg Remix,50 Cent,66
 0.8,0.692,9,-5.57,0,0.0614,0.342,1.92e-06,0.0554,0.917,112.002,audio_features,42k1KeBehAd83lrGt1okiC,183693,4,Loca (feat. El Cata),Shakira,70
 0.428,0.53,8,-5.624,1,0.202,0.167,0.0,0.101,0.163,82.931,audio_features,5aXQr1loaLB8hHuuz79Tv1,352907,4,La boda (feat. O'Neill & Kendo),Cosculluela,61
@@ -1024,8 +949,6 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.64,0.533,0,-6.596,1,0.0706,0.119,0.0,0.0864,0.515,99.968,audio_features,3eR23VReFzcdmS7TYCrhCe,220781,4,It Ain't Me (with Selena Gomez),Kygo,80
 0.666,0.816,3,-3.84,0,0.0514,0.0464,0.00402,0.114,0.834,170.169,audio_features,6meWLlDbWZQ1cOglIPt6W7,185202,4,Bilionera,Otilia,59
 0.735,0.712,11,-5.119,0,0.0326,0.732,0.0,0.302,0.894,131.938,audio_features,2dy3TKVDEbIeWxeIb8JWqZ,229333,4,La Mejor Versión de Mi - Remix,NATTI NATASHA,75
-0.452,0.699,2,-7.06,0,0.0755,0.0844,0.0,0.278,0.341,106.789,audio_features,6hNkhvhy5ersmVRGFTuIps,546547,4,Hasta Que Te Conocí - En Vivo [Desde el Instituto Nacional de Bellas Artes],Juan Gabriel,51
-0.452,0.699,2,-7.06,0,0.0755,0.0844,0.0,0.278,0.341,106.789,audio_features,6hNkhvhy5ersmVRGFTuIps,546547,4,Hasta Que Te Conocí - En Vivo [Desde el Instituto Nacional de Bellas Artes],Juan Gabriel,51
 0.452,0.699,2,-7.06,0,0.0755,0.0844,0.0,0.278,0.341,106.789,audio_features,6hNkhvhy5ersmVRGFTuIps,546547,4,Hasta Que Te Conocí - En Vivo [Desde el Instituto Nacional de Bellas Artes],Juan Gabriel,51
 0.452,0.699,2,-7.06,0,0.0755,0.0844,0.0,0.278,0.341,106.789,audio_features,6hNkhvhy5ersmVRGFTuIps,546547,4,Hasta Que Te Conocí - En Vivo [Desde el Instituto Nacional de Bellas Artes],Juan Gabriel,51
 0.524,0.765,3,-2.625,0,0.184,0.319,0.0,0.332,0.475,157.487,audio_features,4OQFlJOSID2AzpmOcuDlJl,251429,3,Baarish Ki Jaaye,B Praak,61
@@ -1040,8 +963,6 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.663,0.913,5,-4.681,0,0.152,0.415,0.000496,0.158,0.805,187.552,audio_features,4uXJADmybUHUgycBWFHeq6,245760,3,Ramuloo Ramulaa - Duet,Anurag Kulkarni,61
 0.773,0.813,1,-5.804,0,0.0955,0.157,0.0,0.0836,0.358,96.015,audio_features,0FR8FGorkmM4SMXKSTq2Rn,210000,4,Wish,Diler Kharkiya,57
 0.806,0.778,1,-4.577,0,0.0616,0.133,0.0,0.218,0.84,95.993,audio_features,71iAechwVKGu26pahzFL0k,219587,4,Cuando Nadie Ve,Morat,81
-0.503,0.657,7,-5.866,1,0.0359,0.0269,0.0,0.265,0.246,139.918,audio_features,4cbJwuAEbaodP4InQDfAmW,226387,4,"Let It Go - From ""Frozen / Single Version",Demi Lovato,56
-0.503,0.657,7,-5.866,1,0.0359,0.0269,0.0,0.265,0.246,139.918,audio_features,4cbJwuAEbaodP4InQDfAmW,226387,4,"Let It Go - From ""Frozen / Single Version",Demi Lovato,56
 0.872,0.391,0,-9.144,0,0.242,0.469,4.13e-06,0.297,0.437,134.021,audio_features,7m9OqQk4RVRkw9JJdeAw96,119133,4,Jocelyn Flores,XXXTENTACION,85
 0.739,0.722,9,-5.85,0,0.128,0.253,0.000386,0.108,0.492,121.978,audio_features,5mC4THighaz8No4EYw59ZC,285261,4,Deixe-Me Ir - LIVA Remix,1Kilo,48
 0.569,0.724,6,-4.076,0,0.0474,0.228,0.0,0.27,0.562,83.118,audio_features,6pD0ufEQq0xdHSsRbg9LBK,194563,4,un x100to,Grupo Frontera,87
@@ -1059,8 +980,6 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.785,0.744,3,-4.249,0,0.0369,0.0149,0.00666,0.0661,0.833,126.018,audio_features,3BPoSr2pO34Aan6alFfVto,208863,4,BBoom BBoom,MOMOLAND,68
 0.69,0.973,2,-3.588,1,0.0492,0.126,0.0,0.101,0.772,143.957,audio_features,1mlGScrDQqHqmhdIqE8MmA,231533,4,Besos En Guerra,Morat,80
 0.598,0.427,7,-8.764,0,0.0317,0.0546,5.83e-06,0.21,0.0605,76.469,audio_features,3eekarcy7kvN4yt5ZFzltW,175721,4,HIGHEST IN THE ROOM,Travis Scott,85
-0.737,0.961,10,-0.155,0,0.0747,0.163,0.0,0.361,0.568,108.014,audio_features,5m2ZNdpVQStuqHgYeFhMpG,191089,4,"O Saki Saki (From ""Batla House"")",Neha Kakkar,4
-0.737,0.961,10,-0.155,0,0.0747,0.163,0.0,0.361,0.568,108.014,audio_features,5m2ZNdpVQStuqHgYeFhMpG,191089,4,"O Saki Saki (From ""Batla House"")",Neha Kakkar,4
 0.812,0.736,4,-5.421,0,0.0833,0.152,0.00254,0.0914,0.396,91.993,audio_features,3IAfUEeaXRX9s9UdKOJrFI,193806,4,Envolver,Anitta,75
 0.729,0.675,8,-6.003,1,0.0312,0.175,1.58e-06,0.55,0.779,119.968,audio_features,1fidCEsYlaVE3pHwKCvpFZ,245867,4,Am I Wrong,Nico & Vinz,80
 0.702,0.741,9,-5.33,1,0.0427,0.00544,0.0,0.337,0.646,124.925,audio_features,3XYRV7ZSHqIRDG87DKTtry,187585,4,Permission to Dance,BTS,77
@@ -1107,8 +1026,6 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.501,0.828,3,-2.495,0,0.114,0.053,0.0,0.135,0.483,84.659,audio_features,4t77OsiudWy4timV32lPa2,175059,4,Backbone,Harrdy Sandhu,68
 0.68,0.578,10,-5.804,1,0.04,0.331,0.0,0.135,0.341,145.038,audio_features,7dt6x5M1jzdTEt8oCbisTK,231267,4,Better Now,Post Malone,83
 0.445,0.786,5,-3.5,1,0.0448,0.318,0.0,0.199,0.53,191.964,audio_features,4FsVB8msXzmemjJdTKUoal,211373,4,Ya Te Olvidé,Yuridia,75
-0.718,0.792,7,-3.519,1,0.105,0.0467,3.65e-06,0.0399,0.96,90.949,audio_features,5M830cD7MNeiiwIGHzH9TV,243387,4,Bailando - Spanish Version,Enrique Iglesias,69
-0.718,0.792,7,-3.519,1,0.105,0.0467,3.65e-06,0.0399,0.96,90.949,audio_features,5M830cD7MNeiiwIGHzH9TV,243387,4,Bailando - Spanish Version,Enrique Iglesias,69
 0.445,0.665,9,-7.981,0,0.0628,0.0526,0.000586,0.395,0.309,79.998,audio_features,08q9ZXP9j3jHBWmSMJ8IE1,190909,4,Dheere Dheere Se Meri Zindagi Main Aana,Fakhar Anjum,10
 0.732,0.573,11,-5.733,1,0.0237,0.56,9.34e-06,0.0543,0.882,97.502,audio_features,5WEt9MiZPNmCbhu8GOR9Kk,152923,4,Qué Agonía,Yuridia,74
 0.581,0.717,4,-4.433,1,0.0318,0.0298,0.000186,0.243,0.316,107.884,audio_features,7GAaTpSoTWUTbP2Yxlt4Hd,236440,4,Need You Now,Lady A,76
@@ -1129,8 +1046,6 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.689,0.678,5,-4.287,0,0.119,0.0702,0.0,0.0889,0.335,145.883,audio_features,0yB4jrSwN0bFtFRDR5vyMj,200306,4,Love Shot,EXO,75
 0.402,0.655,10,-7.49,1,0.0443,0.154,0.00102,0.783,0.564,129.882,audio_features,1zBpoBt0ss3onvb5wwFETQ,278373,3,Tu Falta De Querer - En Vivo,Mon Laferte,56
 0.518,0.998,11,-0.966,0,0.291,0.45,5.32e-06,0.805,0.502,75.292,audio_features,4O1fDKrBzjzalOQoGD6XBT,176200,4,Laundiya London Se Layenge,Ritesh Pandey,60
-0.724,0.47,2,-4.323,1,0.042,0.568,0.0,0.348,0.385,75.002,audio_features,3hCLDKPwRELWLnYF3nOY5J,316000,4,Mere Wala Sardar,Jugraj Sandhu,61
-0.724,0.47,2,-4.323,1,0.042,0.568,0.0,0.348,0.385,75.002,audio_features,3hCLDKPwRELWLnYF3nOY5J,316000,4,Mere Wala Sardar,Jugraj Sandhu,61
 0.724,0.47,2,-4.323,1,0.042,0.568,0.0,0.348,0.385,75.002,audio_features,3hCLDKPwRELWLnYF3nOY5J,316000,4,Mere Wala Sardar,Jugraj Sandhu,61
 0.724,0.47,2,-4.323,1,0.042,0.568,0.0,0.348,0.385,75.002,audio_features,3hCLDKPwRELWLnYF3nOY5J,316000,4,Mere Wala Sardar,Jugraj Sandhu,61
 0.428,0.626,4,-6.639,0,0.0339,0.222,8.22e-05,0.277,0.379,86.02,audio_features,4Ouhoi2lAhrLJKFzUqEzwl,285400,4,Born To Die,Lana Del Rey,78
@@ -1154,8 +1069,6 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.73,0.729,4,-3.434,0,0.0884,0.167,1.39e-06,0.349,0.467,113.011,audio_features,017PF4Q3l4DBUiWoXk4OWT,221820,4,Break My Heart,Dua Lipa,80
 0.89,0.633,11,-5.475,1,0.168,0.0232,0.000343,0.0993,0.425,139.948,audio_features,1XRgIKC5TPwo7nWGyKqgG0,233087,4,I Get the Bag (feat. Migos),Gucci Mane,74
 0.692,0.497,2,-7.316,1,0.119,0.676,0.0,0.259,0.475,81.308,audio_features,4pbJqGIASGPr0ZpGpnWkDn,122067,4,We Will Rock You - Remastered 2011,Queen,80
-0.75,0.665,8,-3.083,1,0.124,0.265,0.0,0.0515,0.697,95.239,audio_features,3f5lA8nnc4YYF1qf78WpHw,219357,4,Ella Quiere Beber - Remix,Anuel AA,79
-0.75,0.665,8,-3.083,1,0.124,0.265,0.0,0.0515,0.697,95.239,audio_features,3f5lA8nnc4YYF1qf78WpHw,219357,4,Ella Quiere Beber - Remix,Anuel AA,79
 0.798,0.675,6,-5.041,1,0.0442,0.0912,0.0,0.0894,0.842,101.956,audio_features,3HVWdVOQ0ZA45FuZGSfvns,219947,4,I Don't Care (with Justin Bieber),Ed Sheeran,78
 0.633,0.357,5,-9.366,0,0.0264,0.105,0.0,0.133,0.674,104.938,audio_features,2JoZzpdeP2G6Csfdq5aLXP,245200,4,How Deep Is Your Love,Bee Gees,80
 0.781,0.944,9,-2.64,0,0.0615,0.0873,0.0795,0.117,0.965,103.003,audio_features,1vELwZM3uBYWd8HrtddD4l,226480,4,Bella,GIMS,65
@@ -1170,15 +1083,9 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.635,0.667,6,-5.392,1,0.0253,0.207,0.0,0.108,0.261,96.003,audio_features,7pcTLUekZJQnzDOUDuExVJ,289335,4,打上花火,Daoko,62
 0.593,0.945,8,-3.408,1,0.126,0.00174,0.0,0.923,0.674,110.023,audio_features,3wyrhwPpV8uhMMEms4vG3X,231860,4,Not Today,BTS,69
 0.534,0.598,5,-8.459,0,0.0295,0.000395,2.35e-06,0.141,0.297,118.03,audio_features,6UwGOeKFZ6rX2Wooejvjbf,269632,4,New Divide (Originally Performed By Linkin Park) - Tribute Version,New Tribute Kings,0
-0.635,0.667,6,-5.392,1,0.0253,0.207,0.0,0.108,0.261,96.003,audio_features,7pcTLUekZJQnzDOUDuExVJ,289335,4,打上花火,Daoko,62
-0.635,0.667,6,-5.392,1,0.0253,0.207,0.0,0.108,0.261,96.003,audio_features,7pcTLUekZJQnzDOUDuExVJ,289335,4,打上花火,Daoko,62
 0.842,0.777,6,-3.869,0,0.226,0.209,8.67e-06,0.229,0.751,120.081,audio_features,2ReO7imlVVOWilF2W0pZKd,206787,4,Sapés comme jamais (feat. Niska) - Pilule bleue,GIMS,39
-0.89,0.513,1,-5.996,1,0.154,0.0706,0.0,0.102,0.61,136.02,audio_features,6woeVu3fVMflqen1t4N6pg,114133,4,Old Town Road (feat. RM of BTS) - Seoul Town Road Remix,Lil Nas X,63
-0.89,0.513,1,-5.996,1,0.154,0.0706,0.0,0.102,0.61,136.02,audio_features,6woeVu3fVMflqen1t4N6pg,114133,4,Old Town Road (feat. RM of BTS) - Seoul Town Road Remix,Lil Nas X,63
 0.581,0.691,1,-4.906,0,0.0291,0.716,0.0,0.0856,0.291,131.981,audio_features,5wRohWNczheyXhdKoOHE7x,245893,4,Iglesia,Lilly Goodman,59
 0.808,0.97,10,-6.098,0,0.0506,0.0569,6.13e-05,0.154,0.868,114.328,audio_features,2gam98EZKrF9XuOkU13ApN,242293,4,Promiscuous,Nelly Furtado,86
-0.69,0.843,1,-2.949,1,0.0534,0.0167,0.0,0.346,0.428,135.01,audio_features,3dI59jLoFMjMAyUAyRZnkE,220178,4,BANG BANG BANG,BIGBANG,69
-0.69,0.843,1,-2.949,1,0.0534,0.0167,0.0,0.346,0.428,135.01,audio_features,3dI59jLoFMjMAyUAyRZnkE,220178,4,BANG BANG BANG,BIGBANG,69
 0.395,0.472,3,-6.5,0,0.0392,0.312,0.0,0.0687,0.188,123.223,audio_features,0TO27j4dtq5suhcyMsmZlb,291253,4,Hoy Tengo Ganas De Ti,Alejandro Fernández,21
 0.805,0.919,1,-1.294,1,0.0938,0.101,0.00343,0.0598,0.494,94.993,audio_features,5fXslGZPI5Cco6PKHzlSL3,188606,4,"Illegal Weapon 2.0 (From ""Street Dancer 3D"")",Jasmine Sandlas,69
 0.805,0.919,1,-1.294,1,0.0938,0.101,0.00343,0.0598,0.494,94.993,audio_features,5fXslGZPI5Cco6PKHzlSL3,188606,4,"Illegal Weapon 2.0 (From ""Street Dancer 3D"")",Jasmine Sandlas,69
@@ -1210,9 +1117,6 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.759,0.536,9,-6.663,0,0.173,0.821,4.57e-06,0.107,0.439,119.883,audio_features,2OWVCFTolecLiGZPquvWvT,208080,4,Estamos Bien,Bad Bunny,72
 0.786,0.881,1,-2.775,0,0.0542,0.228,0.0,0.345,0.96,103.994,audio_features,7nmLDzwi40HSUlygUhENjJ,264808,4,هابي هابي,Hala Al Turk,23
 0.346,0.552,0,-6.864,0,0.0282,0.417,0.0,0.114,0.0789,75.881,audio_features,6VObnIkLVruX4UVyxWhlqm,286480,4,Skyfall,Adele,86
-0.531,0.834,2,-3.944,1,0.052,0.277,0.0,0.131,0.526,142.026,audio_features,1iRvhKiXRElIH2Uf4gd95P,247640,4,Dueles,Jesse & Joy,83
-0.531,0.834,2,-3.944,1,0.052,0.277,0.0,0.131,0.526,142.026,audio_features,1iRvhKiXRElIH2Uf4gd95P,247640,4,Dueles,Jesse & Joy,83
-0.531,0.834,2,-3.944,1,0.052,0.277,0.0,0.131,0.526,142.026,audio_features,1iRvhKiXRElIH2Uf4gd95P,247640,4,Dueles,Jesse & Joy,83
 0.789,0.767,9,-4.612,0,0.0715,0.00812,0.000348,0.101,0.637,99.957,audio_features,4SfMmEN0qSBQxgjlavdoZA,167311,4,Sua Cara (feat. Anitta & Pabllo Vittar),Major Lazer,24
 0.829,0.717,0,-3.812,1,0.0606,0.00111,0.597,0.0821,0.474,127.975,audio_features,4awO7iB32DxZeSbkdHiJIm,129289,4,Aaja Mujhe Leja Teri Dulhan Banake,Deepika Sharma,30
 0.718,0.712,11,-4.366,1,0.174,0.512,0.00121,0.104,0.531,180.034,audio_features,7x4ASXYEKfQBCewcZhK776,189653,4,"Ay, DiOs Mío!",KAROL G,72
@@ -1233,19 +1137,10 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.531,0.431,2,-8.937,0,0.037,0.868,2.47e-05,0.127,0.19,107.99,audio_features,5T2ZZiBMDGh3TZDUbxg4rV,241449,4,Kaun Tujhe,Palak Muchhal,70
 0.531,0.431,2,-8.937,0,0.037,0.868,2.47e-05,0.127,0.19,107.99,audio_features,5T2ZZiBMDGh3TZDUbxg4rV,241449,4,Kaun Tujhe,Palak Muchhal,70
 0.644,0.71,4,-6.217,1,0.0309,0.436,0.0,0.121,0.329,119.93,audio_features,6DwBCjospi1c9WsRVfoCwN,322250,4,Namo Namo,Amit Trivedi,37
-0.687,0.792,5,-2.749,1,0.0452,0.191,0.0,0.167,0.671,100.011,audio_features,7BqHUALzNBTanL6OvsqmC1,214290,4,Happier,Marshmello,85
-0.687,0.792,5,-2.749,1,0.0452,0.191,0.0,0.167,0.671,100.011,audio_features,7BqHUALzNBTanL6OvsqmC1,214290,4,Happier,Marshmello,85
 0.545,0.78,7,-4.867,0,0.0436,0.0309,4.64e-05,0.0828,0.458,125.014,audio_features,4lhqb6JvbHId48OUJGwymk,255093,4,Hey Brother,Avicii,80
-0.775,0.679,11,-4.985,1,0.0465,0.147,0.0,0.155,0.674,91.0,audio_features,4Ft0391aLVNtCPPseh98lp,229387,4,Traicionera,Sebastian Yatra,76
-0.775,0.679,11,-4.985,1,0.0465,0.147,0.0,0.155,0.674,91.0,audio_features,4Ft0391aLVNtCPPseh98lp,229387,4,Traicionera,Sebastian Yatra,76
 0.677,0.963,7,-3.0,1,0.104,0.00469,1.17e-06,0.358,0.598,108.016,audio_features,2W6XpjOKbmZ1NNVNtwBr5b,212536,4,Cevapsız Çınlama,Emrah Karaduman,54
-0.685,0.731,10,-5.503,0,0.414,0.0292,0.0,0.369,0.266,145.245,audio_features,275a9yzwGB6ncAW4SxY7q3,247867,4,Panda,Desiigner,69
-0.685,0.731,10,-5.503,0,0.414,0.0292,0.0,0.369,0.266,145.245,audio_features,275a9yzwGB6ncAW4SxY7q3,247867,4,Panda,Desiigner,69
-0.685,0.731,10,-5.503,0,0.414,0.0292,0.0,0.369,0.266,145.245,audio_features,275a9yzwGB6ncAW4SxY7q3,247867,4,Panda,Desiigner,69
 0.8,0.578,4,-5.144,0,0.0485,0.00381,0.0,0.359,0.367,143.01,audio_features,0QIjsbm2fh1cJ45XO9eGqq,204665,4,Wake Up in the Sky,Gucci Mane,80
 0.718,0.776,7,-5.208,0,0.0693,0.000624,5.3e-06,0.207,0.622,120.015,audio_features,4odiyU3myG29Ld0wurMfE8,227787,4,She Doesn't Mind,Sean Paul,75
-0.725,0.912,9,-3.665,0,0.0851,0.155,7.68e-05,0.107,0.674,104.054,audio_features,4tjLYTXFqZhkUDga4bQ0yl,184433,4,"Dilbar (From ""Satyameva Jayate"")",Neha Kakkar,73
-0.725,0.912,9,-3.665,0,0.0851,0.155,7.68e-05,0.107,0.674,104.054,audio_features,4tjLYTXFqZhkUDga4bQ0yl,184433,4,"Dilbar (From ""Satyameva Jayate"")",Neha Kakkar,73
 0.791,0.823,3,-5.065,0,0.204,0.294,0.0,0.0645,0.832,99.937,audio_features,3gnPrVFy7vgmxw6L4UbuBE,207429,4,Firse Machayenge,Emiway Bantai,56
 0.417,0.482,7,-9.607,1,0.0384,0.495,0.0,0.105,0.244,129.931,audio_features,0yWmvU2VtMgocDGT3Vwbqb,388280,4,Jó (Ao Vivo),Midian Lima,21
 0.492,0.857,7,-2.634,1,0.0655,0.0841,7.82e-06,0.344,0.393,129.973,audio_features,1SgdUjvppHnIp6L7DZSnwc,222500,4,She Wolf (Falling to Pieces) [feat. Sia],David Guetta,69
@@ -1255,8 +1150,6 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.547,0.714,2,-5.0,1,0.0265,0.0354,0.0,0.146,0.367,112.03,audio_features,2mI7XadiW2VoC3ptipPeo7,207800,4,Wherever You Will Go,The Calling,50
 0.433,0.959,9,-4.04,1,0.0431,0.000917,0.0,0.028,0.365,172.984,audio_features,7x8dCjCr0x6x2lXKujYD34,269373,4,The Pretender,Foo Fighters,81
 0.783,0.781,4,-3.079,1,0.0419,0.574,0.0,0.323,0.771,125.9,audio_features,6bcdiJvYNX115yvbh3wASz,237093,4,Cancioncitas de Amor,Romeo Santos,77
-0.825,0.69,10,-4.252,0,0.226,0.589,0.0,0.413,0.516,94.194,audio_features,59PYgzOiOjGDzjDT5N5oOX,327467,4,Asesina - Remix,Brytiago,66
-0.825,0.69,10,-4.252,0,0.226,0.589,0.0,0.413,0.516,94.194,audio_features,59PYgzOiOjGDzjDT5N5oOX,327467,4,Asesina - Remix,Brytiago,66
 0.446,0.764,10,-5.042,1,0.033,0.00135,0.0,0.099,0.543,172.094,audio_features,0gmbgwZ8iqyMPmXefof8Yf,223840,4,How You Remind Me,Nickelback,84
 0.813,0.657,0,-6.447,1,0.0372,0.00269,0.0,0.183,0.651,110.053,audio_features,6tCd8bPvYnceDG7W9M1RMk,175889,3,Shut Down,BLACKPINK,78
 0.854,0.569,5,-8.151,0,0.106,0.0609,0.0816,0.1,0.294,80.015,audio_features,7ycWLEP1GsNjVvcjawXz3z,205040,4,Praise The Lord (Da Shine) (feat. Skepta),A$AP Rocky,84
@@ -1271,11 +1164,7 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.561,0.87,8,-6.103,1,0.343,0.0015,2.82e-06,0.246,0.498,129.98,audio_features,7fLzbEOBOae9lUnOwr7Tse,210093,4,Memories (feat. Kid Cudi),David Guetta,78
 0.484,0.731,1,-6.694,1,0.0379,0.431,0.0,0.151,0.51,101.654,audio_features,7yq4Qj7cqayVTp3FF9CWbm,204280,4,Riptide,Vance Joy,86
 0.733,0.584,10,-7.485,0,0.174,0.0563,0.0,0.0641,0.36,161.944,audio_features,6FPxVmp66GVKkVvfiBWly4,166852,4,GOTTI,6ix9ine,63
-0.799,0.802,11,-5.196,1,0.0371,0.429,0.00128,0.171,0.811,107.008,audio_features,1s7oOCT8vauUh01PbJD6ps,239318,4,Calm Down (with Selena Gomez),Rema,82
-0.799,0.802,11,-5.196,1,0.0371,0.429,0.00128,0.171,0.811,107.008,audio_features,1s7oOCT8vauUh01PbJD6ps,239318,4,Calm Down (with Selena Gomez),Rema,82
 0.708,0.837,8,-2.457,1,0.0434,0.455,0.0,0.35,0.395,114.047,audio_features,7djKVQ0JFLroQfnOGtPaxo,223242,4,Cobaia - Ao Vivo,Lauana Prado,41
-0.566,0.664,4,-5.303,0,0.0464,0.634,0.0,0.116,0.437,128.945,audio_features,3dYD57lRAUcMHufyqn9GcI,241688,4,Take Me To Church,Hozier,86
-0.566,0.664,4,-5.303,0,0.0464,0.634,0.0,0.116,0.437,128.945,audio_features,3dYD57lRAUcMHufyqn9GcI,241688,4,Take Me To Church,Hozier,86
 0.609,0.674,10,-7.388,0,0.0548,0.0735,0.06,0.345,0.315,90.009,audio_features,23OXdR7YuUBVWh5hSnYJau,324467,4,Chlorine,Twenty One Pilots,76
 0.816,0.911,1,-2.002,1,0.255,0.188,0.0,0.498,0.931,89.686,audio_features,4THusowxdHxwt0HBh5pyRx,204631,4,Rebota,Guaynaa,67
 0.574,0.734,1,-2.697,1,0.0728,0.241,0.00806,0.0962,0.769,98.023,audio_features,2SbzdGpOKlH3HIAGTWTbwU,255507,4,La Modelo,Ozuna,66
@@ -1290,8 +1179,6 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.789,0.95,5,-3.604,0,0.0759,0.191,1.41e-05,0.0969,0.746,126.013,audio_features,5x72Q1SyiDHJ4IF2mRzfkg,174711,4,"Gali Gali (From ""Kgf Chapter 1"")",Neha Kakkar,69
 0.789,0.95,5,-3.604,0,0.0759,0.191,1.41e-05,0.0969,0.746,126.013,audio_features,5x72Q1SyiDHJ4IF2mRzfkg,174711,4,"Gali Gali (From ""Kgf Chapter 1"")",Neha Kakkar,69
 0.726,0.554,5,-5.29,0,0.0917,0.0421,0.0,0.106,0.335,169.999,audio_features,4kV4N9D1iKVxx1KLvtTpjS,190440,4,"break up with your girlfriend, i'm bored",Ariana Grande,78
-0.573,0.896,4,-4.6,0,0.102,0.00574,0.00213,0.317,0.452,123.944,audio_features,2Z3y6552thvY2jKNHHMtXj,239867,4,She Don't Like The Lights,Justin Bieber,50
-0.573,0.896,4,-4.6,0,0.102,0.00574,0.00213,0.317,0.452,123.944,audio_features,2Z3y6552thvY2jKNHHMtXj,239867,4,She Don't Like The Lights,Justin Bieber,50
 0.553,0.607,2,-4.707,1,0.0289,0.296,0.0,0.17,0.331,135.903,audio_features,5m9B3AhtHK7JJhKwUp3bW8,262910,4,เชือกวิเศษ,Labanoon,47
 0.542,0.699,8,-7.97,1,0.0318,0.0556,0.119,0.142,0.578,153.746,audio_features,0S4SjheqTObQqGPWsE1Abk,219771,4,"Quarta Cadeira (Made Popular By Matheus & Kauan, Jorge & Mateus) [Karaoke Version]",Party Tyme Karaoke,0
 0.757,0.884,10,-5.488,0,0.0404,0.00795,5.87e-05,0.0973,0.398,120.012,audio_features,7KxhSJOYiqCDclXDBNlFSZ,217907,4,Kill Em With Kindness,Selena Gomez,66
@@ -1301,8 +1188,6 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.739,0.504,2,-5.925,1,0.0576,0.493,0.0,0.0956,0.391,155.876,audio_features,4NFqlsk3yQn7DULU8OGnfP,157931,4,Estranho - Ao Vivo | Acústico,Marília Mendonça,51
 0.64,0.922,9,-6.283,0,0.0385,0.00369,0.055,0.332,0.716,125.105,audio_features,5awDvzxWfd53SSrsRZ8pXO,234227,4,Du hast,Rammstein,71
 0.652,0.557,1,-5.714,0,0.0318,0.74,0.0,0.124,0.483,150.073,audio_features,2qxmye6gAegTMjLKEBoR3d,169354,4,Let Me Down Slowly,Alec Benjamin,87
-0.832,0.608,6,-6.042,0,0.0385,0.282,0.0,0.0761,0.589,94.013,audio_features,5Fim1gaXBgsiFfsQAfQSDS,198707,4,Hasta el Amanecer,Nicky Jam,73
-0.832,0.608,6,-6.042,0,0.0385,0.282,0.0,0.0761,0.589,94.013,audio_features,5Fim1gaXBgsiFfsQAfQSDS,198707,4,Hasta el Amanecer,Nicky Jam,73
 0.658,0.677,5,-6.628,1,0.0393,0.248,0.0,0.368,0.248,124.91,audio_features,4kte3OcW800TPvOVgrLLj8,251627,4,Let Me Love You (Until You Learn To Love Yourself),Ne-Yo,71
 0.807,0.414,4,-8.903,1,0.0352,0.105,2.57e-05,0.0813,0.502,108.944,audio_features,7iAqvWLgZzXvH38lA06QZg,223080,4,I Want To Break Free,Queen,74
 0.737,0.802,0,-4.771,1,0.0878,0.468,0.0,0.0931,0.682,144.015,audio_features,35mvY5S1H3J2QZyna3TFe0,172325,4,positions,Ariana Grande,83
@@ -1314,8 +1199,6 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.686,0.588,7,-8.343,0,0.0554,0.178,0.0,0.0954,0.617,94.519,audio_features,7GaFYUqP2WdR4KTPk7cXoP,249120,4,Let Me Love You,Mario,74
 0.559,0.476,6,-11.199,0,0.0882,0.67,0.0,0.174,0.891,143.331,audio_features,4Qc5GKu8fZLGPiHoVWlPYA,1203119,4,Shree Hanuman Amritwani,Anuradha Paudwal,49
 0.81,0.71,9,-6.77,1,0.0773,0.0178,2.29e-06,0.337,0.94,102.03,audio_features,6BlNj862v6tMsU9NizA2ba,150601,4,Bubalu - Remix,Jona Mix,33
-0.723,0.809,7,-3.081,0,0.0625,0.00346,0.00123,0.565,0.274,98.007,audio_features,1qE47wUKG2juJwPoLqg4C9,176561,4,Lean On (feat. MØ & DJ Snake),Major Lazer,64
-0.723,0.809,7,-3.081,0,0.0625,0.00346,0.00123,0.565,0.274,98.007,audio_features,1qE47wUKG2juJwPoLqg4C9,176561,4,Lean On (feat. MØ & DJ Snake),Major Lazer,64
 0.953,0.584,11,-7.57,1,0.0518,0.543,0.0,0.0786,0.861,104.007,audio_features,45P9g6kUb7itdonjjGjDdS,216999,4,Lamberghini,The Doorbeen,52
 0.551,0.885,6,-1.489,1,0.124,0.139,0.0,0.114,0.509,172.95,audio_features,7lB4rxNVc7vm33ZSZXVRAQ,208853,4,CHEER UP,TWICE,68
 0.583,0.914,8,-4.278,1,0.0371,0.0248,0.0,0.11,0.401,111.01,audio_features,4xZekP6TgZ2P7uU7Q5L1pz,263240,4,La Cosa Mas Bella (Più Bella Cosa) - produced by John Shanks,Eros Ramazzotti,24
@@ -1354,16 +1237,12 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.557,0.794,11,-5.698,0,0.2,0.179,0.0,0.106,0.432,91.366,audio_features,5W7DOVGQLTigu09afW7QMT,270000,4,295,Sidhu Moose Wala,78
 0.573,0.495,8,-7.245,0,0.592,0.405,0.0,0.0969,0.255,179.196,audio_features,1UZ25gykR30Oewh3dBRtVZ,312027,3,Only,Nicki Minaj,66
 0.573,0.495,8,-7.245,0,0.592,0.405,0.0,0.0969,0.255,179.196,audio_features,1UZ25gykR30Oewh3dBRtVZ,312027,3,Only,Nicki Minaj,66
-0.573,0.495,8,-7.245,0,0.592,0.405,0.0,0.0969,0.255,179.196,audio_features,1UZ25gykR30Oewh3dBRtVZ,312027,3,Only,Nicki Minaj,66
-0.573,0.495,8,-7.245,0,0.592,0.405,0.0,0.0969,0.255,179.196,audio_features,1UZ25gykR30Oewh3dBRtVZ,312027,3,Only,Nicki Minaj,66
 0.608,0.757,2,-6.945,1,0.164,0.259,0.00216,0.259,0.625,124.078,audio_features,6yvxu91deFKt3X1QoV6qMv,279677,4,"Arabic Kuthu - Halamithi Habibo (From ""Beast"")",Anirudh Ravichander,73
 0.608,0.757,2,-6.945,1,0.164,0.259,0.00216,0.259,0.625,124.078,audio_features,6yvxu91deFKt3X1QoV6qMv,279677,4,"Arabic Kuthu - Halamithi Habibo (From ""Beast"")",Anirudh Ravichander,73
 0.773,0.525,11,-8.983,0,0.226,0.182,5.49e-05,0.0445,0.474,97.978,audio_features,07px2VAaRz4w4bw9wJvqUU,274292,4,Verte Ir - Remix,Maty Deejay,8
 0.841,0.914,11,-3.917,0,0.0613,0.0958,0.0,0.115,0.651,104.014,audio_features,3InIAYQyi22mfV4g1T9Jkc,276153,4,Main Tera Boyfriend,Pritam,66
 0.913,0.622,7,-7.178,1,0.177,0.125,0.0,0.0789,0.781,110.011,audio_features,4obyqyCX0Vx839PTsz1OGf,218520,4,Goa Beach,Tony Kakkar,59
 0.75,0.404,9,-10.178,0,0.0682,0.216,0.000357,0.0911,0.0499,95.045,audio_features,6NFyWDv5CjfwuzoCkw47Xf,232253,4,Delicate,Taylor Swift,87
-0.433,0.725,5,-6.326,0,0.0358,0.102,0.0,0.0979,0.669,173.993,audio_features,2NttzQ2kuVFFmEa8q4rsbu,267461,4,Lost on You,LP,76
-0.433,0.725,5,-6.326,0,0.0358,0.102,0.0,0.0979,0.669,173.993,audio_features,2NttzQ2kuVFFmEa8q4rsbu,267461,4,Lost on You,LP,76
 0.642,0.833,2,-6.323,1,0.258,0.198,0.0,0.313,0.692,135.859,audio_features,4SZWKdNMIaUUFNmtJAxYdr,186981,4,Vidinha De Balada - Ao Vivo,Henrique & Juliano,70
 0.78,0.759,1,-3.292,1,0.225,0.462,0.000868,0.143,0.579,91.952,audio_features,7BlBVFwvbWvcwNcUarQmjk,201040,4,"Yo x Ti, Tu x Mi",ROSALÍA,74
 0.583,0.732,11,-5.728,0,0.0457,0.00312,9.86e-06,0.269,0.276,145.992,audio_features,6hmhG1b4LEyNuashVvuIAo,213428,4,Never Forget You,Zara Larsson,75
@@ -1415,15 +1294,11 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.741,0.761,8,-5.414,1,0.141,0.756,0.00062,0.124,0.907,147.036,audio_features,1zfS3EZFRA6oTSu49VFaGW,228568,3,Tum Tum,Thaman S,57
 0.449,0.826,2,-3.244,0,0.0316,0.00765,0.0,0.117,0.19,77.079,audio_features,5d8Wq39QLT6OQWsY9paz5n,254805,4,Zombie,Bad Wolves,76
 0.765,0.816,1,-3.99,1,0.0595,0.124,8.06e-05,0.197,0.624,89.005,audio_features,5YTMV11r6H8eeKuHghbBql,212027,4,Te Quiero Pa´Mi,Don Omar,68
-0.608,0.757,2,-6.945,1,0.164,0.259,0.00216,0.259,0.625,124.078,audio_features,6yvxu91deFKt3X1QoV6qMv,279677,4,"Arabic Kuthu - Halamithi Habibo (From ""Beast"")",Anirudh Ravichander,73
-0.608,0.757,2,-6.945,1,0.164,0.259,0.00216,0.259,0.625,124.078,audio_features,6yvxu91deFKt3X1QoV6qMv,279677,4,"Arabic Kuthu - Halamithi Habibo (From ""Beast"")",Anirudh Ravichander,73
 0.935,0.454,1,-7.509,1,0.375,0.0194,0.0,0.0824,0.357,133.073,audio_features,4Oun2ylbjFKMPTiaSbbCih,187541,4,WAP (feat. Megan Thee Stallion),Cardi B,80
 0.584,0.557,6,-6.371,1,0.0342,0.0129,0.0,0.0576,0.767,154.008,audio_features,6AtZLIzUINvExIUy4QhdjP,219760,4,I Knew You Were Trouble (Taylor's Version),Taylor Swift,80
 0.795,0.67,1,-5.313,0,0.143,0.269,0.0,0.0733,0.643,100.004,audio_features,1iZLpuGMr4tn1F5bZu32Kb,168450,4,Bijlee Bijlee,Harrdy Sandhu,73
 0.517,0.623,4,-6.812,1,0.0884,0.419,0.0,0.146,0.456,160.085,audio_features,3wmI2n0Whs6kg4MT8jFRU1,261758,3,Teri Aankhon Mein,Darshan Raval,65
 0.69,0.752,6,-11.47,0,0.0455,0.463,0.00102,0.595,0.97,126.005,audio_features,5lWSa1rmuSL6OBPOnkAqoa,220667,4,Rasputin,Boney M.,71
-0.346,0.641,7,-5.627,1,0.0504,0.136,8.4e-06,0.108,0.159,77.281,audio_features,1PAgmT6YqGhd6zT9kN9gIo,264240,4,Hero,Enrique Iglesias,71
-0.346,0.641,7,-5.627,1,0.0504,0.136,8.4e-06,0.108,0.159,77.281,audio_features,1PAgmT6YqGhd6zT9kN9gIo,264240,4,Hero,Enrique Iglesias,71
 0.346,0.641,7,-5.627,1,0.0504,0.136,8.4e-06,0.108,0.159,77.281,audio_features,1PAgmT6YqGhd6zT9kN9gIo,264240,4,Hero,Enrique Iglesias,71
 0.346,0.641,7,-5.627,1,0.0504,0.136,8.4e-06,0.108,0.159,77.281,audio_features,1PAgmT6YqGhd6zT9kN9gIo,264240,4,Hero,Enrique Iglesias,71
 0.681,0.174,1,-8.745,1,0.0315,0.837,3.35e-05,0.0983,0.231,112.672,audio_features,2BOqDYLOJBiMOXShCV1neZ,260285,4,Dancing On My Own,Calum Scott,83
@@ -1433,8 +1308,6 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.402,0.845,2,-6.459,1,0.0319,0.000676,0.0,0.158,0.686,174.727,audio_features,4yBiZFLXn0n9AUJ5sWO88k,258717,4,Wonderwall,Oasis,64
 0.846,0.786,1,-4.607,1,0.0518,0.13,0.000364,0.0835,0.523,106.022,audio_features,0jv4qem3hOqUuC6TroAx0y,213947,4,The Hook Up Song,Kumaar,22
 0.69,0.714,7,-5.948,1,0.0338,0.0077,7.23e-05,0.191,0.489,112.009,audio_features,4lJNen4SMTIJMahALc3DcB,187027,4,"Thunderclouds (feat. Sia, Diplo, and Labrinth)",Sia,74
-0.921,0.57,1,-8.832,1,0.141,0.608,0.0,0.077,0.28,93.979,audio_features,02Q9kziYpc5HKJMUFW36k2,249673,4,Meu Carona,Hungria Hip Hop,48
-0.921,0.57,1,-8.832,1,0.141,0.608,0.0,0.077,0.28,93.979,audio_features,02Q9kziYpc5HKJMUFW36k2,249673,4,Meu Carona,Hungria Hip Hop,48
 0.78,0.565,3,-7.32,0,0.0306,0.736,0.00269,0.063,0.365,101.967,audio_features,1NCuYqMc8hKMb4cpNTcJbD,322133,4,Another Day in Paradise - 2016 Remaster,Phil Collins,78
 0.481,0.496,8,-7.421,1,0.0262,0.588,0.0,0.132,0.453,89.839,audio_features,6fScgF2Y63ScU73nYju0ny,251819,4,O Saathi,Atif Aslam,76
 0.58,0.871,4,-4.052,1,0.209,0.59,0.0,0.564,0.911,117.622,audio_features,43tDjfz9Inw7Soy0jzxowN,153934,4,Status Que Eu Não Queria - Ao Vivo,Zé Neto & Cristiano,67
@@ -1450,12 +1323,8 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.792,0.717,0,-4.759,0,0.0393,0.0927,3.59e-05,0.226,0.466,121.985,audio_features,1A8j067qyiNwQnZT0bzUpZ,195547,4,This Girl (Kungs Vs. Cookin' On 3 Burners),Kungs,80
 0.792,0.717,0,-4.759,0,0.0393,0.0927,3.59e-05,0.226,0.466,121.985,audio_features,1A8j067qyiNwQnZT0bzUpZ,195547,4,This Girl (Kungs Vs. Cookin' On 3 Burners),Kungs,80
 0.654,0.933,10,-3.379,0,0.0479,0.101,0.0,0.459,0.803,149.95,audio_features,4gKhh8GQfRprLBBPc5um6Q,206400,4,I CAN’T STOP ME (feat. BOYS LIKE GIRLS),TWICE,64
-0.792,0.717,0,-4.759,0,0.0393,0.0927,3.59e-05,0.226,0.466,121.985,audio_features,1A8j067qyiNwQnZT0bzUpZ,195547,4,This Girl (Kungs Vs. Cookin' On 3 Burners),Kungs,80
-0.792,0.717,0,-4.759,0,0.0393,0.0927,3.59e-05,0.226,0.466,121.985,audio_features,1A8j067qyiNwQnZT0bzUpZ,195547,4,This Girl (Kungs Vs. Cookin' On 3 Burners),Kungs,80
 0.804,0.801,0,-4.892,1,0.0305,0.275,3.29e-05,0.215,0.826,98.12,audio_features,3UpS7kBnkVQYG13pDDFTC4,221107,4,As Long as You Love Me,Backstreet Boys,77
 0.779,0.854,9,-4.958,1,0.219,0.0462,0.0,0.21,0.379,91.992,audio_features,65c6VCikt7f5sAS1heoYQC,290360,4,Same Beef,Bohemia,72
-0.801,0.889,9,-3.202,1,0.0751,0.0952,0.0,0.0442,0.926,135.944,audio_features,7k4AefFWsGcW30aw1U4Giy,131507,4,Mundo Encantado,Patati Patatá,33
-0.801,0.889,9,-3.202,1,0.0751,0.0952,0.0,0.0442,0.926,135.944,audio_features,7k4AefFWsGcW30aw1U4Giy,131507,4,Mundo Encantado,Patati Patatá,33
 0.339,0.366,6,-12.271,1,0.0313,0.724,0.876,0.0547,0.0666,123.577,audio_features,39wX7AN4e8RAmDl5Uer4jI,264307,4,Show Yourself (Originally Performed by Idina Menzel & Evan Rachel Wood from Frozen 2) - Karaoke Version,KaraokePro,0
 0.395,0.252,0,-13.589,1,0.0301,0.8,0.0,0.101,0.126,177.679,audio_features,4LFwNJWoj74Yd71fIr1W8x,264333,4,Right Here Waiting,Richard Marx,78
 0.594,0.527,0,-9.335,1,0.0335,0.121,0.0,0.234,0.692,172.712,audio_features,23Lyy7ZXRvzfgH4JtDkKrX,194019,4,No Se Va - EN VIVO,Grupo Frontera,73
@@ -1464,10 +1333,6 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.628,0.593,8,-5.036,1,0.0323,0.093,1.65e-06,0.096,0.104,125.026,audio_features,7xoUc6faLbCqZO6fQEYprd,197267,4,One Last Time,Ariana Grande,85
 0.668,0.673,1,-5.714,1,0.145,0.48,0.0,0.194,0.727,171.812,audio_features,1yJ5fyqBusR7Verj8JGsKV,232000,4,Miss Independent,Ne-Yo,67
 0.714,0.833,5,-5.239,1,0.0259,0.00249,0.0,0.298,0.663,129.964,audio_features,3rLIv187BhjyweFe89SgLn,220920,4,Somebody To Love,Justin Bieber,73
-0.928,0.892,9,-7.782,0,0.0388,0.0527,1.47e-05,0.0911,0.989,128.075,audio_features,6nFYXpBgrNcZjbtNEuc6yR,192227,4,I Am Your Gummy Bear (The Gummy Bear Song),Gummibär,63
-0.928,0.892,9,-7.782,0,0.0388,0.0527,1.47e-05,0.0911,0.989,128.075,audio_features,6nFYXpBgrNcZjbtNEuc6yR,192227,4,I Am Your Gummy Bear (The Gummy Bear Song),Gummibär,63
-0.928,0.892,9,-7.782,0,0.0388,0.0527,1.47e-05,0.0911,0.989,128.075,audio_features,6nFYXpBgrNcZjbtNEuc6yR,192227,4,I Am Your Gummy Bear (The Gummy Bear Song),Gummibär,63
-0.928,0.892,9,-7.782,0,0.0388,0.0527,1.47e-05,0.0911,0.989,128.075,audio_features,6nFYXpBgrNcZjbtNEuc6yR,192227,4,I Am Your Gummy Bear (The Gummy Bear Song),Gummibär,63
 0.565,0.654,1,-6.826,0,0.0335,0.0542,1.8e-06,0.122,0.235,111.968,audio_features,3BJe4B8zGnqEdQPMvfVjuS,265427,4,Summertime Sadness,Lana Del Rey,87
 0.565,0.654,1,-6.826,0,0.0335,0.0542,1.8e-06,0.122,0.235,111.968,audio_features,3BJe4B8zGnqEdQPMvfVjuS,265427,4,Summertime Sadness,Lana Del Rey,87
 0.611,0.851,9,-2.982,1,0.0598,0.229,0.0,0.232,0.823,178.032,audio_features,0Snbzbd74RLfL0i4nn1vU5,211613,4,Favorito,Camilo,64
@@ -1477,8 +1342,6 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.508,0.485,6,-11.109,1,0.0317,0.772,0.0,0.13,0.884,97.264,audio_features,3bZtkBjz5osFEcLXsi3Xw0,360072,3,Sankat Mochan Hanuman Ashtak,Satish Dehra,26
 0.508,0.485,6,-11.109,1,0.0317,0.772,0.0,0.13,0.884,97.264,audio_features,3bZtkBjz5osFEcLXsi3Xw0,360072,3,Sankat Mochan Hanuman Ashtak,Satish Dehra,26
 0.672,0.593,11,-4.01,0,0.0304,0.0223,0.0,0.214,0.438,98.02,audio_features,6ZANrVuAMp2rpjhfbOuJly,229080,4,Same Old Love,Selena Gomez,72
-0.508,0.485,6,-11.109,1,0.0317,0.772,0.0,0.13,0.884,97.264,audio_features,3bZtkBjz5osFEcLXsi3Xw0,360072,3,Sankat Mochan Hanuman Ashtak,Satish Dehra,26
-0.508,0.485,6,-11.109,1,0.0317,0.772,0.0,0.13,0.884,97.264,audio_features,3bZtkBjz5osFEcLXsi3Xw0,360072,3,Sankat Mochan Hanuman Ashtak,Satish Dehra,26
 0.619,0.925,7,-6.215,0,0.103,0.162,0.0,0.255,0.738,175.117,audio_features,2QY6SJXVnBFaqxOZhC1Fuu,235102,4,Kamli,Pritam,63
 0.498,0.82,2,-5.337,1,0.0398,0.46,0.0,0.995,0.574,149.818,audio_features,3Y4Hb9pm222fOawpKVZXny,469044,4,Sinto sua falta / É natural / Pra você acreditar / Pirata e tesouro - Ao vivo,Ferrugem,59
 0.589,0.658,11,-5.288,0,0.203,0.0242,0.0,0.118,0.251,77.521,audio_features,0hy1SOTEn9ifXTzOwnCwEr,223973,4,All Eyes on You (feat. Chris Brown & Nicki Minaj),Meek Mill,71
@@ -1501,8 +1364,6 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.779,0.589,5,-10.645,1,0.0345,0.332,0.0,0.12,0.894,128.044,audio_features,27ze5t5tIDPlVits0KRbxT,215213,4,El Perdedor,Aventura,78
 0.788,0.876,4,-4.121,0,0.13,0.0962,0.0,0.0648,0.693,99.996,audio_features,5wq55P6xQRrwJMNpFVoHCh,235200,4,Ishq Ka Raja,Addy Nagar,51
 0.718,0.679,4,-6.216,0,0.197,0.0298,0.0,0.126,0.669,175.982,audio_features,2biG396b4oY4gHJJRtjUIo,199933,4,Tranquila,J Balvin,59
-0.736,0.659,8,-6.509,1,0.0373,0.104,0.00141,0.147,0.538,97.953,audio_features,5ExsZq3AmQGxavPJOzf0M5,180581,4,Sen Olsan Bari,Aleyna Tilki,51
-0.736,0.659,8,-6.509,1,0.0373,0.104,0.00141,0.147,0.538,97.953,audio_features,5ExsZq3AmQGxavPJOzf0M5,180581,4,Sen Olsan Bari,Aleyna Tilki,51
 0.683,0.53,5,-4.918,0,0.142,0.207,0.0,0.394,0.645,75.016,audio_features,7F9vK8hNFMml4GtHsaXui6,190428,4,Back to You (feat. Bebe Rexha & Digital Farm Animals),Louis Tomlinson,69
 0.607,0.52,7,-10.84,0,0.31,0.123,0.0,0.119,0.919,180.107,audio_features,4aL9YT977aLLBNYGvUocNZ,183000,3,Bachpan Ka Pyaar,Badshah,56
 0.863,0.741,1,-4.294,0,0.194,0.302,0.0,0.215,0.682,105.037,audio_features,7r48j4khJzIT2uqcIU33ax,160000,4,Lala Lori,Fazilpuria,59
@@ -1546,16 +1407,9 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.462,0.395,9,-9.376,1,0.0264,0.758,0.0,0.121,0.625,82.259,audio_features,1YYhDizHx7PnDhAhko6cDS,190160,4,"Take Me Home, Country Roads - Original Version",John Denver,76
 0.719,0.757,2,-5.167,0,0.0849,0.137,0.0,0.129,0.489,147.024,audio_features,6wH3AP7b01vpzKYRJhreMy,198261,4,Black Swan,BTS,63
 0.605,0.793,7,-3.084,0,0.297,0.0825,0.0,0.124,0.647,184.032,audio_features,62pSYErgGri97X9aIyBzHm,196640,4,Got 2 Luv U (feat. Alexis Jordan),Sean Paul,68
-0.714,0.626,5,-4.655,0,0.423,0.26,0.0,0.284,0.512,76.625,audio_features,0LQsM0KYkSyCdN6TCo63vp,315440,4,"Fronteamos Porque Podemos (feat. Daddy Yankee, Yandel & Nengo Flow)",De La Ghetto,65
-0.714,0.626,5,-4.655,0,0.423,0.26,0.0,0.284,0.512,76.625,audio_features,0LQsM0KYkSyCdN6TCo63vp,315440,4,"Fronteamos Porque Podemos (feat. Daddy Yankee, Yandel & Nengo Flow)",De La Ghetto,65
-0.738,0.861,2,-4.141,1,0.237,0.318,0.00182,0.325,0.58,131.98,audio_features,5GK7eDDTVz7CTge1wJrDQW,189052,4,Kill This Love,BLACKPINK,71
-0.738,0.861,2,-4.141,1,0.237,0.318,0.00182,0.325,0.58,131.98,audio_features,5GK7eDDTVz7CTge1wJrDQW,189052,4,Kill This Love,BLACKPINK,71
 0.425,0.954,1,-3.756,0,0.0476,0.00414,0.0,0.0555,0.933,178.043,audio_features,0Ph6L4l8dYUuXFmb71Ajnd,243160,4,Livin' la Vida Loca,Ricky Martin,77
 0.54,0.578,10,-5.678,1,0.0345,0.396,1.61e-06,0.0805,0.893,200.063,audio_features,5UktVtaCS3KFmA0xBbFeEW,209720,4,Cuál Adiós,Banda Clave Nueva,47
 0.529,0.614,9,-5.032,1,0.0479,0.215,0.0,0.277,0.141,92.972,audio_features,6KHL1En9v6iNWjcs44mcmU,249810,4,Secret Love Song (feat. Jason Derulo),Little Mix,78
-0.685,0.731,10,-5.503,0,0.414,0.0292,0.0,0.369,0.266,145.245,audio_features,275a9yzwGB6ncAW4SxY7q3,247867,4,Panda,Desiigner,69
-0.685,0.731,10,-5.503,0,0.414,0.0292,0.0,0.369,0.266,145.245,audio_features,275a9yzwGB6ncAW4SxY7q3,247867,4,Panda,Desiigner,69
-0.685,0.731,10,-5.503,0,0.414,0.0292,0.0,0.369,0.266,145.245,audio_features,275a9yzwGB6ncAW4SxY7q3,247867,4,Panda,Desiigner,69
 0.699,0.529,2,-7.548,1,0.0487,0.0317,3.59e-05,0.285,0.121,119.987,audio_features,3DmW6y7wTEYHJZlLo1r6XJ,206167,4,Shower,Becky G,79
 0.836,0.575,8,-6.109,1,0.0441,0.452,2.29e-05,0.0585,0.977,112.509,audio_features,6GTX6TGcHEWHoxHXPSVbJ2,153493,3,Hermosa Experiencia,Banda MS de Sergio Lizárraga,75
 0.676,0.51,5,-5.706,0,0.024,0.465,0.0,0.191,0.432,81.965,audio_features,4FRoBVWR59XRswXarBOqh2,281453,4,Thương Lắm Thầy Cô Ơi,Bé Phan Hiếu Kiên,0
@@ -1564,13 +1418,9 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.853,0.606,0,-4.596,1,0.0713,0.0561,0.0,0.313,0.654,94.759,audio_features,3WkibOpDF7cQ5xntM1epyf,227600,4,It Wasn't Me,Shaggy,81
 0.854,0.682,9,-5.818,0,0.069,0.374,0.0,0.0697,0.887,98.023,audio_features,0u8aj0c4IxeVSLTUuuq9V5,179000,4,Você Partiu Meu Coração (feat. Anitta & Wesley Safadão),Nego do Borel,56
 0.561,0.431,10,-8.81,1,0.0578,0.768,1.42e-05,0.106,0.137,143.875,audio_features,5wANPM4fQCJwkGd4rN57mH,242013,4,drivers license,Olivia Rodrigo,87
-0.905,0.962,4,-3.197,1,0.0856,0.0299,0.0,0.0272,0.906,129.969,audio_features,7GNRUsU3M4XNDDB9xle5Dz,174647,4,That That (prod.&feat. SUGA of BTS),PSY,75
-0.905,0.962,4,-3.197,1,0.0856,0.0299,0.0,0.0272,0.906,129.969,audio_features,7GNRUsU3M4XNDDB9xle5Dz,174647,4,That That (prod.&feat. SUGA of BTS),PSY,75
 0.731,0.853,10,-4.219,0,0.0363,0.0352,0.0,0.268,0.605,108.016,audio_features,1di1BEgJYzPvXUuinsYJGP,225360,4,Everybody (Backstreet's Back) - Radio Edit,Backstreet Boys,78
 0.731,0.853,10,-4.219,0,0.0363,0.0352,0.0,0.268,0.605,108.016,audio_features,1di1BEgJYzPvXUuinsYJGP,225360,4,Everybody (Backstreet's Back) - Radio Edit,Backstreet Boys,78
 0.698,0.505,6,-8.242,0,0.0356,0.354,0.0,0.0995,0.396,95.868,audio_features,1418IuVKQPTYqt7QNJ9RXN,194654,4,Maan Meri Jaan,King,81
-0.731,0.853,10,-4.219,0,0.0363,0.0352,0.0,0.268,0.605,108.016,audio_features,1di1BEgJYzPvXUuinsYJGP,225360,4,Everybody (Backstreet's Back) - Radio Edit,Backstreet Boys,78
-0.731,0.853,10,-4.219,0,0.0363,0.0352,0.0,0.268,0.605,108.016,audio_features,1di1BEgJYzPvXUuinsYJGP,225360,4,Everybody (Backstreet's Back) - Radio Edit,Backstreet Boys,78
 0.464,0.536,1,-8.372,0,0.0472,0.159,0.0,0.0969,0.252,145.772,audio_features,15AbuFJdFrbINydSMSqVhV,258533,4,Aléjate de Mí,Camila,73
 0.589,0.412,9,-7.161,1,0.0305,0.768,0.0,0.154,0.376,126.993,audio_features,4n0Qw1r6TnrFu6oKbxZCGW,229599,4,Deus e Eu,Leandro Borges,35
 0.823,0.537,8,-2.627,1,0.211,0.176,3.75e-06,0.124,0.608,175.965,audio_features,4loQgPwJHocL3dFwLfjb1J,231595,4,Reloj,Rauw Alejandro,73
@@ -1625,8 +1475,6 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.694,0.957,9,-3.115,0,0.171,0.0243,3.4e-06,0.108,0.505,106.002,audio_features,6DRGwsUFQrNerxRexK7KMB,194880,4,Hey Ma (with Pitbull & J Balvin feat. Camila Cabello),Pitbull,65
 0.843,0.768,11,-4.554,0,0.117,0.256,0.0,0.614,0.662,139.998,audio_features,1QZRCi2Z1DQQaR6bGAzhtN,224444,4,Love Dose,Yo Yo Honey Singh,76
 0.843,0.768,11,-4.554,0,0.117,0.256,0.0,0.614,0.662,139.998,audio_features,1QZRCi2Z1DQQaR6bGAzhtN,224444,4,Love Dose,Yo Yo Honey Singh,76
-0.843,0.768,11,-4.554,0,0.117,0.256,0.0,0.614,0.662,139.998,audio_features,1QZRCi2Z1DQQaR6bGAzhtN,224444,4,Love Dose,Yo Yo Honey Singh,76
-0.843,0.768,11,-4.554,0,0.117,0.256,0.0,0.614,0.662,139.998,audio_features,1QZRCi2Z1DQQaR6bGAzhtN,224444,4,Love Dose,Yo Yo Honey Singh,76
 0.584,0.268,3,-9.54,1,0.0258,0.857,0.0,0.142,0.441,85.949,audio_features,0FHNqVPxu14WivXR4Y2hFr,163333,4,Creo en Ti,Reik,61
 0.705,0.805,4,-4.887,0,0.0595,0.134,0.000139,0.367,0.887,120.022,audio_features,1nAGuIZXz6vb8XW0xiMqic,223493,4,Papi,Jennifer Lopez,60
 0.613,0.697,2,-8.618,1,0.133,0.0194,0.0,0.332,0.476,122.746,audio_features,0DiWol3AO6WpXZgp0goxAV,320357,4,One More Time,Daft Punk,78
@@ -1635,19 +1483,13 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.23,0.536,10,-10.943,1,0.0339,0.241,0.949,0.108,0.215,167.529,audio_features,5RxiIuENeUT7hWmDPKBzD1,239971,4,Circle of Life (From 'the Lion King') [Originally Performed by Carmen Twillie & Lebo M] - Karaoke Instrumental Version,Hit The Button Karaoke,3
 0.773,0.747,5,-4.061,1,0.0885,0.0242,8.99e-06,0.109,0.801,126.014,audio_features,0ErK6K0kYr0Ow2RkPMhmMs,246240,4,Shout Out to My Ex,Little Mix,75
 0.651,0.695,6,-3.218,1,0.0487,0.23,0.0,0.144,0.569,123.008,audio_features,3sP3c86WFjOzHHnbhhZcLA,205347,4,Give Your Heart a Break,Demi Lovato,73
-0.765,0.269,5,-10.773,0,0.121,0.324,0.395,0.106,0.359,189.96,audio_features,15i07hah64WMAVWte3j5QU,245368,4,Closer (Originally Performed by the Chainsmokers Ft. Halsey) - Instrumental Version,Hit The Button Karaoke,2
-0.765,0.269,5,-10.773,0,0.121,0.324,0.395,0.106,0.359,189.96,audio_features,15i07hah64WMAVWte3j5QU,245368,4,Closer (Originally Performed by the Chainsmokers Ft. Halsey) - Instrumental Version,Hit The Button Karaoke,2
 0.925,0.449,5,-7.158,0,0.0389,0.269,0.00055,0.0932,0.445,99.95,audio_features,3NsgELeQcsGaOlIW5EvpaS,235639,4,Moscow Mule (Tribute Version Originally Performed By Bad Bunny),Hits Capital 200,5
-0.532,0.783,2,-5.697,1,0.0523,0.0038,0.0012,0.161,0.643,124.08,audio_features,0nrRP2bk19rLc0orkWPQk2,247427,4,Wake Me Up,Avicii,88
-0.532,0.783,2,-5.697,1,0.0523,0.0038,0.0012,0.161,0.643,124.08,audio_features,0nrRP2bk19rLc0orkWPQk2,247427,4,Wake Me Up,Avicii,88
 0.804,0.674,5,-5.453,0,0.0333,0.294,1.18e-06,0.115,0.292,99.968,audio_features,6Xom58OOXk2SoU711L2IXO,245940,4,Moscow Mule,Bad Bunny,84
 0.813,0.809,3,-5.382,0,0.0846,0.102,1.37e-06,0.377,0.646,93.005,audio_features,1WedZeiezCmCEOzLwhx0hV,393280,4,Poblado - Remix,J Balvin,71
 0.534,0.583,2,-8.672,1,0.0288,0.0262,0.0,0.421,0.145,106.0,audio_features,64PgpLHuQK3UJ5qZ875Vei,231547,4,Save That Shit,Lil Peep,79
 0.681,0.314,8,-9.319,1,0.0581,0.2,9.82e-06,0.1,0.166,139.992,audio_features,6mapJIPnQ23RTAevUoE0DL,208120,4,Swang,Rae Sremmurd,77
 0.772,0.758,9,-3.891,1,0.0482,0.0433,0.0,0.295,0.654,115.977,audio_features,5Km4r87BoX2qqtoprYS1gh,265240,4,LOCATION,KAROL G,61
 0.799,0.843,1,-4.679,1,0.3,0.00424,0.0,0.379,0.781,160.47,audio_features,69YY68QbEf9o1LILdwzepA,144327,4,Juju On That Beat,Zay Hilfigerrr & Zayion McCall,50
-0.336,0.627,7,-7.463,1,0.0384,0.164,0.0,0.0708,0.35,150.273,audio_features,0bYg9bo50gSsH3LtXe2SQn,241107,4,All I Want for Christmas Is You,Mariah Carey,98
-0.336,0.627,7,-7.463,1,0.0384,0.164,0.0,0.0708,0.35,150.273,audio_features,0bYg9bo50gSsH3LtXe2SQn,241107,4,All I Want for Christmas Is You,Mariah Carey,98
 0.854,0.747,7,-4.149,1,0.0402,0.569,0.0,0.136,0.649,104.956,audio_features,74i0ocFuhVOLp3f5kNKjeT,204573,4,Não Deixo Não,Mano Walter,56
 0.58,0.768,7,-3.483,1,0.0382,0.485,0.0,0.452,0.675,134.96,audio_features,1xFgXCY8Zvo76gHg4RgUaU,195370,4,Sosseguei - Ao Vivo,Jorge & Mateus,60
 0.697,0.691,2,-4.757,1,0.146,0.214,0.0,0.185,0.305,137.853,audio_features,1PSBzsahR2AKwLJgx8ehBj,239293,4,Bad Things (with Camila Cabello),Machine Gun Kelly,74
@@ -1657,8 +1499,6 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.7,0.742,5,-6.777,0,0.0716,0.0722,0.0199,0.11,0.197,91.959,audio_features,2oaK4JLVnmRGIO9ytBE1bt,302000,4,Dark Necessities,Red Hot Chili Peppers,76
 0.679,0.474,6,-6.323,1,0.0294,0.546,0.00149,0.373,0.197,117.947,audio_features,4B1sb2YVO03sBmyR8bvzEB,265733,4,Pero Me Acuerdo de Tí,Christina Aguilera,67
 0.583,0.61,5,-5.639,0,0.0382,0.00425,0.000105,0.14,0.336,114.06,audio_features,3uwnnTQcHM1rDqSfA4gQNz,214740,4,Cool for the Summer,Demi Lovato,81
-0.856,0.641,11,-4.64,0,0.204,0.119,4.97e-06,0.427,0.745,111.004,audio_features,11VApNQCWLJdzxWrlmwzUa,206221,4,Say So (feat. Nicki Minaj),Doja Cat,61
-0.856,0.641,11,-4.64,0,0.204,0.119,4.97e-06,0.427,0.745,111.004,audio_features,11VApNQCWLJdzxWrlmwzUa,206221,4,Say So (feat. Nicki Minaj),Doja Cat,61
 0.723,0.698,0,-3.155,0,0.287,0.209,0.000795,0.0513,0.529,169.837,audio_features,170bb45dHeLQdCZjAltIiB,146431,4,Hornn Blow,Harrdy Sandhu,67
 0.841,0.774,6,-4.963,0,0.0421,0.117,2.66e-06,0.0674,0.494,95.006,audio_features,3KZCP2StVGdWkOKyRZNWA4,192120,4,Es un Secreto,Plan B,86
 0.855,0.463,3,-7.454,1,0.0367,0.217,1.77e-05,0.347,0.866,102.931,audio_features,7BoobGhD4x5K96Me0hqC8Q,122773,4,Build a Bitch,Bella Poarch,74
@@ -1680,8 +1520,6 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.808,0.376,10,-10.145,0,0.0424,0.0034,0.514,0.31,0.605,119.994,audio_features,3noJGBSPcoFUUWxAFUEdsP,223458,4,Don't Cha (Originally Performed By The Pussycat Dolls feat. Busta Rhymes) [Karaoke Version],The Karaoke Channel,0
 0.836,0.801,11,-3.652,1,0.0427,0.0643,0.0,0.0371,0.839,99.997,audio_features,0XBPinXhWqkGZxuKJRqk77,214219,4,Razzi Bolja,Harjeet Deewana,57
 0.528,0.777,9,-3.229,0,0.0379,0.483,0.0,0.0754,0.493,94.949,audio_features,5SYcKZYmQnHBW1LGLOi8sH,257416,4,Chhor Denge,Sachet-Parampara,57
-0.805,0.919,1,-1.294,1,0.0938,0.101,0.00343,0.0598,0.494,94.993,audio_features,5fXslGZPI5Cco6PKHzlSL3,188606,4,"Illegal Weapon 2.0 (From ""Street Dancer 3D"")",Jasmine Sandlas,69
-0.805,0.919,1,-1.294,1,0.0938,0.101,0.00343,0.0598,0.494,94.993,audio_features,5fXslGZPI5Cco6PKHzlSL3,188606,4,"Illegal Weapon 2.0 (From ""Street Dancer 3D"")",Jasmine Sandlas,69
 0.47,0.414,1,-10.145,1,0.0419,0.0219,0.0,0.082,0.47,161.913,audio_features,1x27t6mqX9PYYEB5BdykVW,147925,3,The Chipmunk Song (Christmas Don't Be Late),Bryson Tiller,48
 0.69,0.872,11,-2.984,0,0.0588,0.226,0.0,0.0858,0.731,94.0,audio_features,4N1c5rmWOzRmB9SMacr5wB,252200,4,Loco Enamorado,Abraham Mateo,60
 0.896,0.71,7,-8.275,1,0.226,0.00296,1.84e-05,0.151,0.594,130.015,audio_features,7jIwADGogl6x8YJKW2xxot,254769,4,Boom Boom Pow (Made Famous by Black Eyed Peas),The Pop Heroes,2
@@ -1737,8 +1575,6 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.305,0.483,3,-6.457,0,0.0323,0.218,1.86e-05,0.112,0.233,169.655,audio_features,1DnvOaVFXd9Q7YC7tkgllK,225797,3,Llorar (feat. Mario Domm),Jesse & Joy,49
 0.569,0.601,1,-5.554,1,0.0275,0.274,0.0,0.111,0.397,139.904,audio_features,0832pFK9N12P1B0nuaUb2Z,223787,4,Te Fuiste de Aquí,Reik,65
 0.488,0.343,4,-8.985,1,0.0436,0.556,0.0,0.21,0.0978,102.819,audio_features,4l0Mvzj72xxOpRrp6h8nHi,206459,4,Lose You To Love Me,Selena Gomez,82
-0.729,0.868,3,-3.319,1,0.0609,0.00939,0.0,0.283,0.632,124.957,audio_features,0yIywEquxORnu1dR0WYsdN,191573,4,Love Me,Justin Bieber,71
-0.729,0.868,3,-3.319,1,0.0609,0.00939,0.0,0.283,0.632,124.957,audio_features,0yIywEquxORnu1dR0WYsdN,191573,4,Love Me,Justin Bieber,71
 0.645,0.878,5,-3.208,0,0.113,0.294,0.0,0.076,0.862,82.324,audio_features,0S4RKPbRDA72tvKwVdXQqe,227027,4,The Way,Ariana Grande,70
 0.699,0.444,0,-3.803,1,0.0316,0.435,0.0,0.313,0.525,138.139,audio_features,0B5nnPv1ebuo0VFXCMfUij,186653,4,Seremos,El Bebeto,71
 0.721,0.7,7,-6.028,1,0.0673,0.485,0.0,0.837,0.645,134.016,audio_features,4kGoQLmgPxVcDzhdeqvlOp,277613,4,Muleque De Vila - Ao Vivo,Projota,61
@@ -1750,16 +1586,11 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.606,0.601,2,-5.576,1,0.0283,0.796,0.000511,0.127,0.453,125.961,audio_features,6871FKHumiy1Wfr6vF7Xxt,289999,4,"Hawayein (From ""Jab Harry Met Sejal"")",Pritam,67
 0.555,0.698,0,-8.874,1,0.0287,0.403,0.0,0.0851,0.816,168.12,audio_features,013AWvizllIUEC2FOBzOnh,277267,4,Truly Madly Deeply,Savage Garden,72
 0.886,0.525,8,-7.39,1,0.131,0.236,0.0,0.057,0.708,145.99,audio_features,4a87wpeqAcOv03pYihEzku,225205,4,Broccoli (feat. Lil Yachty),DRAM,57
-0.628,0.69,8,-5.83,1,0.0511,0.443,0.0,0.113,0.66,179.908,audio_features,7qCAVkHWZkF44OzOUKf8Cr,205907,4,El Perdón (with Enrique Iglesias),Nicky Jam,76
-0.628,0.69,8,-5.83,1,0.0511,0.443,0.0,0.113,0.66,179.908,audio_features,7qCAVkHWZkF44OzOUKf8Cr,205907,4,El Perdón (with Enrique Iglesias),Nicky Jam,76
-0.628,0.69,8,-5.83,1,0.0511,0.443,0.0,0.113,0.66,179.908,audio_features,7qCAVkHWZkF44OzOUKf8Cr,205907,4,El Perdón (with Enrique Iglesias),Nicky Jam,76
 0.577,0.749,5,-7.215,0,0.0279,0.599,0.0115,0.183,0.255,130.97,audio_features,0BCPKOYdS2jbQ8iyB56Zns,307880,4,Clocks,Coldplay,84
 0.905,0.686,0,-3.152,1,0.0664,0.0907,0.0,0.266,0.963,103.013,audio_features,11EnQRgRMJwMAesfkB5pnu,155825,4,Se Te Nota (with Guaynaa),Lele Pons,70
 0.659,0.665,8,-8.181,0,0.0266,0.456,0.000486,0.0898,0.692,93.012,audio_features,1ocYa8PoVd5e2vPn0xHJcA,252160,4,Saiyaara,Sohail Sen,72
 0.687,0.723,7,-4.751,1,0.0709,0.122,0.00102,0.573,0.432,76.0,audio_features,3pD0f7hSJg2XdQ6udw5Tey,448573,4,What Goes Around.../...Comes Around (Interlude),Justin Timberlake,75
 0.877,0.854,1,-4.523,1,0.147,0.0544,5.5e-05,0.144,0.54,114.472,audio_features,0sKlV58cODrjxGFOyf9IXY,298120,4,The Way You Make Me Feel - 2012 Remaster,Michael Jackson,73
-0.402,0.845,2,-6.459,1,0.0319,0.000676,0.0,0.158,0.686,174.727,audio_features,4yBiZFLXn0n9AUJ5sWO88k,258717,4,Wonderwall,Oasis,64
-0.402,0.845,2,-6.459,1,0.0319,0.000676,0.0,0.158,0.686,174.727,audio_features,4yBiZFLXn0n9AUJ5sWO88k,258717,4,Wonderwall,Oasis,64
 0.617,0.717,10,-7.858,0,0.153,0.00564,0.0,0.408,0.49,103.992,audio_features,0j2T0R9dR9qdJYsB7ciXhf,311867,4,Stronger,Kanye West,85
 0.511,0.363,4,-7.65,0,0.041,0.816,0.0317,0.084,0.169,144.892,audio_features,7hDVYcQq6MxkdJGweuCtl9,200379,4,ocean eyes,Billie Eilish,85
 0.665,0.617,6,-10.447,0,0.0798,0.054,0.0,0.0627,0.39,179.96,audio_features,2iI4ZNinMoRf4ZTwfnipep,223086,4,Si Tu No Estas (In The Style Of Nicky Jam & de la Ghetto) [Tribute Version],Brava HitMakers,4
@@ -1768,8 +1599,6 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.824,0.836,3,-5.903,1,0.0404,0.00521,0.000817,0.112,0.716,122.014,audio_features,4TCL0qqKyqsMZml0G3M9IM,220640,4,Telephone,Lady Gaga,75
 0.866,0.859,1,-3.087,0,0.0587,0.138,0.0,0.401,0.923,109.972,audio_features,4178A5NkEjcsGc64jpBO6d,200347,4,Calypso,Luis Fonsi,57
 0.62,0.573,0,-11.893,1,0.0423,0.271,0.0,0.0607,0.897,81.548,audio_features,0ikz6tENMONtK6qGkOrU3c,231333,4,Wake Me Up Before You Go-Go,Wham!,82
-0.531,0.431,2,-8.937,0,0.037,0.868,2.47e-05,0.127,0.19,107.99,audio_features,5T2ZZiBMDGh3TZDUbxg4rV,241449,4,Kaun Tujhe,Palak Muchhal,70
-0.531,0.431,2,-8.937,0,0.037,0.868,2.47e-05,0.127,0.19,107.99,audio_features,5T2ZZiBMDGh3TZDUbxg4rV,241449,4,Kaun Tujhe,Palak Muchhal,70
 0.563,0.664,9,-5.044,1,0.154,0.335,0.0,0.0849,0.688,166.928,audio_features,4ZtFanR9U6ndgddUvNcjcG,178147,4,good 4 u,Olivia Rodrigo,86
 0.807,0.883,8,-4.376,1,0.0445,0.00798,0.207,0.0529,0.355,114.133,audio_features,3tS8q8SXxtrYSN8UgeQt6q,246240,4,Bad,Michael Jackson,58
 0.292,0.787,0,-5.264,1,0.0585,0.206,0.0,0.593,0.385,153.735,audio_features,3Zu6GzouMX4TLFUGhpZy9o,235583,4,Cuida Bem Dela / Aquela Pessoa - Ao Vivo Em Nova Iorque / 2022,Henrique & Juliano,59
@@ -1805,8 +1634,6 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.649,0.647,9,-7.695,0,0.0452,0.0039,0.161,0.0686,0.405,125.02,audio_features,3850dYVgOFIXJh5U4BFEWH,337733,4,Hung Up,Madonna,78
 0.727,0.696,5,-4.472,0,0.0706,0.251,0.0,0.0726,0.467,132.077,audio_features,1HR2CTi0ytRJIcik1QKdOa,392827,4,Beautiful,Eminem,73
 0.736,0.704,3,-7.409,0,0.0615,0.0203,0.0,0.0501,0.894,149.995,audio_features,27NovPIUIRrOZoCHxABJwK,212000,4,INDUSTRY BABY (feat. Jack Harlow),Lil Nas X,80
-0.817,0.672,11,-5.612,0,0.299,0.441,0.0,0.13,0.774,93.999,audio_features,6K5BsR04ijf3FHNzjbaagD,332240,4,Si Se Da - Remix,Myke Towers,78
-0.817,0.672,11,-5.612,0,0.299,0.441,0.0,0.13,0.774,93.999,audio_features,6K5BsR04ijf3FHNzjbaagD,332240,4,Si Se Da - Remix,Myke Towers,78
 0.702,0.629,1,-4.292,1,0.041,0.0506,0.0,0.0963,0.446,141.967,audio_features,3fBbfrWZUuWWrMQXFISr7N,244227,4,New Flame (feat. Usher & Rick Ross),Chris Brown,76
 0.884,0.347,8,-8.227,0,0.35,0.015,7e-06,0.0871,0.376,75.016,audio_features,5eqK0tbzUPo2SoeZsov04s,220307,4,Bank Account,21 Savage,79
 0.637,0.513,11,-6.846,0,0.283,0.3,0.000571,0.0981,0.27,196.088,audio_features,6kTMnty169llVx9sGHb6LD,231909,4,Solo,Amenazzy,76
@@ -1815,9 +1642,6 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.564,0.944,8,-0.532,1,0.0647,0.105,0.0,0.154,0.857,164.062,audio_features,52FCAZn0YEkZfF0BtiAUMW,186893,4,Heart Shaker,TWICE,66
 0.534,0.87,11,-3.078,0,0.0425,0.000334,0.0,0.241,0.462,126.019,audio_features,0JiY190vktuhSGN6aqJdrt,215160,4,So What,P!nk,79
 0.775,0.68,0,-5.508,0,0.0629,0.00906,0.0,0.109,0.656,114.025,audio_features,7oGZAicScQt96OAW4AruYy,207719,4,Want to Want Me,Jason Derulo,80
-0.589,0.651,6,-5.097,1,0.0306,0.0291,3.2e-06,0.111,0.166,90.011,audio_features,7gHs73wELdeycvS48JfIos,212627,4,Faded,Alan Walker,73
-0.589,0.651,6,-5.097,1,0.0306,0.0291,3.2e-06,0.111,0.166,90.011,audio_features,7gHs73wELdeycvS48JfIos,212627,4,Faded,Alan Walker,73
-0.589,0.651,6,-5.097,1,0.0306,0.0291,3.2e-06,0.111,0.166,90.011,audio_features,7gHs73wELdeycvS48JfIos,212627,4,Faded,Alan Walker,73
 0.319,0.846,6,-6.109,1,0.0796,0.0103,4.11e-05,0.475,0.0784,139.163,audio_features,5yZvaUVyuXfSVUaMumFi6l,213019,4,Runnin' (Lose It All),Naughty Boy,70
 0.627,0.858,11,-2.824,0,0.386,0.263,0.0,0.21,0.342,92.523,audio_features,1ga4PztXOIw1yBbdUt2X8v,209160,4,GATÚBELA,KAROL G,76
 0.393,0.858,4,-2.868,0,0.0729,0.00359,0.0,0.102,0.56,176.042,audio_features,04aAxqtGp5pv12UXAg4pkq,228360,4,Centuries,Fall Out Boy,82
@@ -1825,17 +1649,10 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.539,0.378,2,-8.421,1,0.033,0.544,3.17e-06,0.163,0.218,129.984,audio_features,1XYygsDoAVtEgYT81IqMAM,244011,4,"ขุนช้างฮ้างฮัก - From ""ไทบ้าน เดอะซีรีส์""",บอย พนมไพร,49
 0.446,0.27,10,-16.972,0,0.0576,0.906,8.14e-06,0.181,0.387,105.776,audio_features,6RmYooFPpavMhlOhoINDmK,622132,4,اه لو لعبت يا زهر,احمد شماسنه,5
 0.433,0.546,4,-6.556,1,0.0312,0.303,0.0,0.352,0.368,149.665,audio_features,5VVAQ1NAH1vFAoQ3PfXqtr,251520,3,Aqui Estoy Yo,Luis Fonsi,38
-0.928,0.892,9,-7.782,0,0.0388,0.0527,1.47e-05,0.0911,0.989,128.075,audio_features,6nFYXpBgrNcZjbtNEuc6yR,192227,4,I Am Your Gummy Bear (The Gummy Bear Song),Gummibär,63
-0.928,0.892,9,-7.782,0,0.0388,0.0527,1.47e-05,0.0911,0.989,128.075,audio_features,6nFYXpBgrNcZjbtNEuc6yR,192227,4,I Am Your Gummy Bear (The Gummy Bear Song),Gummibär,63
-0.928,0.892,9,-7.782,0,0.0388,0.0527,1.47e-05,0.0911,0.989,128.075,audio_features,6nFYXpBgrNcZjbtNEuc6yR,192227,4,I Am Your Gummy Bear (The Gummy Bear Song),Gummibär,63
-0.928,0.892,9,-7.782,0,0.0388,0.0527,1.47e-05,0.0911,0.989,128.075,audio_features,6nFYXpBgrNcZjbtNEuc6yR,192227,4,I Am Your Gummy Bear (The Gummy Bear Song),Gummibär,63
 0.456,0.299,4,-9.98,1,0.0981,0.629,0.0,0.0778,0.118,79.775,audio_features,2mkl0RWJn36fe0cX0oLahS,164733,4,Cuán lejos voy,Sara Paula Gómez Arias,62
 0.876,0.55,2,-5.464,1,0.152,0.0227,4.52e-05,0.294,0.557,129.924,audio_features,6u0EAxf1OJTLS7CvInuNd7,201532,4,Vai malandra (feat. Tropkillaz & DJ Yuri Martins),Anitta,67
 0.491,0.643,10,-4.309,1,0.0442,0.187,0.0,0.109,0.779,162.469,audio_features,6Um358vY92UBv5DloTRX9L,169419,4,Que Vuelvas,Carin Leon,84
 0.801,0.645,1,-6.93,1,0.0356,0.046,0.0,0.0357,0.824,110.011,audio_features,5u5MpBnvJejW9dHPrfWEXZ,215480,4,Superstar,Jamelia,71
-0.417,0.934,7,-3.908,0,0.119,0.000278,0.0015,0.132,0.287,127.066,audio_features,2DlHlPMa4M17kufBvI2lEN,210240,4,Chop Suey!,System Of A Down,86
-0.417,0.934,7,-3.908,0,0.119,0.000278,0.0015,0.132,0.287,127.066,audio_features,2DlHlPMa4M17kufBvI2lEN,210240,4,Chop Suey!,System Of A Down,86
-0.417,0.934,7,-3.908,0,0.119,0.000278,0.0015,0.132,0.287,127.066,audio_features,2DlHlPMa4M17kufBvI2lEN,210240,4,Chop Suey!,System Of A Down,86
 0.703,0.666,7,-8.901,0,0.0356,0.587,5.11e-06,0.0924,0.943,98.214,audio_features,5yDC62x6y5vZc32PzULCeU,435800,4,Saajanji Ghar Aaye,Kavita Krishnamurthy,59
 0.733,0.65,5,-3.539,1,0.0315,0.0703,6.59e-05,0.0829,0.348,110.003,audio_features,18AJRdgUoO9EYn11N7xzaT,209160,4,Habits (Stay High),Tove Lo,78
 0.775,0.867,5,-1.582,0,0.0414,0.0132,0.00684,0.278,0.869,96.038,audio_features,0atfY1ew83Ql9nNnJiD2t5,265747,4,Bonita,J Balvin,74
@@ -1853,8 +1670,6 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.512,0.574,5,-7.016,1,0.0273,0.0425,2.31e-05,0.105,0.161,119.917,audio_features,5GHY1DFWKz3Prg2V0Iodqo,280040,4,Nothing Compares 2 U,Sinéad O'Connor,77
 0.54,0.584,7,-9.579,1,0.0254,0.0108,0.00296,0.253,0.244,139.261,audio_features,4aYLAF6ckQ5ooGGGM7sWAa,386493,4,The Unforgiven,Metallica,76
 0.663,0.551,3,-8.272,0,0.109,0.236,3.57e-05,0.0923,0.601,113.314,audio_features,3XYvdqcZrTmRntFDDbJkJd,193414,3,Buzz (feat. Badshah),Aastha Gill,62
-0.512,0.574,5,-7.016,1,0.0273,0.0425,2.31e-05,0.105,0.161,119.917,audio_features,5GHY1DFWKz3Prg2V0Iodqo,280040,4,Nothing Compares 2 U,Sinéad O'Connor,77
-0.512,0.574,5,-7.016,1,0.0273,0.0425,2.31e-05,0.105,0.161,119.917,audio_features,5GHY1DFWKz3Prg2V0Iodqo,280040,4,Nothing Compares 2 U,Sinéad O'Connor,77
 0.823,0.391,0,-6.48,1,0.0454,0.262,1.3e-06,0.107,0.525,124.067,audio_features,6BBWzxX2rhG1YtI7Kzasqo,201960,4,Mejor Me Alejo,Banda MS de Sergio Lizárraga,47
 0.655,0.708,5,-6.403,0,0.141,0.568,0.00117,0.113,0.525,186.017,audio_features,140dx97IbJbQhIMd7AaHeb,188093,4,love nwantiti (ah ah ah) [feat. Joeboy & Kuami Eugene] [Remix],CKay,61
 0.83,0.858,6,-3.18,0,0.0554,0.134,1.72e-05,0.0567,0.949,119.974,audio_features,7hNYvX0qAKrxtVr1jGDmvR,296500,4,Gallan Goodiyaan,Yashita Sharma,68
@@ -1866,8 +1681,6 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.508,0.419,3,-6.575,1,0.166,0.899,0.0,0.899,0.711,90.166,audio_features,4q40gmFERhNI4qEXCNE4WT,275093,3,Não Fala Não pra Mim - Ao Vivo,Humberto & Ronaldo,13
 0.696,0.678,4,-5.893,0,0.0735,0.582,2.22e-06,0.134,0.346,91.985,audio_features,0TUW9faHNaBmi89wsYGp9y,219202,4,Mamichula - con Nicki Nicole,Trueno,80
 0.818,0.84,5,-3.328,1,0.092,0.433,1.16e-06,0.114,0.889,99.004,audio_features,4FxumkF81ICxITeqxx4nK9,206270,4,Sim ou não (Participação especial de Maluma),Anitta,58
-0.729,0.679,2,-5.456,0,0.0568,0.0822,0.0,0.1,0.75,108.964,audio_features,4fwtP5khM1iEoa6BP1QQsX,235022,4,Chocolat (feat. Awa Imani),Lartiste,61
-0.729,0.679,2,-5.456,0,0.0568,0.0822,0.0,0.1,0.75,108.964,audio_features,4fwtP5khM1iEoa6BP1QQsX,235022,4,Chocolat (feat. Awa Imani),Lartiste,61
 0.597,0.629,3,-5.013,0,0.0284,0.121,0.0,0.198,0.594,125.968,audio_features,3TvmtdPgAbvB0glqemoTEe,333334,4,Terre Pyaar Mein,Himesh Reshammiya,47
 0.618,0.76,6,-4.312,1,0.0596,0.0066,0.0,0.127,0.541,150.0,audio_features,7GbUWl6qLW1gdngbEV2WDJ,221341,4,Monster,EXO,68
 0.562,0.641,5,-4.901,0,0.0845,0.643,0.0,0.28,0.627,170.644,audio_features,1B5D51wDedzm68VnAEcH0a,195349,4,Duji Vaar Pyar,Sunanda Sharma,62
@@ -1879,8 +1692,6 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.499,0.984,10,-2.148,0,0.309,0.0245,0.0,0.0455,0.592,79.987,audio_features,6AknCCsxOsrJ2mkSdCtET1,234082,4,Agust D,Agust D,66
 0.691,0.771,10,-5.17,0,0.164,0.0511,0.0,0.135,0.673,78.463,audio_features,2HBtd9MYDd2xDVu8Zc6pwt,157643,4,GUMMO,6ix9ine,62
 0.793,0.804,0,-4.386,0,0.0361,0.176,0.0,0.0403,0.603,104.016,audio_features,1BFLQYT9DCh6GPn4GojRWE,224982,4,ПЛАКАЛА,KAZKA,53
-0.519,0.74,11,-6.333,1,0.405,0.54,0.0,0.727,0.851,165.482,audio_features,7LwLQvp7t2By3U5A8uuTlD,394747,4,Niégame Tres Veces - En Vivo,Silvestre Dangond,45
-0.519,0.74,11,-6.333,1,0.405,0.54,0.0,0.727,0.851,165.482,audio_features,7LwLQvp7t2By3U5A8uuTlD,394747,4,Niégame Tres Veces - En Vivo,Silvestre Dangond,45
 0.519,0.74,11,-6.333,1,0.405,0.54,0.0,0.727,0.851,165.482,audio_features,7LwLQvp7t2By3U5A8uuTlD,394747,4,Niégame Tres Veces - En Vivo,Silvestre Dangond,45
 0.519,0.74,11,-6.333,1,0.405,0.54,0.0,0.727,0.851,165.482,audio_features,7LwLQvp7t2By3U5A8uuTlD,394747,4,Niégame Tres Veces - En Vivo,Silvestre Dangond,45
 0.762,0.701,8,-3.541,1,0.0286,0.235,0.000158,0.123,0.742,110.968,audio_features,748mdHapucXQri7IAO8yFK,208867,4,Kiss Me More (feat. SZA),Doja Cat,78
@@ -1895,9 +1706,6 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.665,0.498,5,-8.185,1,0.0832,0.228,0.0,0.0757,0.127,81.967,audio_features,5yuShbu70mtHXY0yLzCQLQ,179613,4,Go Flex,Post Malone,80
 0.689,0.771,5,-3.618,1,0.0548,0.00776,0.0,0.521,0.482,157.052,audio_features,4XPXrcpyNr30Km6aPiflJy,167922,4,God’s Menu,Stray Kids,76
 0.677,0.75,2,-4.236,1,0.0482,0.149,0.0,0.916,0.385,88.034,audio_features,5WWiWnRnJQksXlKwMuBGND,325517,4,Na Hora de Amar - Ao Vivo,Gusttavo Lima,65
-0.417,0.934,7,-3.908,0,0.119,0.000278,0.0015,0.132,0.287,127.066,audio_features,2DlHlPMa4M17kufBvI2lEN,210240,4,Chop Suey!,System Of A Down,86
-0.417,0.934,7,-3.908,0,0.119,0.000278,0.0015,0.132,0.287,127.066,audio_features,2DlHlPMa4M17kufBvI2lEN,210240,4,Chop Suey!,System Of A Down,86
-0.417,0.934,7,-3.908,0,0.119,0.000278,0.0015,0.132,0.287,127.066,audio_features,2DlHlPMa4M17kufBvI2lEN,210240,4,Chop Suey!,System Of A Down,86
 0.622,0.915,3,-5.349,1,0.0413,0.0167,0.0,0.361,0.838,129.957,audio_features,3QMpLKsUkv6FZLSCnDaI4s,230147,4,C’est la vie,Khaled,40
 0.642,0.47,4,-9.104,1,0.0302,0.71,2.07e-05,0.113,0.301,131.975,audio_features,5ySRgkbuilkUBeFWmWYS9t,293668,4,ใจ... กลางเมือง,Labanoon,42
 0.769,0.721,10,-4.483,0,0.153,0.111,5.9e-05,0.0505,0.618,94.978,audio_features,31M5m42C3EGlbydf9XB5to,207720,4,Duro y Suave,Leslie Grace,62
@@ -1921,14 +1729,10 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.82,0.785,5,-4.003,0,0.158,0.59,1.79e-05,0.372,0.894,140.013,audio_features,2VGs7EmaIxq96Wcog6DQOc,259293,4,Why This Kolaveri Di? - The Soup of Love,Anirudh Ravichander,66
 0.863,0.501,9,-8.753,0,0.0433,0.0164,0.0,0.272,0.357,99.994,audio_features,1OKvqRUG3QbaqLWGn7bhzF,246765,4,I Wanna Love You,Akon,65
 0.586,0.659,0,-7.92,0,0.0304,0.011,0.0,0.106,0.147,111.989,audio_features,3zYufmyv6HOuiHn1eMR6Ja,285960,4,Desert Rose,Sting,66
-0.669,0.78,7,-4.287,0,0.053,0.0265,1.63e-06,0.143,0.738,139.945,audio_features,5ka2ajep9OAvU5Sgduhiex,212333,4,Applause,Lady Gaga,79
-0.669,0.78,7,-4.287,0,0.053,0.0265,1.63e-06,0.143,0.738,139.945,audio_features,5ka2ajep9OAvU5Sgduhiex,212333,4,Applause,Lady Gaga,79
 0.859,0.959,10,-3.969,0,0.267,0.3,0.0,0.111,0.89,120.031,audio_features,5HNFU22enS3uiv1I440dDU,236674,4,Ghungroo,Rohit Chauhan,24
 0.663,0.719,2,-6.317,0,0.051,0.687,0.0,0.262,0.727,95.005,audio_features,1Q8bQhEDEdQQgOgYtirRFN,254094,4,Sóng Gió,Jack,43
 0.763,0.608,5,-8.1,0,0.035,0.262,2.5e-05,0.12,0.393,121.02,audio_features,4255amV4enzl28KAn16rUO,138013,4,Are You With Me,Lost Frequencies,81
 0.822,0.739,1,-4.541,0,0.0311,0.0264,4.26e-05,0.181,0.745,118.992,audio_features,1dzQoRqT5ucxXVaAhTcT0J,241933,4,Just Dance,Lady Gaga,82
-0.73,0.701,5,-5.885,0,0.106,0.132,0.0,0.151,0.785,175.95,audio_features,6DUdDIRgLqCGq1DwkNWQTN,207307,4,Borro Cassette,Maluma,81
-0.73,0.701,5,-5.885,0,0.106,0.132,0.0,0.151,0.785,175.95,audio_features,6DUdDIRgLqCGq1DwkNWQTN,207307,4,Borro Cassette,Maluma,81
 0.63,0.694,11,-6.257,0,0.0253,0.00281,0.0,0.0719,0.216,97.005,audio_features,04ZTP5KsCypmtCmQg5tH9R,195519,4,I'm a Mess,Bebe Rexha,74
 0.874,0.869,11,-6.563,0,0.131,0.0614,7.74e-05,0.0278,0.781,140.065,audio_features,1DDbHdoDBDDk4ftBXrV0KP,188552,4,Xúc Xắc Xúc Xẻ,Bé Bảo An,11
 0.874,0.869,11,-6.563,0,0.131,0.0614,7.74e-05,0.0278,0.781,140.065,audio_features,1DDbHdoDBDDk4ftBXrV0KP,188552,4,Xúc Xắc Xúc Xẻ,Bé Bảo An,11
@@ -1939,8 +1743,6 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.796,0.68,10,-5.555,0,0.37,0.0575,0.000683,0.103,0.71,179.923,audio_features,6y8z28epOv5FlaxDv1Lo5B,176143,4,Jordan,Ryan Castro,82
 0.468,0.544,3,-6.755,0,0.0413,0.554,0.0,0.0864,0.296,72.957,audio_features,46Q0bzrsZyD2dzZCuLq5R2,272560,4,Min Awel Dekika,Elissa,62
 0.482,0.706,9,-5.762,1,0.0607,0.135,0.00106,0.105,0.144,92.513,audio_features,4esOae7i4rqTbAu9o5Pxco,224920,4,Girl on Fire,Alicia Keys,79
-0.862,0.823,10,-8.085,0,0.0431,0.00502,0.000467,0.0782,0.794,119.985,audio_features,2KAXsRLc9LAZklPjm6cQ5y,160000,4,Big Dick,Little Big,61
-0.862,0.823,10,-8.085,0,0.0431,0.00502,0.000467,0.0782,0.794,119.985,audio_features,2KAXsRLc9LAZklPjm6cQ5y,160000,4,Big Dick,Little Big,61
 0.578,0.866,1,-3.804,1,0.0619,0.00701,0.0,0.257,0.619,128.038,audio_features,4kbj5MwxO1bq9wjT5g9HaA,199080,4,Shut Up and Dance,WALK THE MOON,85
 0.675,0.751,0,-3.539,1,0.0296,0.0604,0.0,0.0893,0.612,118.384,audio_features,7y9iMe8SOB6z3NoHE2OfXl,181279,4,Bad At Love,Halsey,76
 0.756,0.789,2,-7.002,1,0.0324,0.53,0.000711,0.157,0.873,127.987,audio_features,5k5fWendNngd89O8JKoE8L,176267,4,Better When I'm Dancin',Meghan Trainor,76
@@ -1950,8 +1752,6 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.451,0.732,6,-7.78,0,0.0391,0.372,0.000215,0.0744,0.881,102.868,audio_features,36ehE8uTSjEpyD4W1a80N8,441027,4,Mubarak Ho Mubarak Ho,Kumar Sanu,17
 0.753,0.394,9,-13.29,1,0.0334,0.532,0.0,0.201,0.67,124.961,audio_features,0eeZB005oPm27X7vldfvNq,233143,4,No Me Digas Que No,Made famous by Enrique Iglesias feat Wisin y Yandel,6
 0.76,0.781,11,-2.881,0,0.0641,0.233,0.0,0.106,0.736,95.97,audio_features,16dL6zhP5MLxEwX8sbqCOa,222399,4,Just Right,GOT7,61
-0.565,0.654,1,-6.826,0,0.0335,0.0542,1.8e-06,0.122,0.235,111.968,audio_features,3BJe4B8zGnqEdQPMvfVjuS,265427,4,Summertime Sadness,Lana Del Rey,87
-0.565,0.654,1,-6.826,0,0.0335,0.0542,1.8e-06,0.122,0.235,111.968,audio_features,3BJe4B8zGnqEdQPMvfVjuS,265427,4,Summertime Sadness,Lana Del Rey,87
 0.643,0.802,6,-4.92,1,0.0227,0.0299,0.0,0.0719,0.53,95.99,audio_features,3X7uFMzJrEE0sxn62qd8Ch,270333,4,Nothing's Gonna Stop Us Now,Starship,81
 0.727,0.585,4,-10.229,0,0.176,0.172,0.0,0.221,0.564,151.87,audio_features,1YUWhlQjFv7MQpcbb77zTL,430296,4,Poesia Acústica #3: Capricorniana,Pineapple StormTv,69
 0.551,0.436,8,-8.029,1,0.0428,0.395,0.0,0.0719,0.862,188.651,audio_features,74WROFXsox6wkeUrEK2DS6,170745,3,Chale,Eden Muñoz,78
@@ -1962,17 +1762,11 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.843,0.841,4,-3.238,0,0.0625,0.0313,0.000133,0.307,0.853,101.027,audio_features,5dKb7RF1I6d5Mo5e6fdzln,210475,4,Relación (Remix),Sech,16
 0.729,0.625,4,-5.266,1,0.0315,0.194,0.00986,0.248,0.261,146.034,audio_features,1xzBco0xcoJEDXktl7Jxrr,183907,4,Mo Bamba,Sheck Wes,80
 0.729,0.625,4,-5.266,1,0.0315,0.194,0.00986,0.248,0.261,146.034,audio_features,1xzBco0xcoJEDXktl7Jxrr,183907,4,Mo Bamba,Sheck Wes,80
-0.729,0.625,4,-5.266,1,0.0315,0.194,0.00986,0.248,0.261,146.034,audio_features,1xzBco0xcoJEDXktl7Jxrr,183907,4,Mo Bamba,Sheck Wes,80
-0.729,0.625,4,-5.266,1,0.0315,0.194,0.00986,0.248,0.261,146.034,audio_features,1xzBco0xcoJEDXktl7Jxrr,183907,4,Mo Bamba,Sheck Wes,80
 0.536,0.768,10,-5.948,0,0.0347,0.00433,0.0,0.114,0.545,77.217,audio_features,2Bs4jQEGMycglOfWPBqrVG,228133,4,Steal My Girl,One Direction,81
 0.572,0.778,1,-5.208,1,0.233,0.00638,0.0,0.0563,0.54,168.073,audio_features,123I2ujxkq0OBWKUWY0c42,225520,4,Good Life (with G-Eazy & Kehlani),G-Eazy,48
-0.616,0.989,9,-1.698,0,0.0483,0.166,0.0,0.172,0.902,95.036,audio_features,0OMRAvrtLWE2TvcXorRiB9,203160,4,La Gozadera (feat. Marc Anthony),Gente De Zona,75
-0.616,0.989,9,-1.698,0,0.0483,0.166,0.0,0.172,0.902,95.036,audio_features,0OMRAvrtLWE2TvcXorRiB9,203160,4,La Gozadera (feat. Marc Anthony),Gente De Zona,75
 0.807,0.534,9,-9.691,1,0.0855,0.0615,0.0109,0.0792,0.155,138.984,audio_features,2T7Ye4cGD5byLzHwPuiP4W,214101,4,Man's Not Hot - 2Scratch Remix,Big Shaq,34
 0.773,0.54,6,-7.123,1,0.103,0.371,0.0,0.131,0.322,84.115,audio_features,6tDxrq4FxEL2q15y37tXT9,280000,4,Dear Mama,2Pac,73
 0.474,0.631,5,-5.884,0,0.343,0.0687,0.0,0.132,0.425,180.051,audio_features,6Gg1gjgKi2AK4e0qzsR7sd,189323,4,Bandit (with YoungBoy Never Broke Again),Juice WRLD,73
-0.663,0.913,5,-4.681,0,0.152,0.415,0.000496,0.158,0.805,187.552,audio_features,4uXJADmybUHUgycBWFHeq6,245760,3,Ramuloo Ramulaa - Duet,Anurag Kulkarni,61
-0.663,0.913,5,-4.681,0,0.152,0.415,0.000496,0.158,0.805,187.552,audio_features,4uXJADmybUHUgycBWFHeq6,245760,3,Ramuloo Ramulaa - Duet,Anurag Kulkarni,61
 0.789,0.731,2,-6.245,0,0.101,0.139,1.92e-06,0.635,0.79,81.009,audio_features,6VrBWh90BiwWmwKtvwWFcq,248827,4,Ambiente,J Balvin,55
 0.713,0.526,1,-5.046,1,0.032,0.00767,0.000148,0.124,0.131,131.05,audio_features,1wHZx0LgzFHyeIZkUydNXq,262693,4,Antidote,Travis Scott,76
 0.568,0.56,0,-6.616,1,0.027,0.377,0.0,0.0967,0.293,128.104,audio_features,1N2he5ge8QV7vsmme1nZ8Q,258064,4,ขอเวลาลืม ft.Ouiai,Aun Feeble Heart,45
@@ -1980,13 +1774,9 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.748,0.856,11,-3.517,0,0.0348,0.0824,0.0,0.142,0.927,123.031,audio_features,0Be7sopyKMv8Y8npsUkax2,189320,4,Tacones Rojos,Sebastian Yatra,75
 0.596,0.71,11,-4.33,1,0.0376,0.376,0.0,0.308,0.638,134.867,audio_features,6GDDjSF8kTVunYg6uPFwBT,181052,4,Tijolinho por Tijolinho,Enzo Rabelo,60
 0.739,0.945,0,-4.443,0,0.0881,0.125,0.0,0.112,0.627,130.018,audio_features,1GLx5tpDdwEFiA7KaikvX2,312987,4,Beautiful,Akon,72
-0.829,0.857,8,-4.194,0,0.152,0.26,0.0,0.415,0.586,137.979,audio_features,5Ravsw8TmHN5wBiYPPYUFw,240747,4,Right Now (Na Na Na),Akon,79
-0.829,0.857,8,-4.194,0,0.152,0.26,0.0,0.415,0.586,137.979,audio_features,5Ravsw8TmHN5wBiYPPYUFw,240747,4,Right Now (Na Na Na),Akon,79
 0.506,0.805,1,-4.119,1,0.0469,0.00711,0.00193,0.0856,0.383,126.008,audio_features,46lFttIf5hnUZMGvjK0Wxo,227074,4,Runaway (U & I),Galantis,77
 0.506,0.805,1,-4.119,1,0.0469,0.00711,0.00193,0.0856,0.383,126.008,audio_features,46lFttIf5hnUZMGvjK0Wxo,227074,4,Runaway (U & I),Galantis,77
 0.58,0.75,4,-4.421,1,0.194,0.159,0.0,0.274,0.728,86.938,audio_features,69ghzc538EQSVon2Gm3wrr,229107,4,One Less Lonely Girl,Justin Bieber,71
-0.506,0.805,1,-4.119,1,0.0469,0.00711,0.00193,0.0856,0.383,126.008,audio_features,46lFttIf5hnUZMGvjK0Wxo,227074,4,Runaway (U & I),Galantis,77
-0.506,0.805,1,-4.119,1,0.0469,0.00711,0.00193,0.0856,0.383,126.008,audio_features,46lFttIf5hnUZMGvjK0Wxo,227074,4,Runaway (U & I),Galantis,77
 0.671,0.936,9,-4.349,1,0.128,0.0244,0.0,0.0537,0.868,136.973,audio_features,4UyRJfzmAZQ9ImIX9UCPgG,190949,4,Góraleczka jak ze snu,Kordian,31
 0.608,0.614,2,-3.727,1,0.0285,0.227,4.06e-06,0.157,0.402,127.884,audio_features,3UN6cIn3VIyg0z1LCuFSum,208133,4,Without You (feat. Usher),David Guetta,73
 0.635,0.847,7,-3.152,1,0.447,0.533,0.0,0.154,0.568,166.072,audio_features,7JYsArznYOjX2jsrT3UEnL,234650,4,OOOUUU,Young M.A,69
@@ -2005,8 +1795,6 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.439,0.447,10,-8.318,0,0.0436,0.111,0.0,0.303,0.11,121.48,audio_features,1W7zkKgRv9mrLbfdQ8XyH3,177029,4,Gangsta,Kehlani,74
 0.762,0.669,7,-5.385,1,0.169,0.0957,0.0,0.0619,0.765,86.998,audio_features,22eQOOg2k1ltIg1ESfaG50,274666,4,I’m Still in Love with You,Sean Paul,2
 0.365,0.851,4,-6.238,0,0.0645,0.0964,0.003,0.237,0.309,78.086,audio_features,1sWeSMifj6Z6kZyI6z3bRc,171040,4,Warriors,Imagine Dragons,76
-0.879,0.703,1,-4.219,1,0.0701,0.143,0.0,0.0569,0.788,94.004,audio_features,6mAN61JH0dzyZpWslS11jy,199711,4,Fantasias,Rauw Alejandro,76
-0.879,0.703,1,-4.219,1,0.0701,0.143,0.0,0.0569,0.788,94.004,audio_features,6mAN61JH0dzyZpWslS11jy,199711,4,Fantasias,Rauw Alejandro,76
 0.791,0.59,1,-9.206,0,0.0793,0.0994,0.00203,0.065,0.714,119.951,audio_features,2GYHyAoLWpkxLVa4oYTVko,206067,4,Alors on danse - Radio Edit,Stromae,80
 0.759,0.245,6,-6.545,1,0.138,0.515,0.000154,0.102,0.209,96.992,audio_features,4cxMGhkinTocPSVVKWIw0d,237507,4,Losin Control,Russ,77
 0.532,0.769,10,-5.899,1,0.0501,0.386,0.0,0.942,0.463,123.413,audio_features,1MparvKC8QIDwu06iO3qVr,192632,4,Volta Por Baixo - Ao Vivo,Henrique & Juliano,69
@@ -2029,8 +1817,6 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.586,0.865,7,-4.092,1,0.319,0.0345,5.7e-06,0.165,0.468,172.912,audio_features,4QVFtAswXqPoAWRLo5yu8a,242293,4,Power (feat. Stormzy),Little Mix,61
 0.671,0.417,11,-8.709,1,0.208,0.665,0.0,0.349,0.492,143.929,audio_features,5o6StwqqVfG3vRLx8UP310,308037,3,Surat Cinta Untuk Starla,Virgoun,74
 0.943,0.846,2,-4.025,1,0.212,0.0889,0.0,0.113,0.699,136.093,audio_features,3kyGlb9iNqhKJsS2WVNyzH,213841,4,Demet Akalın,Ben Fero,57
-0.772,0.803,1,-3.035,1,0.0468,0.188,0.0,0.434,0.853,94.981,audio_features,6U2NuJILEOEpW2tVCuqKHb,242160,4,Dura - Remix,Daddy Yankee,65
-0.772,0.803,1,-3.035,1,0.0468,0.188,0.0,0.434,0.853,94.981,audio_features,6U2NuJILEOEpW2tVCuqKHb,242160,4,Dura - Remix,Daddy Yankee,65
 0.398,0.939,9,-2.865,0,0.0648,0.00591,0.000881,0.357,0.235,92.027,audio_features,5hheGdf1cb4rK0FNiedCfK,342821,4,The Devil in I,Slipknot,74
 0.779,0.819,4,-3.229,1,0.0465,0.234,0.0,0.061,0.888,153.902,audio_features,0KlDHJm8yPsGdiNhYgEYWZ,177075,4,Amor Falso,Wesley Safadão,52
 0.72,0.652,9,-8.44,1,0.0926,0.259,0.0,0.366,0.943,129.97,audio_features,2769bsAacTC15CEFQjnQsC,234462,4,Я тебя люблю,Alexey Vorobyov,39
@@ -2040,8 +1826,6 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.828,0.599,11,-1.624,1,0.149,0.381,0.0,0.0775,0.478,86.533,audio_features,3Hb9kUdm4yf839Fle4RIdT,171692,5,Parado no Bailão,MC L da Vinte,77
 0.694,0.664,2,-4.649,1,0.05,0.639,0.0,0.0929,0.676,95.941,audio_features,7lakl3bPRdQqUGX9m755jX,281500,4,Earth,Lil Dicky,60
 0.501,0.439,3,-7.521,0,0.0313,0.482,0.000117,0.087,0.145,138.377,audio_features,4GCGH6TJ69neckwITeBFXK,406040,4,Earth Song,Michael Jackson,69
-0.414,0.735,11,-5.161,0,0.123,0.513,0.0,0.376,0.759,90.849,audio_features,1VvyJqs2x2hXr5qYUL4ER2,243931,4,Qismat,Ammy Virk,51
-0.414,0.735,11,-5.161,0,0.123,0.513,0.0,0.376,0.759,90.849,audio_features,1VvyJqs2x2hXr5qYUL4ER2,243931,4,Qismat,Ammy Virk,51
 0.808,0.903,9,-2.179,1,0.0729,0.0899,0.0,0.0816,0.922,120.044,audio_features,1utDFK1ARQcuZSwapf3cfb,198053,4,The Feels,TWICE,66
 0.687,0.746,0,-5.828,1,0.0332,0.528,0.0,0.419,0.727,108.001,audio_features,5asabafNzfAzjUecDvuNES,166839,4,Aquela Pessoa - Ao Vivo,Henrique & Juliano,76
 0.687,0.761,9,-4.582,0,0.0876,0.102,0.0,0.147,0.743,113.939,audio_features,2GyA33q5rti5IxkMQemRDH,223853,4,I Know What You Did Last Summer,Shawn Mendes,75
@@ -2055,8 +1839,6 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.522,0.385,0,-7.355,1,0.0288,0.536,0.0,0.135,0.236,89.792,audio_features,2RttW7RAu5nOAfq6YFvApB,207520,4,Happier,Ed Sheeran,80
 0.841,0.694,7,-5.114,0,0.0937,0.0759,0.0,0.102,0.83,90.034,audio_features,0uRHot8ml8U8cYVwwzMwNT,186976,4,Corazon De Seda (feat. Ozuna),Klasico,72
 0.575,0.679,2,-3.845,1,0.0278,0.0664,0.0,0.0956,0.601,107.878,audio_features,100Tm6z29RfHTdUQ6NIs0s,187520,3,Me Voy,Julieta Venegas,82
-0.789,0.95,5,-3.604,0,0.0759,0.191,1.41e-05,0.0969,0.746,126.013,audio_features,5x72Q1SyiDHJ4IF2mRzfkg,174711,4,"Gali Gali (From ""Kgf Chapter 1"")",Neha Kakkar,69
-0.789,0.95,5,-3.604,0,0.0759,0.191,1.41e-05,0.0969,0.746,126.013,audio_features,5x72Q1SyiDHJ4IF2mRzfkg,174711,4,"Gali Gali (From ""Kgf Chapter 1"")",Neha Kakkar,69
 0.857,0.561,9,-7.288,1,0.0292,0.435,0.0,0.0831,0.76,99.989,audio_features,3YmA3gZqlXl0MkwhkVKxRy,272576,4,Mi Verdad (feat. Shakira),Maná,77
 0.466,0.759,8,-4.978,0,0.199,0.0521,0.0,0.0587,0.328,160.033,audio_features,1jUA4rb6ZCv4gby4YU53xq,264373,4,No Air (feat. Chris Brown),Jordin Sparks,73
 0.676,0.913,7,-5.251,1,0.0537,0.00422,2.25e-06,0.0752,0.658,120.003,audio_features,36RTcbIM1CAOcUT8IZVCKy,285857,4,Yolla,Tarkan,50
@@ -2074,18 +1856,11 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.643,0.846,4,-3.593,0,0.0787,0.0157,0.0,0.156,0.728,173.997,audio_features,0R5PV1sCMf1UcfubQbe5aS,202093,4,Sólo Amigos,Adexe & Nau,51
 0.659,0.688,6,-4.649,1,0.0673,0.207,0.0,0.113,0.632,153.979,audio_features,0G2zPzWqVjR68iNPmx2TBe,273474,4,Volando - Remix,Mora,79
 0.851,0.701,9,-3.649,1,0.0396,0.311,0.000211,0.163,0.527,98.039,audio_features,5e50NiIlOc2YJIftHzoehd,173827,4,MALA SANTA,Becky G,63
-0.86,0.907,2,-3.321,1,0.0407,0.279,0.693,0.0648,0.786,138.045,audio_features,0Bo5fjMtTfCD8vHGebivqc,168880,4,Axel F,Crazy Frog,71
-0.86,0.907,2,-3.321,1,0.0407,0.279,0.693,0.0648,0.786,138.045,audio_features,0Bo5fjMtTfCD8vHGebivqc,168880,4,Axel F,Crazy Frog,71
 0.642,0.896,10,-5.174,0,0.0865,0.323,0.00384,0.106,0.933,83.721,audio_features,5S8QoBpUMpYLPSRJGTerOJ,389627,4,Taaron Ka Chamakta,Udit Narayan,48
 0.722,0.682,11,-4.796,1,0.0434,0.427,0.0,0.954,0.561,110.025,audio_features,40lU8uy8xKKRAP9A1N3BqH,247760,4,Ex de Verdad - HA-ASH Primera Fila - Hecho Realidad [En Vivo],Ha*Ash,73
-0.896,0.586,10,-6.687,0,0.0559,0.104,0.0,0.79,0.642,116.971,audio_features,0nbXyq5TXYPCO7pr3N8S4I,196653,4,The Box,Roddy Ricch,86
-0.896,0.586,10,-6.687,0,0.0559,0.104,0.0,0.79,0.642,116.971,audio_features,0nbXyq5TXYPCO7pr3N8S4I,196653,4,The Box,Roddy Ricch,86
 0.663,0.838,0,-5.744,0,0.0286,0.2,0.000177,0.0782,0.752,112.788,audio_features,6WK9dVrRABMkUXFLNlgWFh,255133,4,Enjoy the Silence,Depeche Mode,74
 0.563,0.674,5,-4.554,0,0.048,0.247,0.00226,0.107,0.784,179.977,audio_features,3EK4tGkSiO5xvvB5sM4tln,207333,4,Amárrame,Mon Laferte,77
 0.498,0.61,6,-5.098,1,0.0363,0.271,0.0,0.223,0.474,79.918,audio_features,7qEUFOVcxRI19tbT68JcYK,245427,4,Everything Has Changed (feat. Ed Sheeran) (Taylor’s Version),Taylor Swift,76
-0.531,0.834,2,-3.944,1,0.052,0.277,0.0,0.131,0.526,142.026,audio_features,1iRvhKiXRElIH2Uf4gd95P,247640,4,Dueles,Jesse & Joy,83
-0.531,0.834,2,-3.944,1,0.052,0.277,0.0,0.131,0.526,142.026,audio_features,1iRvhKiXRElIH2Uf4gd95P,247640,4,Dueles,Jesse & Joy,83
-0.531,0.834,2,-3.944,1,0.052,0.277,0.0,0.131,0.526,142.026,audio_features,1iRvhKiXRElIH2Uf4gd95P,247640,4,Dueles,Jesse & Joy,83
 0.689,0.713,11,-4.34,0,0.0398,0.505,0.0,0.0846,0.922,155.04,audio_features,2UWHLeOOB7bDuVgfVdYMCt,155655,4,K.O.,Pabllo Vittar,47
 0.709,0.949,0,-4.155,1,0.0509,0.00296,0.00022,0.26,0.398,128.966,audio_features,6dshconh2KBbGxVh7GtSTC,209700,4,Booty,Jennifer Lopez,59
 0.648,0.727,2,-6.761,1,0.0289,0.157,6.11e-06,0.15,0.514,147.883,audio_features,5etssK2rpk4SnHWWD1Q6xn,291867,4,Amor Clandestino,Maná,72
@@ -2095,8 +1870,6 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.701,0.826,3,-6.515,0,0.0907,0.0601,0.0,0.186,0.707,122.056,audio_features,6azjD02gDO2ZarIZMs3eRk,224392,4,Ensay,Saad Lamjarred,63
 0.585,0.643,3,-8.392,1,0.0395,0.201,0.000306,0.144,0.592,152.98,audio_features,3lGMtkONrZdJ8kTCg6KIFf,221800,3,Hasta la Raíz,Natalia Lafourcade,82
 0.551,0.402,11,-7.431,1,0.0262,0.676,0.0,0.0928,0.382,103.313,audio_features,2rxQMGVafnNaRaXlRMWPde,193200,4,Beautiful Crazy,Luke Combs,83
-0.646,0.865,6,-4.215,1,0.0983,0.269,4.16e-06,0.11,0.762,191.954,audio_features,4l3xGFwoTinvYxsePytOOf,217093,4,Báilame - Remix,Nacho,71
-0.646,0.865,6,-4.215,1,0.0983,0.269,4.16e-06,0.11,0.762,191.954,audio_features,4l3xGFwoTinvYxsePytOOf,217093,4,Báilame - Remix,Nacho,71
 0.766,0.743,3,-4.686,0,0.191,0.0778,1.85e-06,0.0982,0.846,138.018,audio_features,130EFnPhVklMpsIljz32Ts,195307,4,HIP -Japanese ver.-,MAMAMOO,43
 0.601,0.483,9,-9.078,1,0.0248,0.468,0.000118,0.0997,0.35,98.767,audio_features,0ZCRG08HEGeSopNRkRwFLr,372040,4,Kisi Se Mujhe Pyar Ho Gaya,Kumar Sanu,21
 0.713,0.713,8,-6.071,0,0.0275,0.127,0.0,0.0959,0.66,120.982,audio_features,7banl3X5MaXqsrtCdVnLHE,178547,3,Bellaquita,Rey Quinto,25
@@ -2104,18 +1877,12 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.648,0.563,9,-5.787,1,0.0307,0.601,0.0,0.121,0.603,81.018,audio_features,2tqIKAq7jGWdt7u6Gb8tRF,273189,4,Jogi,Yasser Desai,28
 0.672,0.855,9,-3.764,1,0.0397,0.021,0.0,0.323,0.646,123.056,audio_features,7ju97lgwC2rKQ6wwsf9no9,182200,4,Rain On Me (with Ariana Grande),Lady Gaga,75
 0.551,0.801,6,-5.069,1,0.0303,0.013,6.03e-06,0.265,0.625,128.027,audio_features,1mMLMZYXkMueg65jRRWG1l,240760,4,When It Rains It Pours,Luke Combs,83
-0.762,0.766,7,-3.955,1,0.0343,0.00776,6.98e-05,0.128,0.442,130.001,audio_features,5fwSHlTEWpluwOM0Sxnh5k,287120,4,Pepas,Farruko,82
-0.762,0.766,7,-3.955,1,0.0343,0.00776,6.98e-05,0.128,0.442,130.001,audio_features,5fwSHlTEWpluwOM0Sxnh5k,287120,4,Pepas,Farruko,82
-0.762,0.766,7,-3.955,1,0.0343,0.00776,6.98e-05,0.128,0.442,130.001,audio_features,5fwSHlTEWpluwOM0Sxnh5k,287120,4,Pepas,Farruko,82
-0.762,0.766,7,-3.955,1,0.0343,0.00776,6.98e-05,0.128,0.442,130.001,audio_features,5fwSHlTEWpluwOM0Sxnh5k,287120,4,Pepas,Farruko,82
 0.803,0.639,1,-6.281,0,0.066,0.423,0.0,0.172,0.835,120.019,audio_features,68py7hjoxoGSE8HEoQIIwi,262438,4,Centavito,Romeo Santos,62
 0.684,0.771,8,-5.353,1,0.0307,0.548,0.0,0.112,0.539,119.982,audio_features,0dLbrlAVPPjpPqnYfmJsWk,299827,4,Tera Hone Laga Hoon,Atif Aslam,72
 0.746,0.69,11,-7.956,1,0.164,0.247,0.0,0.101,0.497,89.977,audio_features,7ytR5pFWmSjzHJIeQkgog4,181733,4,ROCKSTAR (feat. Roddy Ricch),DaBaby,79
 0.733,0.688,1,-5.458,0,0.0672,0.455,0.0,0.117,0.654,130.026,audio_features,2fmeSswdyVq4wcqhY41UHk,611077,4,Poesia Acústica #9: Melhor Forma,Pineapple StormTv,71
 0.715,0.615,5,-5.475,0,0.0686,0.41,0.0,0.126,0.52,140.977,audio_features,1XDBrOUa5swy7lhO06mggm,227291,4,Sexto Sentido (feat. Bad Bunny),Gigolo Y La Exce,71
 0.754,0.734,11,-4.933,1,0.0532,0.0871,0.0,0.0837,0.842,97.997,audio_features,2jOhhdNkBc94SfAcrg5Z28,178547,4,Oh Daddy,NATTI NATASHA,53
-0.818,0.8,7,-6.794,1,0.0403,0.167,0.00178,0.139,0.816,125.026,audio_features,4oVsPF4wxgmUqSMTHiC4bN,147878,4,You Don't Know Me,Ofenbach,38
-0.818,0.8,7,-6.794,1,0.0403,0.167,0.00178,0.139,0.816,125.026,audio_features,4oVsPF4wxgmUqSMTHiC4bN,147878,4,You Don't Know Me,Ofenbach,38
 0.717,0.862,8,-4.736,1,0.054,0.00689,0.0,0.321,0.52,130.021,audio_features,1ULa3GfdMKs0MfRpm6xVlu,224933,4,We Dem Boyz,Wiz Khalifa,67
 0.498,0.528,6,-4.828,1,0.0296,0.056,0.0,0.217,0.27,140.001,audio_features,7q4abscmWJefxXHqZz1tIn,250111,4,La de la mala suerte,Jesse & Joy,46
 0.576,0.72,5,-4.146,1,0.029,0.0489,0.0,0.354,0.851,143.831,audio_features,543Yf5fBpv0ngJH5dOhOrV,137800,4,Marshmallow World,Francesca Battistelli,59
@@ -2126,8 +1893,6 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.789,0.858,1,-5.542,1,0.311,0.127,0.0,0.349,0.775,140.022,audio_features,1auxYwYrFRqZP7t3s7w4um,219333,4,Ni**as In Paris,JAY-Z,85
 0.481,0.932,4,-4.592,0,0.083,0.00721,0.0,0.337,0.543,149.992,audio_features,11Ojp7JniVvwd0gmgvyKkd,271000,4,Wrong Side of Heaven,Five Finger Death Punch,69
 0.652,0.847,6,-5.031,1,0.0552,0.188,0.0,0.378,0.515,163.939,audio_features,3Z7JMhKrVBiMvMd0xV1vyI,196803,4,A Partir De Hoy,David Bisbal,69
-0.843,0.841,4,-3.238,0,0.0625,0.0313,0.000133,0.307,0.853,101.027,audio_features,5dKb7RF1I6d5Mo5e6fdzln,210475,4,Relación (Remix),Sech,16
-0.843,0.841,4,-3.238,0,0.0625,0.0313,0.000133,0.307,0.853,101.027,audio_features,5dKb7RF1I6d5Mo5e6fdzln,210475,4,Relación (Remix),Sech,16
 0.541,0.787,2,-4.618,0,0.0331,0.0167,0.0,0.157,0.2,113.0,audio_features,66xn6tB8s3l8uhj02OGneE,245453,4,For You (Fifty Shades Freed) (& Rita Ora),Liam Payne,63
 0.691,0.765,8,-4.727,1,0.111,0.464,3.29e-06,0.203,0.855,174.021,audio_features,06s3QtMJVXw1AJX3UfvZG1,246000,4,Hasta Que Dios Diga,Anuel AA,82
 0.88,0.444,6,-8.577,1,0.168,0.444,0.0,0.0598,0.796,129.961,audio_features,6wONHNQrwsiYGlTSs24BBn,125206,4,Deu Onda - Ao Vivo,MC G15,11
@@ -2164,12 +1929,8 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.566,0.815,9,-4.481,0,0.14,0.0737,0.0,0.12,0.672,169.961,audio_features,5cY8y2XgOfkAh4kSWLFKkz,185587,4,I Write Sins Not Tragedies,Panic! At The Disco,73
 0.87,0.55,5,-5.537,1,0.0722,0.102,0.0,0.293,0.566,95.019,audio_features,3kUq4sBcmxhnOtNysZ9yrp,156400,4,Feliz Cumpleaños Ferxxo,Feid,74
 0.663,0.771,0,-4.665,1,0.206,0.216,0.0,0.713,0.778,166.026,audio_features,0rUL7vUZmCKxB0gS83W3aM,180921,4,Apaixonadinha - Ao Vivo,Marília Mendonça,66
-0.602,0.658,1,-5.934,1,0.0558,0.0233,6e-05,0.237,0.268,145.031,audio_features,5OCJzvD7sykQEKHH7qAC3C,197547,4,God is a woman,Ariana Grande,79
-0.602,0.658,1,-5.934,1,0.0558,0.0233,6e-05,0.237,0.268,145.031,audio_features,5OCJzvD7sykQEKHH7qAC3C,197547,4,God is a woman,Ariana Grande,79
 0.707,0.656,4,-9.279,1,0.173,0.743,0.0,0.172,0.748,118.037,audio_features,5eADwUCxvyIQyDOBMsokMF,210320,4,Where You Are,Christopher Jackson,61
 0.515,0.479,3,-7.458,1,0.0261,0.544,0.00598,0.191,0.284,88.964,audio_features,0rKtyWc8bvkriBthvHKY8d,209274,4,SLOW DANCING IN THE DARK,Joji,84
-0.626,0.706,10,-3.201,0,0.0596,0.00225,0.0,0.122,0.534,99.939,audio_features,0aE3V0zgSD2YwkEHW42gxG,203352,4,Burning Up (Fire),BTS,70
-0.626,0.706,10,-3.201,0,0.0596,0.00225,0.0,0.122,0.534,99.939,audio_features,0aE3V0zgSD2YwkEHW42gxG,203352,4,Burning Up (Fire),BTS,70
 0.455,0.667,1,-10.913,0,0.0314,0.759,0.000236,0.114,0.841,146.066,audio_features,0hz7diuHjjz85gVsnSRlmr,458493,3,"Jeeta Tha Jiske Liye (From ""Dilwale"")",Kumar Sanu,3
 0.94,0.819,2,-7.314,1,0.053,0.0959,0.000104,0.0602,0.71,125.997,audio_features,1JBAMqC1hRrsF4hyE2uSBD,177143,4,Só Quer Vrau - Remix,Chris Leão,7
 0.657,0.639,10,-7.527,1,0.0412,0.581,0.0,0.278,0.674,124.882,audio_features,6sxptembJVty4sNtcPMAVz,234493,4,Man! I Feel Like A Woman!,Shania Twain,74
@@ -2180,12 +1941,8 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.354,0.982,4,-3.026,0,0.168,0.000237,0.000294,0.204,0.194,143.772,audio_features,61mWefnWQOLf90gepjOCb3,252613,4,Duality,Slipknot,82
 0.354,0.982,4,-3.026,0,0.168,0.000237,0.000294,0.204,0.194,143.772,audio_features,61mWefnWQOLf90gepjOCb3,252613,4,Duality,Slipknot,82
 0.512,0.607,5,-7.591,0,0.0656,0.535,0.000356,0.318,0.926,138.961,audio_features,73BpzXbQ2wdMayh1urk3p5,211915,3,Ser Al Hayat,Aseel Hameem,44
-0.354,0.982,4,-3.026,0,0.168,0.000237,0.000294,0.204,0.194,143.772,audio_features,61mWefnWQOLf90gepjOCb3,252613,4,Duality,Slipknot,82
-0.354,0.982,4,-3.026,0,0.168,0.000237,0.000294,0.204,0.194,143.772,audio_features,61mWefnWQOLf90gepjOCb3,252613,4,Duality,Slipknot,82
 0.741,0.697,0,-7.028,1,0.0277,0.0664,2.28e-05,0.133,0.774,116.109,audio_features,2LawezPeJhN4AWuSB0GtAU,160133,4,Have You Ever Seen The Rain,Creedence Clearwater Revival,88
 0.697,0.844,9,-3.076,1,0.0575,0.285,0.0,0.753,0.665,139.993,audio_features,4jGzR5Vri06Y5T9SxM7m5P,231680,4,Algo Mais (Amante) - Ao Vivo,Xand Avião,62
-0.799,0.784,4,-5.207,0,0.0519,0.11,2.84e-06,0.227,0.26,96.953,audio_features,0biCSADTAblvLTLtJz4pXO,237876,4,Nashe Si Chadh Gayi,Vishal-Shekhar,75
-0.799,0.784,4,-5.207,0,0.0519,0.11,2.84e-06,0.227,0.26,96.953,audio_features,0biCSADTAblvLTLtJz4pXO,237876,4,Nashe Si Chadh Gayi,Vishal-Shekhar,75
 0.969,0.752,5,-1.665,1,0.271,0.59,4.33e-06,0.0608,0.872,130.038,audio_features,3Jf7yOgheeCMN3mpCqSgaL,123018,4,Tumbalatum,MC Kevinho,63
 0.666,0.784,8,-4.524,1,0.0342,0.152,3.33e-06,0.0793,0.477,91.999,audio_features,4X3CV9rXo3hQrkb0fzRAux,247973,4,Egoísta,Ozuna,60
 0.624,0.909,4,-3.079,0,0.0745,0.158,0.0,0.0972,0.65,93.982,audio_features,5YH1A3YttSay4lgAR75tk3,188787,4,Reggaetón Lento (Remix),CNCO,55
@@ -2199,8 +1956,6 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.49,0.874,0,-3.814,1,0.0669,0.00303,0.14,0.427,0.62,128.035,audio_features,2AWDDDp0vqPBnPhdgcZaD6,203280,4,Roundtable Rival,Lindsey Stirling,57
 0.423,0.714,11,-8.295,1,0.045,0.00113,6.28e-06,0.0855,0.593,110.017,audio_features,1AdYZ6X00nXmO613Y7GJOl,227250,4,I Miss You,blink-182,73
 0.606,0.718,4,-4.094,1,0.0978,0.032,0.0,0.402,0.551,101.821,audio_features,1gG5MoWK5SmHUcQPa2jxdP,213307,4,Touch,Little Mix,67
-0.472,0.677,0,-5.199,1,0.0359,0.548,0.0,0.293,0.443,94.438,audio_features,6sOrXm9TFCdtFUFC3jDMRg,238717,4,Frases Tão Duidas / Diz Pra Mim (Just Give Me a Reason) / Abre o Portão Que Eu Cheguei - Ao Vivo,Gusttavo Lima,52
-0.472,0.677,0,-5.199,1,0.0359,0.548,0.0,0.293,0.443,94.438,audio_features,6sOrXm9TFCdtFUFC3jDMRg,238717,4,Frases Tão Duidas / Diz Pra Mim (Just Give Me a Reason) / Abre o Portão Que Eu Cheguei - Ao Vivo,Gusttavo Lima,52
 0.453,0.482,2,-6.337,1,0.0484,0.72,0.0,0.734,0.37,140.324,audio_features,3YT6mjbJ2VL7wBI95LDzNR,224867,4,Yo Te Esperaba - Primera Fila [En Vivo],Alejandra Guzman,60
 0.695,0.775,11,-5.041,0,0.0887,0.0117,0.191,0.0702,0.869,180.054,audio_features,05rJdH2MRLJ3sQoEUO78qs,141317,4,Paradinha,Anitta,56
 0.442,0.612,2,-7.222,1,0.112,0.584,5.7e-06,0.37,0.178,180.917,audio_features,6HU7h9RYOaPRFeh0R3UeAr,215507,4,deja vu,Olivia Rodrigo,88
@@ -2222,8 +1977,6 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.564,0.89,5,-4.286,1,0.107,0.0918,0.0,0.0819,0.636,180.112,audio_features,3cR5ZtQ4JqGj4VHBb1gvFf,189363,4,Hey DJ - Remix,CNCO,60
 0.682,0.927,4,-2.915,1,0.0479,0.0843,0.0,0.149,0.744,101.019,audio_features,3TcL0dyCMyr0kyTTc4NLgI,195613,4,Who Says,Selena Gomez & The Scene,78
 0.939,0.544,5,-7.871,1,0.223,0.0101,0.865,0.0867,0.154,132.046,audio_features,2vEnwzu1HOQqAAiPHnCbDo,187493,4,Arlequina (Made Popular By MC Bella) [Karaoke Version],Party Tyme Karaoke,0
-0.708,0.852,2,-4.398,1,0.0851,0.0525,0.00016,0.399,0.396,129.946,audio_features,60jFaQV7Z4boGC4ob5B5c6,212987,4,TT,TWICE,70
-0.708,0.852,2,-4.398,1,0.0851,0.0525,0.00016,0.399,0.396,129.946,audio_features,60jFaQV7Z4boGC4ob5B5c6,212987,4,TT,TWICE,70
 0.729,0.658,10,-3.386,0,0.225,0.0506,0.0,0.0693,0.551,140.043,audio_features,3wKKkGVn7cVSfgPeYYIiXG,250667,3,Kiss Kiss (feat. T-Pain),Chris Brown,74
 0.714,0.528,0,-5.219,1,0.0381,0.698,0.0,0.12,0.538,91.952,audio_features,6qqd7DGn2VXzxsR4k3Ycun,200594,4,Fantasias - Unplugged,Rauw Alejandro,58
 0.88,0.621,7,-2.234,1,0.135,0.137,0.0,0.0644,0.835,160.03,audio_features,4MdifWtRdG2iHCMSzbA7nA,189104,4,Troféu do Ano,Jerry Smith,58
@@ -2245,9 +1998,6 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.751,0.895,5,-6.0,1,0.0575,0.0214,0.92,0.386,0.279,128.01,audio_features,51wkApQ7le2JWcFGLz84mr,343130,4,Turn Up The Speakers,AFROJACK,44
 0.741,0.786,11,-3.933,1,0.227,0.19,0.0,0.393,0.776,75.014,audio_features,2nPYWC7Jtd3gsd1iMQT3Vs,199200,4,Pesadão,IZA,62
 0.521,0.919,11,-1.79,0,0.0802,0.44,5.43e-06,0.149,0.927,95.853,audio_features,4L44GOwDyPAwF2oCabqxyC,367936,4,Esclava de una Obesión,Alfredo Escudero,24
-0.754,0.646,7,-5.795,1,0.317,0.152,1.85e-05,0.108,0.429,176.089,audio_features,0fea68AdmYNygeTGI4RC18,242573,4,LA CANCIÓN,J Balvin,86
-0.754,0.646,7,-5.795,1,0.317,0.152,1.85e-05,0.108,0.429,176.089,audio_features,0fea68AdmYNygeTGI4RC18,242573,4,LA CANCIÓN,J Balvin,86
-0.754,0.646,7,-5.795,1,0.317,0.152,1.85e-05,0.108,0.429,176.089,audio_features,0fea68AdmYNygeTGI4RC18,242573,4,LA CANCIÓN,J Balvin,86
 0.574,0.935,1,-2.783,1,0.0926,0.112,1.07e-06,0.367,0.836,166.008,audio_features,7ovUcF5uHTBRzUpB6ZOmvt,213234,4,アイドル,YOASOBI,82
 0.492,0.858,3,-6.484,1,0.0373,0.000234,0.664,0.119,0.0943,138.022,audio_features,12fAh75wd7qDk7FrMhV2q4,242000,4,Guiding Light,Paul van Dyk,38
 0.75,0.522,9,-7.018,1,0.0293,0.282,0.0,0.0743,0.601,110.427,audio_features,4OwhwvKESFtuu06dTgct7i,321556,4,Tiroteo - Remix,Marc Seguí,83
@@ -2257,8 +2007,6 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.637,0.73,5,-5.38,0,0.0874,0.323,0.0,0.0981,0.732,93.867,audio_features,7iu0WYLdo4yksKf3seaxzI,218947,4,Hate That I Love You,Rihanna,74
 0.681,0.504,7,-11.099,1,0.0284,0.669,0.0,0.142,0.705,89.994,audio_features,1kCewNSs909Xj1naXr36X8,172627,4,Amor Prohibido,Selena,74
 0.756,0.851,2,-3.33,1,0.0674,0.0336,0.0,0.126,0.934,75.014,audio_features,7BuSE9uTIw931wtZYzvZcQ,200693,4,Runaway,Sebastian Yatra,60
-0.605,0.868,4,-4.043,1,0.376,0.812,0.0,0.108,0.798,91.176,audio_features,35dHcj6depXR7ZNmprUKjQ,212831,4,Loca,Lopes,38
-0.605,0.868,4,-4.043,1,0.376,0.812,0.0,0.108,0.798,91.176,audio_features,35dHcj6depXR7ZNmprUKjQ,212831,4,Loca,Lopes,38
 0.706,0.866,4,-3.337,1,0.075,0.242,0.0,0.381,0.91,166.985,audio_features,6AENBD8I0mDGglFqrRZGu7,124512,4,Canudinho - Ao Vivo,Gusttavo Lima,87
 0.878,0.821,11,-9.875,1,0.089,0.126,0.0461,0.183,0.947,118.881,audio_features,46eu3SBuFCXWsPT39Yg3tJ,365467,4,Don't Stop 'Til You Get Enough,Michael Jackson,77
 0.664,0.666,8,-2.203,1,0.0446,0.193,0.0,0.0854,0.405,139.987,audio_features,3CYH422oy1cZNoo0GTG1TK,210560,4,Psycho,Red Velvet,77
@@ -2280,13 +2028,7 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.578,0.926,6,-3.689,0,0.0548,0.00472,0.0127,0.14,0.877,149.976,audio_features,2z4U9d5OAA4YLNXoCgioxo,220707,4,What the Hell,Avril Lavigne,75
 0.699,0.804,7,-4.898,1,0.144,0.0631,0.0,0.414,0.491,140.012,audio_features,7F5Mmc4DlX6x5tW3u5zxwt,223197,4,Work,Iggy Azalea,55
 0.889,0.626,1,-4.666,1,0.347,0.187,0.0,0.218,0.193,91.196,audio_features,40LaNujg5lvImKt0N4xDge,142582,4,KOODA,6ix9ine,59
-0.716,0.908,8,-3.254,0,0.103,0.0858,0.0,0.135,0.869,91.03,audio_features,6YZdkObH88npeKrrkb8Ggf,199693,4,DUELE EL CORAZON (feat. Wisin),Enrique Iglesias,69
-0.716,0.908,8,-3.254,0,0.103,0.0858,0.0,0.135,0.869,91.03,audio_features,6YZdkObH88npeKrrkb8Ggf,199693,4,DUELE EL CORAZON (feat. Wisin),Enrique Iglesias,69
-0.742,0.713,1,-5.522,0,0.0303,0.0205,0.0,0.059,0.879,120.032,audio_features,7oUHzZKNKUTrlU7DYxhQ7v,189960,4,Maps,Maroon 5,75
-0.742,0.713,1,-5.522,0,0.0303,0.0205,0.0,0.059,0.879,120.032,audio_features,7oUHzZKNKUTrlU7DYxhQ7v,189960,4,Maps,Maroon 5,75
 0.778,0.695,4,-6.865,0,0.0913,0.175,0.0,0.15,0.472,149.996,audio_features,3Ofmpyhv5UAQ70mENzB277,132780,4,Astronaut In The Ocean,Masked Wolf,76
-0.461,0.834,2,-4.868,1,0.0989,0.0232,1.14e-05,0.14,0.471,135.007,audio_features,6PCUP3dWmTjcTtXY02oFdT,261154,4,Castle on the Hill,Ed Sheeran,81
-0.461,0.834,2,-4.868,1,0.0989,0.0232,1.14e-05,0.14,0.471,135.007,audio_features,6PCUP3dWmTjcTtXY02oFdT,261154,4,Castle on the Hill,Ed Sheeran,81
 0.773,0.794,5,-4.954,0,0.0326,0.527,0.000354,0.113,0.907,101.143,audio_features,0Pjsm4AaJGPOXHoB6xCgJB,264600,4,Mariposa Traicionera,Maná,68
 0.685,0.443,0,-7.463,1,0.0376,0.796,6.94e-06,0.115,0.703,136.958,audio_features,7c36pInnsI3DzAGDQcTW99,194963,3,Te Regalo,Ulices Chaidez,66
 0.382,0.589,9,-7.315,0,0.0267,0.0465,0.0,0.122,0.335,140.059,audio_features,7Ewz6bJ97vUqk5HdkvguFQ,243360,4,Heaven,Bryan Adams,81
@@ -2310,10 +2052,6 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.753,0.505,9,-7.621,1,0.255,0.534,2.58e-06,0.104,0.419,91.972,audio_features,0EcQcdcbQeVJn9fknj44Be,197437,4,I Like Me Better,Lauv,84
 0.902,0.836,0,-3.523,1,0.0835,0.274,3.66e-05,0.0536,0.523,120.033,audio_features,0Yqs1E3SDb9PgnAxXKi3DS,210013,4,Teri Pyari Pyari Do Ankhiya - Dj Remix,Munna Chakia,18
 0.683,0.86,9,-4.167,1,0.0637,0.0498,0.0,0.243,0.53,92.011,audio_features,7inJer3V8fsfeP3WxAYxHI,245681,4,No me dejes así (feat. Cali y El Dandee),Felipe Santos,32
-0.658,0.133,1,-11.254,0,0.0352,0.901,0.0,0.106,0.122,91.054,audio_features,6UR5tB1wVm7qvH4xfsHr8m,244973,4,Disfruto,Carla Morrison,76
-0.658,0.133,1,-11.254,0,0.0352,0.901,0.0,0.106,0.122,91.054,audio_features,6UR5tB1wVm7qvH4xfsHr8m,244973,4,Disfruto,Carla Morrison,76
-0.788,0.87,9,-5.217,1,0.176,0.123,1.43e-05,0.0692,0.884,109.964,audio_features,6sex0tR0qPVt2dUKH2Qqiq,182739,4,"Garmi (From ""Street Dancer 3D"")",Badshah,2
-0.788,0.87,9,-5.217,1,0.176,0.123,1.43e-05,0.0692,0.884,109.964,audio_features,6sex0tR0qPVt2dUKH2Qqiq,182739,4,"Garmi (From ""Street Dancer 3D"")",Badshah,2
 0.55,0.488,6,-8.059,1,0.0284,0.718,0.000118,0.126,0.301,136.025,audio_features,6f3ANRNQ8nCiPZ6VqXqq93,309458,3,Main Rahoon Ya Na Rahoon,Amaal Mallik,73
 0.705,0.806,9,-3.607,1,0.0309,0.0132,0.00428,0.0701,0.734,103.383,audio_features,4zQuwW24dweWcaX0fEJkP2,256947,4,You Know I'm No Good,Amy Winehouse,66
 0.749,0.752,6,-4.883,1,0.345,0.31,0.0,0.232,0.901,180.049,audio_features,62o8KoI44JfN7aYxgTnPvh,183753,4,Mala Mía,Maluma,67
@@ -2329,8 +2067,6 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.392,0.562,7,-10.878,0,0.0498,0.812,0.0,0.592,0.653,145.148,audio_features,3zyAjjhXTn7hXmXd3bVS2w,369903,3,Oporadhi 06,Arman Alif,13
 0.392,0.562,7,-10.878,0,0.0498,0.812,0.0,0.592,0.653,145.148,audio_features,3zyAjjhXTn7hXmXd3bVS2w,369903,3,Oporadhi 06,Arman Alif,13
 0.693,0.956,1,-5.012,0,0.071,0.289,0.0,0.294,0.665,90.005,audio_features,1vSXwYeKnzsVvekSpqVabx,301587,4,Chikni Chameli,Ajay-Atul,68
-0.392,0.562,7,-10.878,0,0.0498,0.812,0.0,0.592,0.653,145.148,audio_features,3zyAjjhXTn7hXmXd3bVS2w,369903,3,Oporadhi 06,Arman Alif,13
-0.392,0.562,7,-10.878,0,0.0498,0.812,0.0,0.592,0.653,145.148,audio_features,3zyAjjhXTn7hXmXd3bVS2w,369903,3,Oporadhi 06,Arman Alif,13
 0.831,0.849,1,-6.269,1,0.127,0.0758,0.653,0.0827,0.411,129.516,audio_features,6cGYiFU732gh5VbKGZSWOx,171236,4,L-Gante Rkt,Dj Roderick,27
 0.519,0.45,5,-9.133,1,0.0244,0.281,6.12e-06,0.152,0.549,72.115,audio_features,5rWyKJMaTXL0TArnJ8IGts,143161,4,Forever - Single Version,The Little Dippers,65
 0.68,0.756,10,-5.718,1,0.0605,0.546,0.0,0.137,0.574,144.001,audio_features,2VSGzQqy9nqJefcYGJNWst,280147,4,Tanto la Queria,Andy & Lucas,67
@@ -2352,8 +2088,6 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.57,0.58,1,-5.547,1,0.21,0.0124,0.0,0.0498,0.404,171.812,audio_features,5W7xC99N2Zzfh69r7I7zWK,270627,4,Aston Martin Music,Rick Ross,72
 0.802,0.756,2,-10.791,0,0.0349,0.0843,0.00765,0.0521,0.963,131.715,audio_features,6ztstiyZL6FXzh4aG46ZPD,288293,4,Boogie Wonderland,"Earth, Wind & Fire",78
 0.153,0.417,1,-11.587,1,0.0318,0.434,0.000622,0.211,0.166,80.87,audio_features,1bKQ48M9onID2kbSpRy8kK,273333,3,Send Me An Angel,Scorpions,72
-0.57,0.58,1,-5.547,1,0.21,0.0124,0.0,0.0498,0.404,171.812,audio_features,5W7xC99N2Zzfh69r7I7zWK,270627,4,Aston Martin Music,Rick Ross,72
-0.57,0.58,1,-5.547,1,0.21,0.0124,0.0,0.0498,0.404,171.812,audio_features,5W7xC99N2Zzfh69r7I7zWK,270627,4,Aston Martin Music,Rick Ross,72
 0.577,0.641,8,-6.628,1,0.0375,0.535,0.0,0.207,0.819,139.155,audio_features,4OvWsid9gwU8nimd6KIXN6,256171,4,Pideme - En Vivo,Grupo Firme,69
 0.728,0.783,11,-4.424,0,0.266,0.237,0.0,0.434,0.555,77.011,audio_features,1r9xUipOqoNwggBpENDsvJ,173381,4,Enemy (with JID) - from the series Arcane League of Legends,Imagine Dragons,80
 0.632,0.83,11,-4.005,0,0.0547,0.038,0.0,0.109,0.31,106.925,audio_features,6ZiSScoPLyeZyIudUBip1V,215907,4,Anywhere,Rita Ora,49
@@ -2370,17 +2104,10 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.94,0.335,5,-10.179,0,0.505,0.17,0.0,0.262,0.707,120.04,audio_features,5hTpBe8h35rJ67eAWHQsJx,209640,4,Caroline,Aminé,74
 0.713,0.606,10,-4.44,1,0.0358,0.532,0.0,0.175,0.849,138.087,audio_features,5ZyWRrIdTZx4TneEv0FklV,193813,3,Amor Del Bueno,Calibre 50,47
 0.707,0.962,10,-6.291,0,0.167,0.436,0.0,0.352,0.692,142.011,audio_features,7Ftpyc6qPLhnTZRY8JmveH,315875,4,Bhojpuriya Dabangg,MANOJ TIWARI,31
-0.589,0.651,6,-5.097,1,0.0306,0.0291,3.2e-06,0.111,0.166,90.011,audio_features,7gHs73wELdeycvS48JfIos,212627,4,Faded,Alan Walker,73
-0.589,0.651,6,-5.097,1,0.0306,0.0291,3.2e-06,0.111,0.166,90.011,audio_features,7gHs73wELdeycvS48JfIos,212627,4,Faded,Alan Walker,73
-0.589,0.651,6,-5.097,1,0.0306,0.0291,3.2e-06,0.111,0.166,90.011,audio_features,7gHs73wELdeycvS48JfIos,212627,4,Faded,Alan Walker,73
 0.708,0.641,7,-4.271,1,0.0335,0.205,0.0,0.0925,0.253,113.082,audio_features,6dgWWAs5yhWPOtvE1zuoQ1,268120,4,Big Girls Don't Cry (Personal),Fergie,73
-0.642,0.289,9,-9.918,1,0.0367,0.669,0.0,0.18,0.407,84.996,audio_features,1VdZ0vKfR5jneCmWIUAMxK,258373,4,The A Team,Ed Sheeran,76
-0.642,0.289,9,-9.918,1,0.0367,0.669,0.0,0.18,0.407,84.996,audio_features,1VdZ0vKfR5jneCmWIUAMxK,258373,4,The A Team,Ed Sheeran,76
 0.672,0.965,0,-3.484,0,0.0622,0.247,0.0,0.391,0.783,125.941,audio_features,1BBn3pGULQB8j0bZgVFCbV,207222,4,Ankush Raja Devi Geet 2023,Ankush Raja,7
 0.704,0.225,6,-14.454,0,0.0994,0.902,0.657,0.106,0.243,120.006,audio_features,3ZCTVFBt2Brf31RLEnCkWJ,245426,4,everything i wanted,Billie Eilish,86
 0.544,0.922,4,-6.156,0,0.0775,0.742,0.0,0.302,0.838,180.918,audio_features,3v0H5lA3qFG7NoK5pC4pnP,232693,4,Deita Na Br,Aviões do Forró,32
-0.501,0.519,4,-5.88,0,0.0409,0.109,0.0,0.454,0.168,133.99,audio_features,23L5CiUhw2jV1OIMwthR3S,195707,4,In the Name of Love,Martin Garrix,82
-0.501,0.519,4,-5.88,0,0.0409,0.109,0.0,0.454,0.168,133.99,audio_features,23L5CiUhw2jV1OIMwthR3S,195707,4,In the Name of Love,Martin Garrix,82
 0.588,0.187,4,-10.067,1,0.031,0.945,0.0,0.0871,0.395,144.117,audio_features,4MagrqwgGHQnddCJAJmJCb,217000,4,Teri Mitti - Female Version,Parineeti Chopra,36
 0.611,0.644,6,-7.607,0,0.0553,0.124,0.0,0.124,0.13,105.969,audio_features,6jA8HL9i4QGzsj6fjoxp8Y,221904,4,There for You,Martin Garrix,69
 0.615,0.808,11,-6.19,1,0.0285,0.0183,1.72e-05,0.0744,0.762,114.995,audio_features,7f1X6tauagdeqpfNuNOYWr,192147,4,Have You Ever Seen The Rain,Rod Stewart,65
@@ -2393,15 +2120,11 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.594,0.698,6,-8.645,0,0.0428,0.103,0.0,0.173,0.376,119.991,audio_features,1MqzIgGsHP4cNjPboevsfq,246093,4,Tourner Dans Le Vide,Indila,76
 0.575,0.532,9,-13.064,0,0.187,0.14,0.0,0.324,0.914,125.871,audio_features,2ycPd4uZKKv6Uv1DTDFigw,369669,4,Hawa Hawa,Hassan Jahangir,50
 0.745,0.825,1,-3.162,0,0.0352,0.000875,0.000221,0.0828,0.242,94.998,audio_features,52mglSL6bdbrg9zig7nazP,245192,4,GOOD BOY,GD X TAEYANG,61
-0.699,0.883,5,-3.226,0,0.219,0.0288,0.0,0.817,0.499,127.961,audio_features,6YwLgicpvVuMt1eE2OldwQ,211975,4,Five More Hours,Deorro,67
-0.699,0.883,5,-3.226,0,0.219,0.0288,0.0,0.817,0.499,127.961,audio_features,6YwLgicpvVuMt1eE2OldwQ,211975,4,Five More Hours,Deorro,67
 0.787,0.7,4,-4.598,0,0.0768,0.568,0.00051,0.663,0.791,90.02,audio_features,6lX6l7OuA3qrnIRfdsr0dw,233453,4,Medallo,Blessd,76
 0.707,0.955,10,-4.593,0,0.222,0.127,0.0,0.202,0.575,125.989,audio_features,78qd8dvwea0Gosb6Fe6j3k,134240,4,Boss Bitch,Doja Cat,80
 0.698,0.813,1,-5.171,1,0.0395,0.00681,3.18e-05,0.103,0.355,150.001,audio_features,4ngypPwfcqpHBxQjJIOgvr,236773,4,Hangover,PSY,46
 0.63,0.9,4,-3.955,1,0.0387,0.000639,0.852,0.203,0.155,134.988,audio_features,2HO0uCyq8jOveEzvmo4JEu,193778,4,Fly,Marshmello,60
 0.665,0.94,5,-3.606,1,0.0553,0.434,0.0,0.0914,0.752,93.725,audio_features,7AUhck1sPy11OExQmDDx4P,231593,4,De Vuelta Pa' La Vuelta,Daddy Yankee,71
-0.628,0.593,8,-5.036,1,0.0323,0.093,1.65e-06,0.096,0.104,125.026,audio_features,7xoUc6faLbCqZO6fQEYprd,197267,4,One Last Time,Ariana Grande,85
-0.628,0.593,8,-5.036,1,0.0323,0.093,1.65e-06,0.096,0.104,125.026,audio_features,7xoUc6faLbCqZO6fQEYprd,197267,4,One Last Time,Ariana Grande,85
 0.412,0.403,5,-7.849,1,0.0544,0.867,0.0,0.705,0.521,67.768,audio_features,3Ay4UxGo563Y7wKSqFTzIS,207809,4,Filha - Ao Vivo,Zé Neto & Cristiano,53
 0.498,0.83,6,-5.157,0,0.0421,0.00461,0.0,0.139,0.453,89.342,audio_features,6rUp7v3l8yC4TKxAAR5Bmx,231480,4,I Hate Everything About You,Three Days Grace,73
 0.82,0.696,7,-4.918,0,0.182,0.119,0.0,0.232,0.617,144.981,audio_features,5gx2E5aIXMRBellPZW1up5,293435,4,"Pills & Automobiles (feat. Yo Gotti, A Boogie Wit Da Hoodie & Kodak Black)",Chris Brown,64
@@ -2411,8 +2134,6 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.768,0.934,8,-2.533,1,0.0453,0.22,1.73e-06,0.0854,0.916,160.108,audio_features,5ixqGGFu0hdHfErdp32QwT,160640,4,Jenifer,Gabriel Diniz,48
 0.586,0.962,9,-5.441,1,0.0403,0.222,0.0,0.552,0.962,97.036,audio_features,3Ll4D5HXvICXck8KmOjytI,222827,4,Valio la Pena,Marc Anthony,39
 0.711,0.86,8,-3.507,1,0.0412,0.015,0.0,0.383,0.402,109.946,audio_features,2TELOJWAKHdpwX0evDVzI6,259067,4,Te Siento,Wisin & Yandel,36
-0.782,0.685,4,-6.237,1,0.0309,0.166,1.18e-05,0.16,0.603,118.016,audio_features,7vFoFDWqTX0mHzLfrF1Cfy,180566,4,Cheerleader (Felix Jaehn Remix) - Radio Edit,OMI,80
-0.782,0.685,4,-6.237,1,0.0309,0.166,1.18e-05,0.16,0.603,118.016,audio_features,7vFoFDWqTX0mHzLfrF1Cfy,180566,4,Cheerleader (Felix Jaehn Remix) - Radio Edit,OMI,80
 0.802,0.725,0,-5.965,0,0.0676,0.574,0.0,0.0821,0.598,128.04,audio_features,1iLv1ieT9BZ3qsti9yTCnG,225000,4,Odio (feat. Drake),Romeo Santos,77
 0.376,0.695,0,-4.782,0,0.0933,0.135,0.0,0.11,0.302,169.533,audio_features,5yVIlYEHZxQVLyInCdldoS,209440,4,Impossible,James Arthur,81
 0.666,0.876,3,-3.078,1,0.0414,0.055,0.0,0.259,0.552,129.884,audio_features,7ks6AZmFcm3Y6PGGxGSmlB,194840,4,Where Them Girls At (feat. Nicki Minaj & Flo Rida),David Guetta,75
@@ -2427,10 +2148,6 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.684,0.808,0,-2.737,1,0.061,0.0518,1.02e-05,0.0858,0.712,173.905,audio_features,4K8cyoCDovlc4FvtUr2Hfx,174027,4,Nada,Cali Y El Dandee,62
 0.769,0.971,2,-3.78,0,0.0432,0.0173,0.0892,0.314,0.969,118.135,audio_features,2X7jfQnEMQYYmvkhr6mzS9,204307,4,Brother Louie Mix '98 (feat. Eric Singleton) - Radio Edit,Modern Talking,68
 0.7,0.924,9,-3.194,1,0.189,0.0366,0.0,0.332,0.803,92.987,audio_features,525m4YHhqqfhqO70PfQjeu,240014,4,رحالة العصر الحديث,Saad Lamjarred,49
-0.654,0.76,0,-3.669,0,0.045,0.0797,0.0,0.299,0.41,99.945,audio_features,09CtPGIpYB4BrO8qb1RGsF,200787,4,Sorry,Justin Bieber,85
-0.654,0.76,0,-3.669,0,0.045,0.0797,0.0,0.299,0.41,99.945,audio_features,09CtPGIpYB4BrO8qb1RGsF,200787,4,Sorry,Justin Bieber,85
-0.676,0.938,9,-6.67,0,0.0694,0.0196,0.00336,0.276,0.808,169.953,audio_features,3GidBBnIDDEyQEaVYlGNna,163736,4,Pega a Metralhadora (feat. Luanzinho do Recife & Vingadora),Barca Na Batida,8
-0.676,0.938,9,-6.67,0,0.0694,0.0196,0.00336,0.276,0.808,169.953,audio_features,3GidBBnIDDEyQEaVYlGNna,163736,4,Pega a Metralhadora (feat. Luanzinho do Recife & Vingadora),Barca Na Batida,8
 0.819,0.844,0,-3.739,1,0.038,0.00767,0.00834,0.056,0.687,127.997,audio_features,26EM9sZnQkLLQxixGd88KE,208731,4,I Am The Best,2NE1,70
 0.623,0.656,9,-3.662,0,0.229,0.288,0.0,0.105,0.576,112.823,audio_features,0wRn3ggAY1fIupTaVigdza,302118,5,A Cara do Crime (Nós Incomoda),Mc Poze do Rodo,69
 0.578,0.429,4,-8.126,0,0.0311,0.899,0.00391,0.174,0.186,125.24,audio_features,7wE90hQ78wf68VxD0koeob,275383,4,Ben Yoruldum Hayat,Mümin Sarıkaya,54
@@ -2439,8 +2156,6 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.459,0.575,3,-4.858,1,0.0573,0.604,0.0,0.0885,0.183,111.881,audio_features,2gMXnyrvIjhVBUZwvLZDMP,215107,4,Before You Go,Lewis Capaldi,86
 0.816,0.781,1,-4.237,0,0.0425,0.692,0.00928,0.0835,0.937,99.95,audio_features,1PoJXULCvl03b1fiZmMxmd,185899,4,On the Low,Burna Boy,73
 0.763,0.577,8,-6.768,0,0.052,0.405,0.0,0.0936,0.534,130.079,audio_features,77RSPptbdmXNAdg44hJNAh,185783,4,Ela,Reynmen,61
-0.775,0.679,4,-4.985,0,0.135,0.18,7.26e-05,0.068,0.619,166.008,audio_features,3Ga6eKrUFf12ouh9Yw3v2D,193456,4,Downtown,Anitta,75
-0.775,0.679,4,-4.985,0,0.135,0.18,7.26e-05,0.068,0.619,166.008,audio_features,3Ga6eKrUFf12ouh9Yw3v2D,193456,4,Downtown,Anitta,75
 0.634,0.487,0,-4.835,1,0.028,0.768,0.000349,0.911,0.322,135.874,audio_features,2cbMXc0P5s271VwZOUk1Gb,157460,4,Mulher Maravilha - Ao Vivo,Zé Neto & Cristiano,64
 0.762,0.913,0,-3.017,1,0.105,0.231,1.26e-06,0.0986,0.348,120.002,audio_features,73SkZPHVEaapQ2r2oaBvP6,114434,4,Сумасшедшая,Comedy Club Cover,42
 0.716,0.803,10,-5.14,0,0.0445,0.03,0.0,0.0817,0.325,124.961,audio_features,2NTVtNcpC0i1R7LVGaCZCF,230400,4,Jugnu,Badshah,74
@@ -2462,8 +2177,6 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.754,0.854,5,-3.449,0,0.0608,0.177,0.0,0.0808,0.8,75.002,audio_features,222B3aljXx6fFwKmFjuBED,229720,4,Woman Like Me (feat. Nicki Minaj),Little Mix,69
 0.754,0.854,5,-3.449,0,0.0608,0.177,0.0,0.0808,0.8,75.002,audio_features,222B3aljXx6fFwKmFjuBED,229720,4,Woman Like Me (feat. Nicki Minaj),Little Mix,69
 0.405,0.573,8,-7.512,1,0.115,0.215,0.0,0.118,0.466,95.145,audio_features,1PyXhmxQm5a0YPh03Kru4k,262931,5,Un Ratito Más - SECRET VERSION,SOLO VERSIONS,21
-0.754,0.854,5,-3.449,0,0.0608,0.177,0.0,0.0808,0.8,75.002,audio_features,222B3aljXx6fFwKmFjuBED,229720,4,Woman Like Me (feat. Nicki Minaj),Little Mix,69
-0.754,0.854,5,-3.449,0,0.0608,0.177,0.0,0.0808,0.8,75.002,audio_features,222B3aljXx6fFwKmFjuBED,229720,4,Woman Like Me (feat. Nicki Minaj),Little Mix,69
 0.434,0.897,0,-4.918,1,0.0488,0.0103,0.0,0.612,0.684,148.726,audio_features,2m1hi0nfMR9vdGC8UcrnwU,167067,4,All The Small Things,blink-182,84
 0.668,0.886,0,-3.474,1,0.117,0.0417,0.0,0.459,0.503,142.002,audio_features,0sHW1jXe6Sou3437gJQNGA,278640,4,Space Bound,Eminem,72
 0.682,0.784,11,-6.847,0,0.111,0.0771,0.0,0.317,0.569,101.984,audio_features,2JeByquvPQtiIRYkGRLabE,264307,4,Cuaderno,Pachu,13
@@ -2482,8 +2195,6 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.823,0.683,4,-4.632,0,0.0566,0.00754,0.0,0.0941,0.367,101.978,audio_features,34cA2DaxED8I2T9aO8XPxs,169412,4,Mill Lo Na,Guri,51
 0.448,0.61,3,-2.695,0,0.0342,0.0102,0.000491,0.135,0.214,123.762,audio_features,507bYMYfbm6sUS9iEAaeSd,258333,4,Broken,Seether,72
 0.823,0.563,6,-5.095,1,0.0443,0.0399,0.0,0.0851,0.682,98.031,audio_features,0k6DnZMLoEUH8NGD5zh2SE,225227,4,Ayo,Chris Brown,74
-0.583,0.695,9,-5.336,1,0.0423,0.0141,0.0,0.0527,0.224,104.879,audio_features,0g5EKLgdKvNlln7TNqBByK,220573,4,Middle,DJ Snake,77
-0.583,0.695,9,-5.336,1,0.0423,0.0141,0.0,0.0527,0.224,104.879,audio_features,0g5EKLgdKvNlln7TNqBByK,220573,4,Middle,DJ Snake,77
 0.813,0.734,10,-5.464,0,0.0577,0.072,0.0,0.118,0.652,107.967,audio_features,7n6AQKpZUGiJM2auF3yuDY,218146,4,All Black,Raftaar,63
 0.598,0.678,2,-4.645,1,0.0378,0.381,5.63e-05,0.0986,0.363,91.084,audio_features,2KrrAi2smn5Fa7sy7TxrKg,254932,4,Nayan,Dhvani Bhanushali,62
 0.703,0.81,4,-4.874,0,0.0424,0.000315,0.0,0.216,0.726,102.978,audio_features,66zHUNLpXsG6rRL3yeAYSj,216200,4,Misery,Maroon 5,40
@@ -2505,40 +2216,24 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.63,0.432,1,-6.721,1,0.0357,0.551,5.84e-06,0.0962,0.343,87.959,audio_features,3tP6QKbXvtrxiDI7QwKyUf,230323,4,STAY,BLACKPINK,73
 0.622,0.712,5,-7.321,1,0.066,0.0573,0.0,0.13,0.487,140.025,audio_features,2QZ7WLBE8h2y1Y5Fb8RYbH,211360,4,In My Blood,Shawn Mendes,76
 0.624,0.883,11,-4.763,0,0.0444,0.0575,6.01e-06,0.0827,0.765,152.937,audio_features,4wWo2EHTXBQJG2PvTHyrRd,198760,4,Alas,Elenco de Soy Luna,51
-0.63,0.432,1,-6.721,1,0.0357,0.551,5.84e-06,0.0962,0.343,87.959,audio_features,3tP6QKbXvtrxiDI7QwKyUf,230323,4,STAY,BLACKPINK,73
-0.63,0.432,1,-6.721,1,0.0357,0.551,5.84e-06,0.0962,0.343,87.959,audio_features,3tP6QKbXvtrxiDI7QwKyUf,230323,4,STAY,BLACKPINK,73
 0.747,0.571,11,-7.916,1,0.478,0.38,0.0,0.534,0.553,172.104,audio_features,79XrkTOfV1AqySNjVlygpW,181933,4,Energy,Drake,74
 0.74,0.83,1,-3.243,1,0.153,0.119,1.32e-05,0.243,0.78,176.054,audio_features,53uKGbcMjEc2gIWbfmvpdS,377580,4,Mírame - Remix,Nio Garcia,72
 0.847,0.552,2,-12.189,1,0.26,0.199,1.68e-06,0.142,0.748,99.997,audio_features,1q7W78ZYL9iqyYeVONU2hg,178200,4,Kamaal,Badshah,57
 0.638,0.828,9,-4.727,1,0.0599,0.26,0.0,0.429,0.517,125.984,audio_features,6P7Uodyh8g40Nyc3no6R8E,162735,4,Te Assumi Pro Brasil - Ao Vivo,Matheus & Kauan,69
-0.746,0.7,0,-4.669,1,0.341,0.136,0.000159,0.11,0.619,176.044,audio_features,1Ej96GIBCTvgH7tNX1r3qr,225933,4,Otro Trago,Sech,73
-0.746,0.7,0,-4.669,1,0.341,0.136,0.000159,0.11,0.619,176.044,audio_features,1Ej96GIBCTvgH7tNX1r3qr,225933,4,Otro Trago,Sech,73
 0.618,0.678,7,-8.785,0,0.0473,0.314,1.9e-06,0.735,0.744,80.809,audio_features,0EEmdLja6E0Xl49HOASnc2,357757,4,"Dil Ne Yeh Kaha Hain Dil Se (From ""Dhadkan"")",Udit Narayan,17
 0.685,0.493,4,-6.068,1,0.0289,0.415,0.0,0.332,0.639,79.998,audio_features,0mqT6BK2rnEtuwLB5OPkVb,251157,4,"Ni Contigo, Ni Sin Ti",Los Ángeles Azules,66
 0.527,0.761,0,-4.708,1,0.341,0.073,0.0,0.0865,0.653,135.543,audio_features,03nPEoQOYMuDe7KmGljpmd,260000,5,"No Brainer (feat. Justin Bieber, Chance the Rapper & Quavo)",DJ Khaled,59
 0.965,0.414,1,-6.408,1,0.0713,0.189,0.0,0.0767,0.728,121.032,audio_features,2fZQIJew3nkNe99s2PKzul,214648,4,Bad Liar,Selena Gomez,68
 0.359,0.809,2,-4.654,1,0.189,0.0395,0.00196,0.333,0.598,129.562,audio_features,1aS12Sl93ZqmkzDGv0WEZs,121515,5,Dum Dum x Bloody Mary - Remix,Gatito Malo,57
 0.807,0.7,9,-6.553,1,0.0548,0.352,0.0,0.129,0.697,114.989,audio_features,4JbUZdMAZR5e6aLv5M1e8V,254609,4,อยากนอนกับเธอ,เด็กเลี้ยงควาย,42
-0.702,0.773,10,-9.256,0,0.0343,0.0288,0.00871,0.147,0.953,103.564,audio_features,5ubvP9oKmxLUVq506fgLhk,285373,4,Stayin Alive,Bee Gees,75
-0.702,0.773,10,-9.256,0,0.0343,0.0288,0.00871,0.147,0.953,103.564,audio_features,5ubvP9oKmxLUVq506fgLhk,285373,4,Stayin Alive,Bee Gees,75
-0.702,0.773,10,-9.256,0,0.0343,0.0288,0.00871,0.147,0.953,103.564,audio_features,5ubvP9oKmxLUVq506fgLhk,285373,4,Stayin Alive,Bee Gees,75
 0.39,0.775,4,-5.684,1,0.039,0.237,1.09e-05,0.178,0.274,129.929,audio_features,40QL4y6muUGdo9OehOGqIk,744002,4,Maranata / Lágrimas de Fogo,VITOHRIA SOUNDS,36
 0.732,0.944,0,-4.115,1,0.09,0.209,0.0,0.401,0.957,120.02,audio_features,18e3XXYCv4Tx8uUl1mP3CN,288903,4,Balam Pichkari,Pritam,68
 0.517,0.567,0,-6.849,1,0.0345,0.35,0.00191,0.253,0.312,112.306,audio_features,0tQt7xFXeOtTLTl0cXy9Z0,179467,4,Termina Comigo Antes - Ao Vivo,Gusttavo Lima,49
-0.669,0.308,11,-10.068,1,0.029,0.883,0.0,0.0984,0.52,64.934,audio_features,7AFASza1mXqntmGtbxXprO,121887,4,changes,XXXTENTACION,80
-0.669,0.308,11,-10.068,1,0.029,0.883,0.0,0.0984,0.52,64.934,audio_features,7AFASza1mXqntmGtbxXprO,121887,4,changes,XXXTENTACION,80
-0.702,0.773,10,-9.256,0,0.0343,0.0288,0.00871,0.147,0.953,103.564,audio_features,5ubvP9oKmxLUVq506fgLhk,285373,4,Stayin Alive,Bee Gees,75
-0.702,0.773,10,-9.256,0,0.0343,0.0288,0.00871,0.147,0.953,103.564,audio_features,5ubvP9oKmxLUVq506fgLhk,285373,4,Stayin Alive,Bee Gees,75
-0.702,0.773,10,-9.256,0,0.0343,0.0288,0.00871,0.147,0.953,103.564,audio_features,5ubvP9oKmxLUVq506fgLhk,285373,4,Stayin Alive,Bee Gees,75
 0.609,0.923,9,-3.908,1,0.0338,0.16,4.73e-06,0.295,0.961,115.996,audio_features,0n2SEXB2qoRQg171q7XqeW,294987,4,Smooth (feat. Rob Thomas),Santana,72
-0.67,0.668,3,-4.306,0,0.0422,0.536,0.0,0.133,0.608,88.033,audio_features,0bMbDctzMmTyK2j74j3nF3,179053,4,"Alone, Pt. II",Alan Walker,74
-0.67,0.668,3,-4.306,0,0.0422,0.536,0.0,0.133,0.608,88.033,audio_features,0bMbDctzMmTyK2j74j3nF3,179053,4,"Alone, Pt. II",Alan Walker,74
 0.813,0.783,1,-5.347,1,0.215,0.707,0.0,0.219,0.927,129.208,audio_features,2MJVc9F85EPNiSfD1KKhC9,213480,4,Los Mensajes del Whatsapp,Cartel De Santa,71
 0.749,0.85,0,-4.346,1,0.0468,0.0319,4.81e-05,0.0678,0.672,145.983,audio_features,5EzitieoPnjyKHAq0gfRMa,190423,4,Ko Ko Bop,EXO,66
 0.651,0.402,11,-9.303,1,0.028,0.639,7.73e-05,0.0765,0.258,119.873,audio_features,3AoeaZs8dFemFJr3JdzOL0,345600,4,You Are Not Alone,Michael Jackson,70
 0.728,0.752,1,-6.479,1,0.0781,0.213,0.0461,0.407,0.817,114.745,audio_features,1IeyiEMbt4GY7HDD8rD6PE,215933,4,The Way I Are - Extended Version,Timbaland,49
-0.804,0.913,0,-3.135,1,0.0932,0.0248,2.82e-05,0.391,0.544,119.989,audio_features,1eBTvdwfUB1yidxDJCGI5K,176125,4,"Muqabla (From ""Street Dancer 3D"")",Yash Narvekar,3
-0.804,0.913,0,-3.135,1,0.0932,0.0248,2.82e-05,0.391,0.544,119.989,audio_features,1eBTvdwfUB1yidxDJCGI5K,176125,4,"Muqabla (From ""Street Dancer 3D"")",Yash Narvekar,3
 0.491,0.588,1,-6.177,1,0.0506,0.0281,2.01e-06,0.0906,0.193,113.608,audio_features,0Qh38w01QRXK6KHIv0e3hb,269600,4,What About Us,P!nk,78
 0.759,0.636,6,-5.585,1,0.0369,0.0224,0.000143,0.166,0.536,109.976,audio_features,5cpJFiNwYyWwFLH0V6B3N8,214507,4,Del Mar,Ozuna,72
 0.686,0.888,1,-3.348,1,0.0857,0.00134,0.000689,0.0736,0.108,142.015,audio_features,0Q3SC6kEhxYagDP3bFe5K9,243380,4,Keep It Mello (feat. Omar LinX),Marshmello,60
@@ -2566,10 +2261,6 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.335,0.837,9,-4.437,0,0.0546,0.377,0.132,0.334,0.608,177.709,audio_features,2TPZomzhdB7toV3cx0hj08,249267,4,Pa’ Dónde Se Fue,Mon Laferte,73
 0.824,0.925,11,-5.814,0,0.0965,0.0263,0.376,0.247,0.554,163.854,audio_features,2vlgOAH3M8Fmo19wOjeRyw,306000,4,Freestyler,Bomfunk MC's,60
 0.384,0.658,7,-5.125,1,0.05,0.201,0.0,0.245,0.67,82.43,audio_features,7GfdU12uRL2xtSQcRXmqNN,270545,3,Laare,Maninder Buttar,62
-0.803,0.731,1,-4.16,1,0.0626,0.149,0.0,0.0826,0.852,135.938,audio_features,1fniGoMPeva9A6A2xOSydX,127417,4,Labirinto,Yasmin Verissimo,36
-0.803,0.731,1,-4.16,1,0.0626,0.149,0.0,0.0826,0.852,135.938,audio_features,1fniGoMPeva9A6A2xOSydX,127417,4,Labirinto,Yasmin Verissimo,36
-0.668,0.727,7,-6.55,0,0.027,0.514,1.9e-05,0.1,0.939,139.991,audio_features,3pCt2wRdBDa2kCisIdHWgF,344571,4,To the Bone,Pamungkas,79
-0.668,0.727,7,-6.55,0,0.027,0.514,1.9e-05,0.1,0.939,139.991,audio_features,3pCt2wRdBDa2kCisIdHWgF,344571,4,To the Bone,Pamungkas,79
 0.668,0.727,7,-6.55,0,0.027,0.514,1.9e-05,0.1,0.939,139.991,audio_features,3pCt2wRdBDa2kCisIdHWgF,344571,4,To the Bone,Pamungkas,79
 0.668,0.727,7,-6.55,0,0.027,0.514,1.9e-05,0.1,0.939,139.991,audio_features,3pCt2wRdBDa2kCisIdHWgF,344571,4,To the Bone,Pamungkas,79
 0.667,0.767,8,-6.574,0,0.0342,0.163,1.89e-05,0.12,0.73,87.041,audio_features,0IQRRlpomabOlzy39mcmmq,259215,4,Barsaat Ki Dhun,Rochak Kohli,57
@@ -2586,8 +2277,6 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.753,0.657,7,-3.061,1,0.0449,0.171,0.0,0.112,0.437,107.01,audio_features,09IStsImFySgyp0pIQdqAc,184732,4,The Middle,Zedd,82
 0.849,0.521,11,-12.999,0,0.216,0.304,1.65e-06,0.115,0.763,95.265,audio_features,7nYvUtkQMx1v80S2FH2s9J,248867,4,Regulate,Warren G,76
 0.645,0.517,9,-6.708,0,0.0273,0.522,3.27e-06,0.0905,0.259,106.906,audio_features,6UgcN95w7vQxkR8sEFmwHG,304900,4,Chahun Main Ya Naa,Palak Muchhal,71
-0.725,0.583,1,-9.942,0,0.0427,0.3,0.000238,0.0665,0.762,79.984,audio_features,3yUcJwYu7fXAfqMj9krY6l,218360,4,Thank You,Dido,77
-0.725,0.583,1,-9.942,0,0.0427,0.3,0.000238,0.0665,0.762,79.984,audio_features,3yUcJwYu7fXAfqMj9krY6l,218360,4,Thank You,Dido,77
 0.725,0.583,1,-9.942,0,0.0427,0.3,0.000238,0.0665,0.762,79.984,audio_features,3yUcJwYu7fXAfqMj9krY6l,218360,4,Thank You,Dido,77
 0.725,0.583,1,-9.942,0,0.0427,0.3,0.000238,0.0665,0.762,79.984,audio_features,3yUcJwYu7fXAfqMj9krY6l,218360,4,Thank You,Dido,77
 0.876,0.662,2,-6.482,0,0.426,0.0608,0.0,0.127,0.844,75.445,audio_features,2gwkD6igEhQbDQegRCcdoB,163320,4,Suge,DaBaby,72
@@ -2609,8 +2298,6 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.523,0.804,3,-5.473,1,0.19,0.0531,0.0,0.0915,0.607,125.358,audio_features,40diyeZMdOrbP20qnIPbdV,227773,5,Roll Up,Wiz Khalifa,46
 0.523,0.804,3,-5.473,1,0.19,0.0531,0.0,0.0915,0.607,125.358,audio_features,40diyeZMdOrbP20qnIPbdV,227773,5,Roll Up,Wiz Khalifa,46
 0.561,0.66,7,-6.369,1,0.0287,0.434,0.00021,0.0939,0.507,139.995,audio_features,6wnwEbts4sJjwJNFhzTeHO,247714,4,ดึงดัน,Cocktail,44
-0.523,0.804,3,-5.473,1,0.19,0.0531,0.0,0.0915,0.607,125.358,audio_features,40diyeZMdOrbP20qnIPbdV,227773,5,Roll Up,Wiz Khalifa,46
-0.523,0.804,3,-5.473,1,0.19,0.0531,0.0,0.0915,0.607,125.358,audio_features,40diyeZMdOrbP20qnIPbdV,227773,5,Roll Up,Wiz Khalifa,46
 0.629,0.696,1,-5.572,0,0.348,0.0195,0.0,0.0554,0.623,93.034,audio_features,1PS1QMdUqOal0ai3Gt7sDQ,207627,4,Gold Digger,Kanye West,83
 0.288,0.713,4,-4.426,0,0.0353,0.00686,0.000158,0.15,0.278,151.788,audio_features,1vl4jCsTEs8basRO7pKQ7f,326827,4,So Far Away,Avenged Sevenfold,65
 0.856,0.866,0,-3.494,1,0.159,0.228,0.00154,0.164,0.638,116.005,audio_features,1Bqg4yFeVDJxchh6MjkGKy,192001,4,Chambea,Bad Bunny,70
@@ -2622,8 +2309,6 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.861,0.603,8,-5.788,0,0.176,0.0521,0.0,0.0924,0.504,98.043,audio_features,0FZ4Dmg8jJJAPJnvBIzD9z,228760,4,ZEZE (feat. Travis Scott & Offset),Kodak Black,79
 0.272,0.521,8,-7.313,0,0.0307,0.0293,0.000424,0.156,0.124,139.117,audio_features,3pyEWO6mEOzOeMobs5BP6p,469027,4,Eu Navegarei,Gabriela Rocha,64
 0.691,0.94,1,-4.814,1,0.0462,0.395,0.0,0.272,0.868,131.985,audio_features,4RlbWEV4oWg1TzsffDyj8f,219759,4,laal Khesari,Khesari Lal Yadav,27
-0.491,0.593,0,-5.975,1,0.0255,0.098,0.0,0.257,0.328,144.142,audio_features,5p0ietGkLNEqx1Z7ijkw5g,231760,4,My Love,Westlife,73
-0.491,0.593,0,-5.975,1,0.0255,0.098,0.0,0.257,0.328,144.142,audio_features,5p0ietGkLNEqx1Z7ijkw5g,231760,4,My Love,Westlife,73
 0.614,0.928,8,-4.806,0,0.0516,0.0408,0.00104,0.0845,0.879,172.656,audio_features,4r8lRYnoOGdEi6YyI5OC1o,200560,4,Bye Bye Bye,*NSYNC,70
 0.751,0.489,9,-5.321,1,0.0586,0.0221,0.0385,0.0484,0.47,127.997,audio_features,2kmUFYCzycnGRSjZgwCfWo,455625,4,I Could Be The One [Avicii vs Nicky Romero] - Nicktim - Original Mix,Avicii,40
 0.652,0.917,6,-6.72,1,0.0548,0.0082,0.0,0.0509,0.459,132.975,audio_features,2goLsvvODILDzeeiT4dAoR,239027,4,Believe,Cher,82
@@ -2641,17 +2326,9 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.609,0.674,1,-3.007,0,0.202,0.595,0.0,0.203,0.789,127.656,audio_features,2NHSYwGkAvPHzCinY0KwXo,231261,3,Shape of You - Stormzy Remix,Ed Sheeran,55
 0.609,0.674,1,-3.007,0,0.202,0.595,0.0,0.203,0.789,127.656,audio_features,2NHSYwGkAvPHzCinY0KwXo,231261,3,Shape of You - Stormzy Remix,Ed Sheeran,55
 0.56,0.595,9,-4.53,1,0.0274,0.199,6.47e-05,0.132,0.144,104.011,audio_features,5hnyJvgoWiQUYZttV4wXy6,267960,4,Chasing Cars,Snow Patrol,84
-0.585,0.52,5,-6.136,0,0.0712,0.124,7.01e-05,0.131,0.129,159.801,audio_features,0e7ipj03S05BNilyu5bRzt,218147,4,rockstar (feat. 21 Savage),Post Malone,85
-0.585,0.52,5,-6.136,0,0.0712,0.124,7.01e-05,0.131,0.129,159.801,audio_features,0e7ipj03S05BNilyu5bRzt,218147,4,rockstar (feat. 21 Savage),Post Malone,85
 0.859,0.658,11,-4.79,1,0.159,0.145,0.0,0.12,0.672,100.065,audio_features,6XSqqQIy7Lm7SnwxS4NrGx,195987,4,CLASSY 101,Feid,91
-0.609,0.674,1,-3.007,0,0.202,0.595,0.0,0.203,0.789,127.656,audio_features,2NHSYwGkAvPHzCinY0KwXo,231261,3,Shape of You - Stormzy Remix,Ed Sheeran,55
-0.609,0.674,1,-3.007,0,0.202,0.595,0.0,0.203,0.789,127.656,audio_features,2NHSYwGkAvPHzCinY0KwXo,231261,3,Shape of You - Stormzy Remix,Ed Sheeran,55
 0.721,0.65,0,-6.95,0,0.135,0.0115,0.00014,0.34,0.392,130.487,audio_features,7Ck2si1vtgdPXdKGtWGGXr,179658,5,"The Humma Song (From ""OK Jaanu"")",A.R. Rahman,51
 0.671,0.369,2,-9.434,0,0.0323,0.855,7.09e-05,0.371,0.413,119.974,audio_features,6qVDKiB5OBsh7TlevCscNP,188550,4,Sunny,Fujii Kaze,44
-0.533,0.36,1,-12.633,1,0.0282,0.0805,1.03e-05,0.0631,0.299,131.229,audio_features,1Eb90nmqTrxylKFhcUzW8P,393640,4,(Everything I Do) I Do It For You,Bryan Adams,78
-0.533,0.36,1,-12.633,1,0.0282,0.0805,1.03e-05,0.0631,0.299,131.229,audio_features,1Eb90nmqTrxylKFhcUzW8P,393640,4,(Everything I Do) I Do It For You,Bryan Adams,78
-0.792,0.635,7,-13.94,0,0.0863,0.349,5.92e-06,0.324,0.648,122.004,audio_features,16XEVyPh5NT31CAAqPbxQF,422713,4,Aankhein Khuli,Jatin-Lalit,67
-0.792,0.635,7,-13.94,0,0.0863,0.349,5.92e-06,0.324,0.648,122.004,audio_features,16XEVyPh5NT31CAAqPbxQF,422713,4,Aankhein Khuli,Jatin-Lalit,67
 0.629,0.581,1,-7.541,0,0.0577,0.548,0.0,0.127,0.388,123.982,audio_features,5cW8MYnf2grO3q6n6U1ByF,195484,4,Derdim Olsun,Reynmen,54
 0.683,0.511,7,-7.894,0,0.0641,0.448,0.0,0.175,0.256,95.087,audio_features,6U14lalYsxura0tsoNSvdT,173021,4,Oye,TINI,44
 0.894,0.635,2,-6.929,1,0.0473,0.193,0.00105,0.0823,0.428,105.013,audio_features,14wf185UxfNbSy8dwt4r4q,249143,4,MAMACITA,Black Eyed Peas,67
@@ -2678,10 +2355,6 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.334,0.599,0,-5.742,1,0.0365,0.0468,0.000392,0.205,0.127,161.74,audio_features,32BeYxKPrig1LefHsC0Xuo,151444,3,Happier Than Ever - Edit,Billie Eilish,79
 0.625,0.98,5,-4.222,0,0.132,0.11,8.07e-06,0.409,0.408,113.027,audio_features,2ziVTVizQdVNC2QhQhNGvg,218005,4,Ways to Be Wicked,Dove Cameron,63
 0.738,0.525,6,-6.126,1,0.0398,0.807,0.0,0.108,0.529,123.939,audio_features,3PHU0ONrcG2jlpABW72egW,299032,4,กลับคำสาหล่า,Mike Piromporn,25
-0.762,0.766,7,-3.955,1,0.0343,0.00776,6.98e-05,0.128,0.442,130.001,audio_features,5fwSHlTEWpluwOM0Sxnh5k,287120,4,Pepas,Farruko,82
-0.762,0.766,7,-3.955,1,0.0343,0.00776,6.98e-05,0.128,0.442,130.001,audio_features,5fwSHlTEWpluwOM0Sxnh5k,287120,4,Pepas,Farruko,82
-0.762,0.766,7,-3.955,1,0.0343,0.00776,6.98e-05,0.128,0.442,130.001,audio_features,5fwSHlTEWpluwOM0Sxnh5k,287120,4,Pepas,Farruko,82
-0.762,0.766,7,-3.955,1,0.0343,0.00776,6.98e-05,0.128,0.442,130.001,audio_features,5fwSHlTEWpluwOM0Sxnh5k,287120,4,Pepas,Farruko,82
 0.559,0.541,10,-5.525,1,0.0313,0.34,4.66e-06,0.102,0.309,83.978,audio_features,4ZTx87kAgEwlPMzoojFZWg,264806,4,Tera Yaar Hoon Main,Rochak Kohli,69
 0.793,0.741,1,-6.494,1,0.0393,0.0794,0.00029,0.116,0.856,114.489,audio_features,5yxIenY5kSLlgTr3XGYw9p,220040,4,Rock With You,Michael Jackson,58
 0.44,0.489,4,-8.725,1,0.0392,0.254,0.0,0.709,0.239,94.026,audio_features,7aqbM1anoTfbbQKQqwMrER,251611,4,Prioridade,Midian Lima,53
@@ -2694,8 +2367,6 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.764,0.59,7,-4.292,1,0.0395,0.129,0.00847,0.0851,0.281,99.996,audio_features,5LciLoxa1gK70yIUeoHgRx,251773,4,To My Love - Tainy Remix,Bomba Estéreo,68
 0.72,0.997,2,-2.403,1,0.0625,0.00858,0.122,0.189,0.929,160.024,audio_features,7wKUqlOL9OES7gwPdgUcQl,169500,4,رايحين نسهر - بام بام,Mohamed Ramadan,59
 0.72,0.997,2,-2.403,1,0.0625,0.00858,0.122,0.189,0.929,160.024,audio_features,7wKUqlOL9OES7gwPdgUcQl,169500,4,رايحين نسهر - بام بام,Mohamed Ramadan,59
-0.72,0.997,2,-2.403,1,0.0625,0.00858,0.122,0.189,0.929,160.024,audio_features,7wKUqlOL9OES7gwPdgUcQl,169500,4,رايحين نسهر - بام بام,Mohamed Ramadan,59
-0.72,0.997,2,-2.403,1,0.0625,0.00858,0.122,0.189,0.929,160.024,audio_features,7wKUqlOL9OES7gwPdgUcQl,169500,4,رايحين نسهر - بام بام,Mohamed Ramadan,59
 0.601,0.786,1,-3.706,1,0.234,0.213,0.0,0.209,0.79,172.156,audio_features,0nwTMzpatarzvLvtwwzdCt,183267,4,Thunderous,Stray Kids,74
 0.688,0.702,7,-4.792,0,0.0499,0.0215,0.0,0.128,0.74,94.006,audio_features,6Knv6wdA0luoMUuuoYi2i1,192191,4,My House,Flo Rida,79
 0.585,0.759,0,-4.029,0,0.047,0.385,0.0,0.162,0.512,139.986,audio_features,4faUCG0CdNgMx0NkMMseOl,299141,4,Dillagi,Rahat Fateh Ali Khan,60
@@ -2705,8 +2376,6 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.738,0.62,10,-7.413,1,0.066,0.17,0.0,0.0773,0.2,115.046,audio_features,1CWi7KBl7TUIYgIH52KO6f,319587,4,Desperte Sin Ti - Remix,Noriel,56
 0.741,0.565,5,-5.448,0,0.108,0.114,0.0,0.205,0.892,134.122,audio_features,3JsydWaf2Ev4ehaLUjj3SY,248133,4,Confident,Justin Bieber,79
 0.711,0.761,8,-3.04,1,0.225,0.067,0.0,0.041,0.718,95.824,audio_features,5nEdwtSv0qqeE0l4o1lR4q,243880,4,(When You Gonna) Give It Up to Me (feat. Keyshia Cole) - Radio Version,Sean Paul,68
-0.738,0.62,10,-7.413,1,0.066,0.17,0.0,0.0773,0.2,115.046,audio_features,1CWi7KBl7TUIYgIH52KO6f,319587,4,Desperte Sin Ti - Remix,Noriel,56
-0.738,0.62,10,-7.413,1,0.066,0.17,0.0,0.0773,0.2,115.046,audio_features,1CWi7KBl7TUIYgIH52KO6f,319587,4,Desperte Sin Ti - Remix,Noriel,56
 0.859,0.533,6,-8.59,0,0.156,0.0293,0.0,0.138,0.514,96.453,audio_features,26XUAwGZqQEyy8Ubhtj4kq,253547,4,Feelin' Myself,will.i.am,62
 0.832,0.391,8,-8.504,1,0.0628,0.0564,0.0,0.224,0.436,104.961,audio_features,1RGIjMFMgJxkZHMDXVYzOJ,238800,4,Bartender (feat. Akon),T-Pain,76
 0.743,0.655,6,-5.015,0,0.159,0.114,0.0,0.0764,0.785,172.031,audio_features,05bfbizlM5AX6Mf1RRyMho,261335,4,AM Remix,Nio Garcia,74
@@ -2742,8 +2411,6 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.858,0.163,2,-8.583,1,0.0456,0.00278,0.472,0.202,0.31,112.981,audio_features,3XaOWXr0mp7nyYVtZVTWnR,307760,4,Shut up (In the Style of Black Eyed Peas) [Karaoke Version],Off The Record Karaoke,1
 0.575,0.786,9,-4.353,1,0.0296,0.252,0.0,0.159,0.518,96.102,audio_features,35o9a4iAfLl5jRmqMX9c1D,230093,4,Shape of My Heart,Backstreet Boys,75
 0.774,0.396,6,-15.491,1,0.101,0.218,0.55,0.129,0.255,113.388,audio_features,4r3SQqBCqN2EY7kUmsAQHG,117969,4,All Girls Are The Same (Sped Up + Pitched) - Remix,Xanemusic,50
-0.688,0.62,11,-8.029,0,0.22,0.753,5.32e-06,0.157,0.727,170.011,audio_features,2sJygjN3dXJztCeI5hS7VR,360960,4,Pa Mí - Remix,Dalex,24
-0.688,0.62,11,-8.029,0,0.22,0.753,5.32e-06,0.157,0.727,170.011,audio_features,2sJygjN3dXJztCeI5hS7VR,360960,4,Pa Mí - Remix,Dalex,24
 0.59,0.664,10,-5.502,0,0.0331,0.00641,0.0,0.332,0.58,130.027,audio_features,4FGYzQqH2i1E3OtuMydnzY,280170,4,Öyle Kolaysa,Mabel Matiz,65
 0.74,0.859,0,-4.742,0,0.033,0.0365,1.08e-05,0.0639,0.782,130.011,audio_features,1VG7hlZpY73n8h8NgidVTh,212040,4,Carnaval,Maluma,62
 0.759,0.903,4,-6.132,0,0.0725,0.0605,6.32e-06,0.232,0.628,110.003,audio_features,2Z75W3sVrq9hVGJOskxcAw,296829,4,Pallo Latke,Zain - Sam,21
@@ -2761,8 +2428,6 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.785,0.652,0,-2.607,1,0.0668,0.102,0.0,0.0697,0.484,170.024,audio_features,7f5trao56t7sB7f14QDTmp,203093,4,Juicy,Doja Cat,72
 0.652,0.631,6,-5.718,0,0.0893,0.524,0.000579,0.165,0.35,127.998,audio_features,7AzlLxHn24DxjgQX73F9fU,154424,4,No Idea,Don Toliver,83
 0.803,0.324,9,-13.118,0,0.202,0.836,0.0,0.572,0.283,133.957,audio_features,7c1OyCwBQIpyyMD7ygRxer,244142,4,Coração de Aço,Hungria Hip Hop,67
-0.908,0.813,5,-2.749,0,0.0777,0.305,0.0,0.278,0.924,97.018,audio_features,4DHDIdeayp8xvlyg22wREO,200785,4,Ram Pam Pam,NATTI NATASHA,64
-0.908,0.813,5,-2.749,0,0.0777,0.305,0.0,0.278,0.924,97.018,audio_features,4DHDIdeayp8xvlyg22wREO,200785,4,Ram Pam Pam,NATTI NATASHA,64
 0.434,0.872,0,-2.974,1,0.0702,0.0473,1.83e-06,0.396,0.732,71.515,audio_features,1L5tZi0izXsi5Kk5OJf4W0,213760,4,Rehab,Amy Winehouse,65
 0.755,0.953,10,-5.52,0,0.0613,0.276,0.000178,0.184,0.965,160.02,audio_features,5SxP3Zc45twaKfPN92a6Yj,210682,4,البنات,Omar Kamal,25
 0.464,0.813,10,-6.185,1,0.0416,0.0153,0.0,0.254,0.515,75.977,audio_features,6xHI9KjUjYT0FPtGO8Mxa1,222533,4,Hurricane,Luke Combs,79
@@ -2770,24 +2435,15 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.595,0.912,10,-3.428,0,0.0884,0.0434,0.0,0.259,0.762,128.024,audio_features,3rfhI32Il2hVRKDkuGeeen,234453,4,Hey Baby (Drop It to the Floor) (feat. T-Pain),Pitbull,78
 0.595,0.912,10,-3.428,0,0.0884,0.0434,0.0,0.259,0.762,128.024,audio_features,3rfhI32Il2hVRKDkuGeeen,234453,4,Hey Baby (Drop It to the Floor) (feat. T-Pain),Pitbull,78
 0.673,0.735,5,-4.733,1,0.0457,0.286,0.0,0.242,0.754,115.744,audio_features,4ofwffwvvnbSkrMSCKQDaC,201287,4,Shotgun,George Ezra,78
-0.595,0.912,10,-3.428,0,0.0884,0.0434,0.0,0.259,0.762,128.024,audio_features,3rfhI32Il2hVRKDkuGeeen,234453,4,Hey Baby (Drop It to the Floor) (feat. T-Pain),Pitbull,78
-0.595,0.912,10,-3.428,0,0.0884,0.0434,0.0,0.259,0.762,128.024,audio_features,3rfhI32Il2hVRKDkuGeeen,234453,4,Hey Baby (Drop It to the Floor) (feat. T-Pain),Pitbull,78
-0.754,0.549,0,-6.932,1,0.0399,0.477,0.0,0.0915,0.803,90.654,audio_features,7CaC5VWzW0iojBLEJtbiUT,180573,4,17 Años,Los Ángeles Azules,23
-0.754,0.549,0,-6.932,1,0.0399,0.477,0.0,0.0915,0.803,90.654,audio_features,7CaC5VWzW0iojBLEJtbiUT,180573,4,17 Años,Los Ángeles Azules,23
 0.676,0.723,8,-4.103,0,0.129,0.211,0.0,0.475,0.721,73.723,audio_features,7B8GymLOBg5yJmLc6PihXg,193753,4,oui - Sped Up,Jeremih,51
 0.278,0.572,7,-8.295,1,0.0407,0.392,0.0,0.063,0.311,95.351,audio_features,2f0Ft2XdvNSMSY5TUlZgEz,253760,3,Saturno,Pablo Alborán,78
 0.793,0.824,2,-3.476,1,0.177,0.006,3.29e-06,0.169,0.611,98.019,audio_features,4dSoDnmR9opAQ8KxUc9SbC,199945,4,Mad Love,Sean Paul,63
 0.386,0.677,2,-5.83,1,0.0346,0.00841,0.00366,0.341,0.195,126.602,audio_features,42T2QQv3xgBlpQxaSP7lnK,238240,4,One Last Breath,Creed,77
 0.607,0.865,8,-3.63,0,0.094,0.0913,0.0,0.354,0.545,135.489,audio_features,2CKg2u26mtyRYodwbxmA8l,162960,4,Decide Aí - Na Praia / Ao Vivo,Matheus & Kauan,70
-0.608,0.798,6,-5.092,0,0.0432,0.0736,0.0,0.156,0.501,92.943,audio_features,5x9uAWpQ0qj8V61xckw6TV,185352,4,Cold Water (feat. Justin Bieber & MØ),Major Lazer,61
-0.608,0.798,6,-5.092,0,0.0432,0.0736,0.0,0.156,0.501,92.943,audio_features,5x9uAWpQ0qj8V61xckw6TV,185352,4,Cold Water (feat. Justin Bieber & MØ),Major Lazer,61
-0.608,0.798,6,-5.092,0,0.0432,0.0736,0.0,0.156,0.501,92.943,audio_features,5x9uAWpQ0qj8V61xckw6TV,185352,4,Cold Water (feat. Justin Bieber & MØ),Major Lazer,61
 0.73,0.534,2,-5.753,0,0.0282,0.468,0.0,0.168,0.467,124.933,audio_features,7EDEbNBsxgsTOfrOifN37a,209907,4,Mi Razón De Ser,Banda Sinaloense MS de Sergio Lizárraga,65
 0.843,0.806,4,-5.946,0,0.269,0.143,0.0,0.0771,0.613,94.948,audio_features,0I3q5fE6wg7LIfHGngUTnV,270507,4,Ms. Jackson,Outkast,83
 0.853,0.909,7,-2.473,1,0.229,0.0522,0.0223,0.129,0.803,112.987,audio_features,5q7icrT1Wn8PHaePIjYYyg,178407,4,Singapur,El Alfa,70
 0.467,0.586,7,-3.942,1,0.0357,0.218,0.0,0.12,0.318,169.93,audio_features,0uIGzK6ukV0A5yWoCxPkRL,251613,4,California King Bed,Rihanna,61
-0.583,0.817,9,-5.146,0,0.099,0.118,0.0,0.338,0.437,105.935,audio_features,0fZRNhPJ4AGmwY7rkpdbqK,246381,4,ON,BTS,72
-0.583,0.817,9,-5.146,0,0.099,0.118,0.0,0.338,0.437,105.935,audio_features,0fZRNhPJ4AGmwY7rkpdbqK,246381,4,ON,BTS,72
 0.825,0.771,1,-4.116,1,0.0805,0.0167,2.04e-06,0.0901,0.717,102.928,audio_features,4W3FJapn5CD6Fnrlfj4HFe,173366,4,Booty,C. Tangana,61
 0.761,0.933,10,-5.38,1,0.056,0.0908,8.53e-05,0.0607,0.836,122.959,audio_features,4Y7XAxTANhu3lmnLAzhWJW,236200,4,Fireball (feat. John Ryan),Pitbull,77
 0.761,0.933,10,-5.38,1,0.056,0.0908,8.53e-05,0.0607,0.836,122.959,audio_features,4Y7XAxTANhu3lmnLAzhWJW,236200,4,Fireball (feat. John Ryan),Pitbull,77
@@ -2801,8 +2457,6 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.84,0.789,1,-4.695,0,0.0949,0.102,0.0,0.309,0.619,92.018,audio_features,1l89iNLbzfFN9TsWJORolB,211438,4,Díganle - Tainy Remix,Leslie Grace,55
 0.655,0.725,0,-5.497,1,0.188,0.0327,0.00264,0.0611,0.326,125.8,audio_features,1khmgu0pveJbkbpbkyvcQv,300579,4,La Romana,Bad Bunny,75
 0.626,0.923,9,-7.012,0,0.046,0.15,6.03e-05,0.0414,0.86,114.021,audio_features,6Rkl10M1hGj0bvN3TlQ3KI,353000,4,Kasam Khake Kaho,Alka Yagnik,52
-0.761,0.933,10,-5.38,1,0.056,0.0908,8.53e-05,0.0607,0.836,122.959,audio_features,4Y7XAxTANhu3lmnLAzhWJW,236200,4,Fireball (feat. John Ryan),Pitbull,77
-0.761,0.933,10,-5.38,1,0.056,0.0908,8.53e-05,0.0607,0.836,122.959,audio_features,4Y7XAxTANhu3lmnLAzhWJW,236200,4,Fireball (feat. John Ryan),Pitbull,77
 0.712,0.696,1,-4.778,0,0.303,0.323,0.000431,0.107,0.564,183.982,audio_features,42NUrjx6cy23vTp2JyUawT,234783,4,Trending Nakhra,Amrit Maan,55
 0.579,0.841,2,-4.073,0,0.0324,0.314,0.0,0.199,0.964,165.934,audio_features,7yAwyQ2np0KRjeXsGwirez,159027,3,Dámaso,Gerardo Ortiz,70
 0.699,0.588,9,-6.533,0,0.0402,0.00807,0.000131,0.107,0.35,151.971,audio_features,28tufPkTcXmdNqTvi9hsoG,199122,4,Pretty Savage,BLACKPINK,71
@@ -2837,17 +2491,11 @@ danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,
 0.655,0.858,0,-5.607,0,0.315,0.53,0.0,0.344,0.65,83.489,audio_features,3TqLIW3qd4qFYkfYsBjVN6,396120,4,Delincuente,Farruko,63
 0.67,0.676,8,-4.725,1,0.037,0.0201,0.0,0.11,0.349,114.974,audio_features,7gd01LMH2gBcoDngSt8sq9,265813,4,Next To You (feat. Justin Bieber),Chris Brown,73
 0.766,0.721,6,-4.46,0,0.0738,0.0527,0.0,0.128,0.81,92.001,audio_features,4k9byIhs9ppbYWE22waJMB,201227,4,No Te Vayas,Camilo,56
-0.613,0.622,1,-5.794,0,0.0334,0.00882,0.0,0.37,0.484,80.003,audio_features,2y4lAQpi5VTNLu2ldeTdUH,231240,4,We Can't Stop,Miley Cyrus,80
-0.613,0.622,1,-5.794,0,0.0334,0.00882,0.0,0.37,0.484,80.003,audio_features,2y4lAQpi5VTNLu2ldeTdUH,231240,4,We Can't Stop,Miley Cyrus,80
 0.641,0.614,7,-7.847,1,0.0532,0.0745,0.0,0.093,0.727,81.011,audio_features,1qCLx3nX25NuhfPjM5E1qV,210889,4,Ouvi Dizer,Melim,69
 0.749,0.851,10,-3.026,1,0.0454,0.743,0.0,0.634,0.73,129.778,audio_features,12puYeA038SUBqsn0nXATn,192347,4,Até Você Voltar - Ao Vivo,Henrique & Juliano,29
 0.627,0.818,1,-3.086,1,0.103,0.378,0.0,0.246,0.449,161.857,audio_features,6F7tttrdq7aUdxXVeo0nKp,183413,4,Foi Pá Pum,Simone & Simaria,58
 0.533,0.967,1,-2.543,1,0.0995,0.00791,0.0,0.336,0.782,142.018,audio_features,4CbKVDZkYKdv69I4bCaKUq,186813,4,Hero,Skillet,75
 0.69,0.738,0,-4.046,1,0.0533,0.189,0.0,0.109,0.642,113.824,audio_features,6t7PuZfHAtNGheWisgUq3I,233684,3,Kya Loge Tum,B Praak,73
 0.636,0.674,10,-5.981,1,0.0283,0.234,0.0,0.135,0.43,144.022,audio_features,0mjwunHon4ve2wM4wPyZC4,211998,4,Same Time Tomorrow,Brandon Davis,23
-0.874,0.869,11,-6.563,0,0.131,0.0614,7.74e-05,0.0278,0.781,140.065,audio_features,1DDbHdoDBDDk4ftBXrV0KP,188552,4,Xúc Xắc Xúc Xẻ,Bé Bảo An,11
-0.874,0.869,11,-6.563,0,0.131,0.0614,7.74e-05,0.0278,0.781,140.065,audio_features,1DDbHdoDBDDk4ftBXrV0KP,188552,4,Xúc Xắc Xúc Xẻ,Bé Bảo An,11
 0.601,0.741,2,-5.569,1,0.0478,0.185,2.91e-05,0.415,0.441,153.96,audio_features,6I3mqTwhRpn34SLVafSH7G,153190,4,Ghost,Justin Bieber,89
-0.3,0.689,11,-4.873,1,0.04,0.451,0.0,0.936,0.359,111.219,audio_features,5oPcQjaNQjqCW7CV4SjDDt,212851,4,A Maior Saudade / Como É Que A Gente Fica - Ao Vivo Em Nova Iorque / 2022,Henrique & Juliano,53
-0.3,0.689,11,-4.873,1,0.04,0.451,0.0,0.936,0.359,111.219,audio_features,5oPcQjaNQjqCW7CV4SjDDt,212851,4,A Maior Saudade / Como É Que A Gente Fica - Ao Vivo Em Nova Iorque / 2022,Henrique & Juliano,53
 0.596,0.85,11,-4.528,1,0.0523,0.608,0.0,0.41,0.531,138.057,audio_features,7nwHsYxiuHo98dLI7UVkyn,165000,4,A Culpa É Nossa - Ao Vivo,Maiara & Maraisa,75
