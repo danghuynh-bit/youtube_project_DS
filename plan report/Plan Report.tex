@@ -1,0 +1,213 @@
+\documentclass[13pt]{article}
+\usepackage{titleps}
+\usepackage{fancyhdr}
+\usepackage{graphicx}
+\usepackage[utf8]{inputenc}
+\usepackage[T5,T1]{fontenc}
+\usepackage[english]{babel}
+\usepackage[a4paper, margin=2cm]{geometry}
+\usepackage{tikz}
+\usepackage{hyperref}
+\usepackage{float}
+\usepackage{longtable}
+\usepackage{caption}
+\usepackage{adjustbox}
+
+
+\usetikzlibrary{calc}
+
+\definecolor{myblue}{RGB}{38,80,115}
+\newcommand{\HRule}{\textcolor{myblue}{\rule{\linewidth}{0.5mm}}}
+
+\begin{document}
+\begin{titlepage}
+    \centering
+
+    \begin{tikzpicture}[remember picture,overlay]
+        \draw[line width=2pt, myblue] ($(current page.north west) + (1cm,-1cm)$) rectangle ($(current page.south east) + (-1cm,1cm)$);
+    \end{tikzpicture}
+    
+    {\textbf{\Huge Vietnam National University - HCMC}}\\[0.6cm]
+    {\textbf{\LARGE UNIVERSITY OF SCIENCE}}\\[0.4cm]
+    {\textbf{\large FACULTY OF INFORMATION TECHNOLOGY}}\\[0.4cm]
+    \includegraphics[width=0.5\textwidth]{img/Logo.png} \\
+    
+    \HRule \\[0.4cm]
+    { 
+    \LARGE{\bfseries PLAN REPORT ON FINAL PROJECT}\\[0.5cm]
+    \large{\bfseries Topic: RESEARCH ON MUSIC TASTE WORDWIDELY}
+    }\\[0.4cm]
+    \HRule \\[1cm]
+    
+    \textbf{\LARGE Course: Introduction to Data Science}\\[0.5cm]
+    
+    \begin{minipage}[t]{0.5\textwidth}
+        \begin{flushleft} \large
+            \emph{Student on Project: Group 8}\\
+            \large 21127528 - Nguyen Thi Minh Minh \\
+            \large 21127063 - Nguyen Van Dang Huynh \\
+            \large 21127423 - Tran Hieu Tam
+        \end{flushleft}
+    \end{minipage}
+    ~
+    \begin{minipage}[t]{0.4\textwidth}
+        \begin{flushright} \large
+            \emph{Instructor: } \\
+            \large Teacher: Nguyen Bao Long \\
+            \large Teacher: Le Ngoc Thanh \\
+            \large Teacher: Pham Trong Nghia \\
+            \large Teacher: Nguyen Ngoc Thao
+        \end{flushright}
+    \end{minipage}\\[5 cm]
+    
+    {\large \today}\\[1cm]
+
+    \vfill
+\end{titlepage}
+
+\newpage
+\tableofcontents
+
+\newpage
+\section{Member Information}
+
+\renewcommand{\arraystretch}{1.5} 
+
+\begin{table}[h]
+    \centering
+    \begin{tabular}{|c|p{5cm}|c|p{6cm}|}
+    \hline
+       \textbf{STT} & \textbf{Full name} & \textbf{Student ID} & \textbf{Email} \\
+    \hline
+        1 & Nguyen Thi Minh Minh & 21127528 & ntmminh21@clc.fitus.edu.vn \\
+    \hline
+        2 & Nguyen Van Dang Huynh & 21127063 & nvdhuynh21@clc.fitus.edu.vn \\
+    \hline
+        3 & Tran Hieu Tam & 21127423 & thtam21@clc.fitus.edu.vn \\
+    \hline
+    \end{tabular}
+    \caption{Member Information}
+    \label{tab:mytable}
+\end{table}
+
+
+\section{Project Information}
+
+\subsection{Project Title}
+Research on music taste wordwidely
+\subsection{Project Description}
+*This part writen later
+
+
+\newpage
+
+\section{Project Plan}
+
+\subsection{Project Schedule: Phase 1}
+\begin{table}[h]
+    \centering
+    \begin{tabular}{|c|p{4cm}|p{5cm}|c|c|}
+    \hline
+       \textbf{STT} & \textbf{Task} & \textbf{Content} & \textbf{Member} & \textbf{Due date}\\
+    \hline
+        1 & First meeting & Meeting and decide topic. & All & 27/11/2023\\
+    \hline
+        2 & Making plan on Trello & Making plan on Trello & 21127423 & 27/11/2023\\
+    \hline
+        3 & Crawl Data (1st Crawl) & Crawl data from web kworb.net & 21127528 & 27/11/2023 - 29/11/2023\\
+    \hline
+        4 & Crawl Data (2nd Crawl) & Crawl data from web kworb.net & 21127423 & 27/11/2023 - 29/11/2023\\
+    \hline
+        5 & Crawl Data (3rd Crawl) & Crawl data from Youtube using API & 21127063 & 27/11/2023 - 29/11/2023\\
+    \hline
+        6 & Crawl Data (4th Crawl) & Crawl data from Spotify using API & 21127528 & 29/11/2023 - 31/11/2023\\
+    \hline
+        7 & Write Introduction Notebook & Write introduction notebook & 21127423 & 29/11/2023 - 31/11/2023\\
+    \hline
+        8 & Second Meeting & Gather all data collected and plan for next phase & All & 31/11/2023\\
+    \hline
+    \end{tabular}
+    \caption{Project Schedule: Phase 1}
+    \label{tab:mytable}
+\end{table}
+
+\subsection{Project Schedule: Phase 2}
+\begin{table}[H]
+    \centering
+    \begin{tabular}{|c|p{4cm}|p{5cm}|c|c|}
+    \hline
+       \textbf{STT} & \textbf{Task} & \textbf{Content} & \textbf{Member} & \textbf{Due date}\\
+    \hline
+        1 & Data Processing (1st process) & Process data on the first sample & 21127063 & 31/11/2023 - 02/12/2023\\
+    \hline
+        2 & Data Processing (2nd process) & Process data on the first sample & 21127423 & 31/11/2023 - 02/12/2023\\
+    \hline
+        3 & Data Processing (3rd process) & Process data on the second sample & 21127528 & 31/11/2023 - 02/11/2023\\
+    \hline
+        4 & Data Exporation (Basic Level) & Doing overview on the first and second sample & 
+        21127063 & 02/12/2023 - 03/12/2023\\
+    \hline
+        5 & Data Exporation (Basic Level) & Doing overview on the first and second sample & 
+        21127528 & 02/12/2023 - 03/12/2023\\
+    \hline
+        6 & Data Exporation (Advanced Level) & Propose 2 questions and answer with visualization & 21127423 & 02/12/2023 - 04/12/2023\\
+    \hline
+        7 & Data Exporation (Advanced Level) & Propose 3 questions and answer with visualization & 21127063 & 02/12/2023 - 04/12/2023\\
+    \hline
+        8 & Data Exporation (Advanced Level) & Propose 2 questions and answer with visualization & 21127528 & 02/12/2023 - 04/12/2023\\
+    \hline
+        9 & Third Meeting & Gather all data exporation sample and plan for next phase & All & 04/12/2023\\
+    \hline
+    \end{tabular}
+    \caption{Project Schedule: Phase 2}
+    \label{tab:mytable}
+\end{table}
+
+\subsection{Project Schedule: Phase 3}
+\begin{table}[H]
+    \centering
+    \begin{tabular}{|c|p{4cm}|p{5cm}|c|c|}
+    \hline
+       \textbf{STT} & \textbf{Task} & \textbf{Content} & \textbf{Member} & \textbf{Due date}\\
+    \hline
+        1 & Data Modeling (1st) & Data Preparation & 21127528 & 04/12/2023 - 05/12/2023\\
+    \hline
+        2 & Data Modeling (1st) & Problem statement and Data Preparation & 21127063 & 04/12/2023 - 05/12/2023\\
+    \hline
+        3 & Data Modeling (2nd) & Build Model 1: Linear Regression & 21127063 & 05/12/2023 - 09/12/2023\\
+    \hline
+        4 & Data Modeling (3rd) & Build Model 2 &  & 05/11/2023 - 09/12/2023\\
+    \hline
+        5 & Data Modeling (4th) & Build Model 3 &  & 05/11/2023 - 09/12/2023\\
+    \hline
+        6 & Data Modeling (5th) & Evaluate Models &  & 09/12/2023 - 10/12/2023\\
+    \hline
+    \end{tabular}
+    \caption{Project Schedule: Phase 3}
+    \label{tab:mytable}
+\end{table}
+
+
+\subsection{Project Schedule: Phase 4}
+\begin{table}[h]
+    \centering
+    \begin{tabular}{|c|p{4cm}|p{5cm}|c|c|}
+    \hline
+       \textbf{STT} & \textbf{Task} & \textbf{Content} & \textbf{Member} & \textbf{Due date}\\
+    \hline
+        1 & Final Meeting & Gather all data modeling sample and start final report & All & 11/12/2023\\
+    \hline
+        2 & Write Plan Report & Write plan report & 21127528 & 12/12/2023\\
+    \hline
+        3 & Slide for presentation & Slide for presentation & 21127423 & 11/12/2023 - 13/12/2023\\
+    \hline
+        4 & Reorganize Source code and Report & Reorganize Source code and Report & 21127063 & 11/12/2023 - 13/12/2023\\
+    \hline
+    \end{tabular}
+    \caption{Project Schedule: Phase 4}
+    \label{tab:mytable}
+\end{table}
+
+\end{document}
+
+
