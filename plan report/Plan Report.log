@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.5.23)  14 DEC 2023 17:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.5.23)  14 DEC 2023 20:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -762,7 +762,7 @@ Package hyperref Info: Link coloring OFF on input line 22.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-<img/Logo.png, id=42, 597.9138pt x 597.9138pt>
+<img/Logo.png, id=46, 597.9138pt x 597.9138pt>
 File: img/Logo.png Graphic file (type png)
 <use img/Logo.png>
 Package pdftex.def Info: img/Logo.png  used on input line 33.
@@ -783,63 +783,67 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has b
 <to be read again> 
                    \relax 
 l.71 \newpage
-              [1] [2]
-Underfull \hbox (badness 1009) in paragraph at lines 127--127
+              [1]
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 108.
+ (C:\Users\Hp\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
+File: t1cmtt.fd 2022/07/10 v2.5l Standard LaTeX font definitions
+) [2]
+Underfull \hbox (badness 1009) in paragraph at lines 136--136
 []\T1/cmr/m/n/10 Gather all data col-lected and
  []
 
 
-Overfull \hbox (6.89091pt too wide) in paragraph at lines 109--130
+Overfull \hbox (6.89091pt too wide) in paragraph at lines 118--139
  [][] 
  []
 
 
-Underfull \hbox (badness 2269) in paragraph at lines 147--147
+Underfull \hbox (badness 2269) in paragraph at lines 156--156
 []\T1/cmr/m/n/10 Data Ex-po-ra-tion (Ba-sic
  []
 
 
-Underfull \hbox (badness 2269) in paragraph at lines 150--150
+Underfull \hbox (badness 2269) in paragraph at lines 159--159
 []\T1/cmr/m/n/10 Data Ex-po-ra-tion (Ba-sic
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 153--153
+Underfull \hbox (badness 10000) in paragraph at lines 162--162
 []\T1/cmr/m/n/10 Data Ex-po-ra-tion (Ad-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 155--155
+Underfull \hbox (badness 10000) in paragraph at lines 164--164
 []\T1/cmr/m/n/10 Data Ex-po-ra-tion (Ad-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 157--157
+Underfull \hbox (badness 10000) in paragraph at lines 166--166
 []\T1/cmr/m/n/10 Data Ex-po-ra-tion (Ad-
  []
 
 
-Overfull \hbox (6.89091pt too wide) in paragraph at lines 137--162
+Overfull \hbox (6.89091pt too wide) in paragraph at lines 146--171
  [][] 
  []
 
 
-Underfull \hbox (badness 2547) in paragraph at lines 175--175
+Underfull \hbox (badness 2547) in paragraph at lines 184--184
 []\T1/cmr/m/n/10 Problem state-ment and Data
  []
 
 
-Overfull \hbox (6.89091pt too wide) in paragraph at lines 169--186
+Overfull \hbox (6.89091pt too wide) in paragraph at lines 178--195
  [][] 
  []
 
 [3]
-Underfull \hbox (badness 3199) in paragraph at lines 204--204
+Underfull \hbox (badness 3199) in paragraph at lines 213--213
 []\T1/cmr/m/n/10 Reorganize Source code
  []
 
 
-Overfull \hbox (6.89091pt too wide) in paragraph at lines 194--207
+Overfull \hbox (6.89091pt too wide) in paragraph at lines 203--216
  [][] 
  []
 
@@ -848,20 +852,20 @@ Overfull \hbox (6.89091pt too wide) in paragraph at lines 194--207
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `"Plan Report".out' has not changed.
-(rerunfilecheck)             Checksum: 8C458DFF8BF7C445C46271DAF63BF650;1427.
+(rerunfilecheck)             Checksum: F03FB856EDBBF9F5D939BDA35D7F40AA;1591.
  ) 
 Here is how much of TeX's memory you used:
- 24203 strings out of 476411
- 455784 string characters out of 5790550
- 1877845 words of memory out of 5000000
- 44145 multiletter control sequences out of 15000+600000
- 519912 words of font info for 42 fonts, out of 8000000 for 9000
+ 24230 strings out of 476411
+ 456525 string characters out of 5790550
+ 1878845 words of memory out of 5000000
+ 44166 multiletter control sequences out of 15000+600000
+ 520560 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,10n,89p,497b,494s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\Hp\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\Hp\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\Hp\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\Hp\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\Hp\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1200.pk> <C:\Users\Hp\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\Hp\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\Hp\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk>
-Output written on "Plan Report.pdf" (5 pages, 296159 bytes).
+ 84i,10n,89p,526b,494s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\Hp\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1000.pk> <C:\Users\Hp\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk> <C:\Users\Hp\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\Hp\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\Hp\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\Hp\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\Hp\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1200.pk> <C:\Users\Hp\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\Hp\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\Hp\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk>
+Output written on "Plan Report.pdf" (5 pages, 312927 bytes).
 PDF statistics:
- 373 PDF objects out of 1000 (max. 8388607)
- 20 named destinations out of 1000 (max. 500000)
- 90 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 431 PDF objects out of 1000 (max. 8388607)
+ 21 named destinations out of 1000 (max. 500000)
+ 98 words of extra memory for PDF output out of 10000 (max. 10000000)
 

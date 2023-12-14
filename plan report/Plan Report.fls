@@ -451,9 +451,19 @@ INPUT .\Plan Report.toc
 INPUT Plan Report.toc
 INPUT Plan Report.toc
 OUTPUT Plan Report.toc
+INPUT C:\Users\Hp\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1000.tfm
+INPUT C:\Users\Hp\AppData\Local\Programs\MiKTeX\tex\latex\base\t1cmtt.fd
+INPUT C:\Users\Hp\AppData\Local\Programs\MiKTeX\tex\latex\base\t1cmtt.fd
+INPUT C:\Users\Hp\AppData\Local\Programs\MiKTeX\tex\latex\base\t1cmtt.fd
+INPUT C:\Users\Hp\AppData\Local\Programs\MiKTeX\tex\latex\base\t1cmtt.fd
+INPUT C:\Users\Hp\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ectt1000.tfm
 INPUT Plan Report.aux
 INPUT .\Plan Report.out
 INPUT .\Plan Report.out
+INPUT C:\Users\Hp\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ectt1000.pk
+INPUT C:\Users\Hp\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ectt1000.pk
+INPUT C:\Users\Hp\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
+INPUT C:\Users\Hp\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
 INPUT C:\Users\Hp\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1000.pk
 INPUT C:\Users\Hp\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1000.pk
 INPUT C:\Users\Hp\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1000.pk
